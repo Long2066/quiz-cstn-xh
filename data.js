@@ -1344,6 +1344,20 @@ const QUESTION_BANK = [
     "explanation": "Triều Nguyễn KHÔNG đẩy mạnh công nghiệp hóa, đây không phải nguyên nhân suy yếu."
   },
   {
+    "id": "his_15",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Điểm hạn chế lớn nhất của nhà Nguyễn trước sự xâm lược của thực dân Pháp là:",
+    "options": [
+      "Không xây dựng quân đội.",
+      "Không có hệ thống hành chính thống nhất.",
+      "Thực hiện đường lối đối ngoại và cải cách thiếu phù hợp với bối cảnh lịch sử.",
+      "Không quan tâm phát triển nông nghiệp."
+    ],
+    "answer": 2,
+    "explanation": "Hạn chế lớn nhất là đường lối đối ngoại bế quan tỏa cảng và từ chối cải cách, không phù hợp với bối cảnh thế giới đang thay đổi."
+  },
+  {
     "id": "his_16",
     "subject": "his",
     "subjectName": "Lịch sử - Xã hội",
