@@ -233,14 +233,9 @@ function renderQuestion() {
     </button>`;
   }).join('');
   
-  // Explanation
+  // Explanation - chỉ hiện khi xem lại sau khi nộp bài, KHÔNG hiện khi đang thi
   const expBox = document.getElementById('explanation-box');
-  if (showResult && q.explanation) {
-    expBox.style.display = '';
-    document.getElementById('explanation-content').textContent = q.explanation;
-  } else {
-    expBox.style.display = 'none';
-  }
+  expBox.style.display = 'none';
   
   // Nav buttons
   document.getElementById('btn-prev').disabled = idx === 0;
