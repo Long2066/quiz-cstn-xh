@@ -868,6 +868,20 @@ const QUESTION_BANK = [
     "explanation": "Không khí gồm khoảng 78% nitrogen, 21% oxygen và một số khí khác."
   },
   {
+    "id": "phy_4",
+    "subject": "phy",
+    "subjectName": "Lý - Hóa",
+    "question": "Khí oxygen không tác dụng được với chất nào sau đây?",
+    "options": [
+      "Ag",
+      "S",
+      "P",
+      "Fe"
+    ],
+    "answer": 0,
+    "explanation": "Bạc (Ag) là kim loại quý, có tính bền hóa học cao, không phản ứng trực tiếp với O2 ở điều kiện thường. Còn S, P, Fe đều cháy được trong oxygen."
+  },
+  {
     "id": "phy_5",
     "subject": "phy",
     "subjectName": "Lý - Hóa",
