@@ -135,10 +135,17 @@ function startExam() {
   // Mỗi lần bấm thi đều tạo seed ngẫu nhiên mới → đảo câu + đảo đáp án khác nhau
   const seed = state.examDe * 12345 + Date.now();
   
-  // Generate 50 questions shuffled with random seed
+  // Generate 50 questions shuffled, đảm bảo không trùng lặp
   let allQ = QUESTION_BANK.map(q => ({...q, options: [...q.options]}));
   allQ = seededShuffle(allQ, seed);
-  const examQ = allQ.slice(0, 50).map((q, idx) => {
+  // Loại trùng theo ID
+  const seen = new Set();
+  const unique = [];
+  for (const q of allQ) {
+    if (!seen.has(q.id)) { seen.add(q.id); unique.push(q); }
+    if (unique.length >= 50) break;
+  }
+  const examQ = unique.map((q, idx) => {
     const newQ = {...q, options: [...q.options]};
     const optMap = [0,1,2,3];
     seededShuffleInPlace(optMap, seed + idx * 9973);
