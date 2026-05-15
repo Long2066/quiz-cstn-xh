@@ -81,6 +81,8 @@ a{color:var(--primary);text-decoration:none}
 .card-progress{height:4px;background:var(--border);border-radius:4px;overflow:hidden}
 .card-progress-fill{height:100%;border-radius:4px;transition:width .5s;background:var(--card-color,var(--primary))}
 .card-btn{margin-top:14px;display:flex;align-items:center;gap:6px;color:var(--card-color,var(--primary));font-weight:600;font-size:.85rem}
+.btn-group-back{grid-column:1/-1;width:max-content;box-shadow:none}
+.group-card .card-title{text-transform:uppercase;letter-spacing:.02em}
 
 /* ===== EXAM CARD ===== */
 .exam-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:24px;position:relative;overflow:hidden}
@@ -91,7 +93,15 @@ a{color:var(--primary);text-decoration:none}
 .exam-card-header p{font-size:.8rem;color:var(--text3);margin-top:2px}
 .exam-options{display:flex;gap:24px;flex-wrap:wrap;margin-bottom:20px}
 .exam-option-group{flex:1;min-width:200px}
+.exam-course-group{flex-basis:100%}
 .exam-option-group label{display:block;font-size:.8rem;font-weight:600;color:var(--text2);margin-bottom:8px}
+.exam-course-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:8px}
+.exam-course-btn{padding:12px 14px;border-radius:var(--radius-sm);background:var(--bg3);border:2px solid var(--border);text-align:left;transition:all .2s;min-height:72px}
+.exam-course-btn span{display:block;font-weight:700;font-size:.9rem}
+.exam-course-btn small{display:block;margin-top:3px;color:var(--text3);font-size:.72rem;line-height:1.4}
+.exam-course-btn:hover{border-color:var(--primary-light)}
+.exam-course-btn.active{background:var(--primary-bg);border-color:var(--primary);color:var(--primary)}
+.exam-course-btn.active small{color:var(--primary)}
 .exam-select-row{display:flex;gap:8px}
 .exam-de-btn{padding:8px 16px;border-radius:var(--radius-sm);font-size:.85rem;font-weight:600;background:var(--bg3);border:2px solid var(--border);transition:all .2s}
 .exam-de-btn:hover{border-color:var(--primary-light)}

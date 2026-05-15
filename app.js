@@ -13,6 +13,8 @@ let state = {
   startTime: null,
   submitted: false,
   reviewFilter: 'all',
+  activeGroup: null,
+  examCourse: 'cstnxh',
   history: JSON.parse(localStorage.getItem('quiz_history') || '[]')
 };
 
@@ -43,21 +45,68 @@ function renderHome() {
   const grid = document.getElementById('subject-grid');
   const totalQ = QUESTION_BANK.length;
   document.getElementById('total-q-count').textContent = totalQ;
-  
-  grid.innerHTML = SUBJECTS.map(s => {
-    const count = QUESTION_BANK.filter(q => q.subject === s.id).length;
-    const done = getSubjectProgress(s.id);
-    const pct = count > 0 ? Math.round((done / count) * 100) : 0;
-    return `<div class="subject-card" style="--card-color:${s.color}" onclick="startPractice('${s.id}')">
-      <div class="card-icon" style="background:${s.color}15;color:${s.color}">${s.icon}</div>
-      <div class="card-title">${s.name}</div>
-      <div class="card-count">${count} câu hỏi • ${s.desc}</div>
-      <div class="card-progress"><div class="card-progress-fill" style="width:${pct}%;background:${s.color}"></div></div>
-      <div class="card-btn">Bắt đầu ôn tập →</div>
-    </div>`;
-  }).join('');
 
+  const sectionTitle = document.getElementById('subject-section-title');
+  if (!state.activeGroup) {
+    sectionTitle.innerHTML = `${sectionTitleIcon()}Chọn chủ đề lớn`;
+    grid.innerHTML = SUBJECT_GROUPS.map(g => {
+      const count = getGroupQuestionCount(g);
+      const done = getGroupProgress(g);
+      const pct = count > 0 ? Math.round((done / count) * 100) : 0;
+      return `<div class="subject-card group-card" style="--card-color:${g.color}" onclick="showSubjectGroup('${g.id}')">
+        <div class="card-icon" style="background:${g.color}15;color:${g.color}">${g.icon}</div>
+        <div class="card-title">${g.name}</div>
+        <div class="card-count">${count} câu hỏi • ${g.desc}</div>
+        <div class="card-progress"><div class="card-progress-fill" style="width:${pct}%;background:${g.color}"></div></div>
+        <div class="card-btn">Xem chủ đề con →</div>
+      </div>`;
+    }).join('');
+  } else {
+    const group = SUBJECT_GROUPS.find(g => g.id === state.activeGroup);
+    const subjects = SUBJECTS.filter(s => group.subjects.includes(s.id));
+    sectionTitle.innerHTML = `${sectionTitleIcon()}${group.name}`;
+    grid.innerHTML = `<button class="btn-secondary btn-group-back" onclick="showGroups()">
+      <span aria-hidden="true">←</span> Chủ đề lớn
+    </button>` + subjects.map(s => {
+      const count = QUESTION_BANK.filter(q => q.subject === s.id).length;
+      const done = getSubjectProgress(s.id);
+      const pct = count > 0 ? Math.round((done / count) * 100) : 0;
+      return `<div class="subject-card" style="--card-color:${s.color}" onclick="startPractice('${s.id}')">
+        <div class="card-icon" style="background:${s.color}15;color:${s.color}">${s.icon}</div>
+        <div class="card-title">${s.name}</div>
+        <div class="card-count">${count} câu hỏi • ${s.desc}</div>
+        <div class="card-progress"><div class="card-progress-fill" style="width:${pct}%;background:${s.color}"></div></div>
+        <div class="card-btn">Bắt đầu ôn tập →</div>
+      </div>`;
+    }).join('');
+  }
+
+  renderExamCourseOptions();
   renderHistory();
+}
+
+function sectionTitleIcon() {
+  return `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+    stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect></svg>`;
+}
+
+function showGroups() {
+  state.activeGroup = null;
+  renderHome();
+}
+
+function showSubjectGroup(groupId) {
+  state.activeGroup = groupId;
+  renderHome();
+}
+
+function getGroupQuestionCount(group) {
+  const ids = new Set(group.subjects);
+  return QUESTION_BANK.filter(q => ids.has(q.subject)).length;
+}
+
+function getGroupProgress(group) {
+  return group.subjects.reduce((sum, sid) => sum + getSubjectProgress(sid), 0);
 }
 
 function getSubjectProgress(sid) {
@@ -118,27 +167,50 @@ function startPractice(subjectId) {
 }
 
 /* ===== EXAM ===== */
+function renderExamCourseOptions() {
+  const row = document.getElementById('exam-course-row');
+  if (!row) return;
+  row.innerHTML = EXAM_COURSES.map(course => {
+    const count = getCourseQuestions(course.id).length;
+    const active = course.id === state.examCourse ? ' active' : '';
+    return `<button class="exam-course-btn${active}" onclick="selectExamCourse('${course.id}', this)">
+      <span>${course.name}</span>
+      <small>${course.desc} • ${count} câu</small>
+    </button>`;
+  }).join('');
+}
+
+function selectExamCourse(courseId, btn) {
+  state.examCourse = courseId;
+  document.querySelectorAll('.exam-course-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+}
+
 function selectDe(btn) {
   document.querySelectorAll('.exam-de-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   state.examDe = parseInt(btn.dataset.de);
 }
 
-function setExamTime(mins) {
+function setExamTime(mins, btn) {
   document.getElementById('exam-time').value = mins;
   document.querySelectorAll('.time-presets button').forEach(b => b.classList.remove('active'));
-  event.target.classList.add('active');
+  if (btn) btn.classList.add('active');
 }
 
 function startExam() {
   const mins = parseInt(document.getElementById('exam-time').value) || 60;
+  const course = EXAM_COURSES.find(c => c.id === state.examCourse) || EXAM_COURSES[0];
+  const basePool = getExamPool(course.id, state.examDe);
+  if (!basePool.length) {
+    alert('Học phần này chưa có câu hỏi.');
+    return;
+  }
   // Mỗi lần bấm thi đều tạo seed ngẫu nhiên mới → đảo câu + đảo đáp án khác nhau
-  const seed = state.examDe * 12345 + Date.now();
-  
-  // Generate 50 questions shuffled, đảm bảo không trùng lặp
-  let allQ = QUESTION_BANK.map(q => ({...q, options: [...q.options]}));
-  allQ = seededShuffle(allQ, seed);
-  // Loại trùng theo ID
+  const seed = hashString(course.id) + state.examDe * 12345 + Date.now();
+
+  // Mỗi dạng đề lấy từ một lát cắt riêng, sau đó tiếp tục khử trùng ID để chắc chắn.
+  let allQ = seededShuffle(basePool.map(q => ({...q, options: [...q.options]})), seed);
   const seen = new Set();
   const unique = [];
   for (const q of allQ) {
@@ -159,18 +231,39 @@ function startExam() {
   state.currentIndex = 0;
   state.answers = {};
   state.submitted = false;
+  state.examCourse = course.id;
   state.startTime = Date.now();
   state.timerMax = mins * 60;
   state.timerSeconds = mins * 60;
   
-  document.getElementById('quiz-title').textContent = `Đề thi ${state.examDe}`;
-  document.getElementById('quiz-subtitle').textContent = `50 câu • ${mins} phút`;
+  document.getElementById('quiz-title').textContent = `${course.name} • Đề ${state.examDe}`;
+  document.getElementById('quiz-subtitle').textContent = `${examQ.length} câu • ${mins} phút • đảo câu và đáp án`;
   document.getElementById('quiz-timer').style.display = 'flex';
   
   showScreen('quiz');
   buildQuestionMap();
   renderQuestion();
   startTimer();
+}
+
+function getCourseQuestions(courseId) {
+  const course = EXAM_COURSES.find(c => c.id === courseId) || EXAM_COURSES[0];
+  const ids = new Set(course.subjectIds);
+  const seen = new Set();
+  return QUESTION_BANK.filter(q => {
+    if (!ids.has(q.subject) || seen.has(q.id)) return false;
+    seen.add(q.id);
+    return true;
+  });
+}
+
+function getExamPool(courseId, de) {
+  const questionsPerExam = 50;
+  const ordered = seededShuffle(getCourseQuestions(courseId), hashString(courseId));
+  const start = (de - 1) * questionsPerExam;
+  const end = start + questionsPerExam;
+  const slice = ordered.slice(start, end);
+  return slice.length ? slice : ordered.slice(0, Math.min(questionsPerExam, ordered.length));
 }
 
 /* ===== TIMER ===== */
@@ -358,7 +451,9 @@ function doSubmit() {
   const entry = {
     date: new Date().toLocaleString('vi-VN'),
     mode: state.mode,
-    title: state.mode === 'exam' ? `Đề thi ${state.examDe}` : state.subject.name,
+    title: state.mode === 'exam'
+      ? `${(EXAM_COURSES.find(c => c.id === state.examCourse) || EXAM_COURSES[0]).name} • Đề ${state.examDe}`
+      : state.subject.name,
     score, correct, wrong, skipped, total,
     time: `${String(em).padStart(2,'0')}:${String(es).padStart(2,'0')}`
   };
@@ -533,4 +628,13 @@ function seededShuffleInPlace(arr, seed) {
     const j = Math.floor(rng() * (i + 1));
     [arr[i], arr[j]] = [arr[j], arr[i]];
   }
+}
+
+function hashString(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = ((hash << 5) - hash) + str.charCodeAt(i);
+    hash |= 0;
+  }
+  return Math.abs(hash) || 1;
 }
