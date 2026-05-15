@@ -263,15 +263,6 @@ function selectAnswer(optIdx) {
   state.answers[idx] = optIdx;
   markProgress(q.subject, q.id);
   renderQuestion();
-  
-  // In practice mode, auto-advance after delay
-  if (state.mode === 'practice') {
-    setTimeout(() => {
-      if (state.currentIndex < state.quizQuestions.length - 1 && state.currentScreen !== 'result') {
-        nextQuestion();
-      }
-    }, 1500);
-  }
 }
 
 /* ===== NAVIGATION ===== */
