@@ -216,7 +216,7 @@ function renderQuestion() {
   const labels = ['A', 'B', 'C', 'D'];
   const userAnswer = state.answers[idx];
   const isAnswered = userAnswer !== undefined;
-  const showResult = state.submitted || (state.mode === 'practice' && isAnswered);
+  const showResult = state.submitted; // Chỉ hiện đúng/sai SAU KHI nộp bài
   
   document.getElementById('options-list').innerHTML = q.options.map((opt, i) => {
     let cls = 'option-btn';
@@ -252,8 +252,6 @@ function selectAnswer(optIdx) {
   if (state.submitted) return;
   const idx = state.currentIndex;
   const q = state.quizQuestions[idx];
-  
-  if (state.mode === 'practice' && state.answers[idx] !== undefined) return;
   
   state.answers[idx] = optIdx;
   markProgress(q.subject, q.id);
