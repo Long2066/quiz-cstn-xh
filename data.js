@@ -10314,24 +10314,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
-    "id": "geo_130",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Một trong những dân tộc ở tỉnh mới là:",
-    "options": [
-      "Lô Lô",
-      "Pu Péo",
-      "Dao",
-      "Tất cả đều đúng"
-    ],
-    "answer": 3,
-    "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
     "id": "geo_131",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -11242,25 +11224,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
-    "id": "geo_adv1_11",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 1",
-    "question": "Câu nào sau đây dễ gây nhiễu nhưng đúng về diện tích bề mặt Trái Đất?",
-    "options": [
-      "Tổng diện tích khoảng 510 triệu km², trong đó lục địa lớn hơn đại dương",
-      "Lục địa khoảng 361 triệu km² và đại dương khoảng 149 triệu km²",
-      "Đại dương và lục địa có diện tích xấp xỉ bằng nhau",
-      "Tổng diện tích khoảng 510 triệu km², trong đó đại dương lớn hơn lục địa"
-    ],
-    "answer": 3,
-    "explanation": "Đáp án đúng là D: Tổng diện tích khoảng 510 triệu km², trong đó đại dương lớn hơn lục địa.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
     "id": "geo_adv1_12",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -11979,25 +11942,6 @@ const QUESTION_BANK = [
     ],
     "answer": 1,
     "explanation": "Đáp án đúng là B: So sánh diện tích tỉnh Tuyên Quang mới với diện tích Công viên địa chất Đồng Văn.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
-    "id": "geo_adv1_53",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 2",
-    "question": "Một nhận định nói 'Cao nguyên đá Đồng Văn chỉ có giá trị du lịch, không có giá trị khoa học'. Đánh giá đúng là:",
-    "options": [
-      "Sai, vì Đồng Văn là khu công nghiệp",
-      "Đúng, vì UNESCO chỉ công nhận nơi có nhiều khách du lịch",
-      "Sai, vì tài liệu nêu rõ giá trị địa chất, hóa thạch, địa hình karst và cảnh quan",
-      "Đúng, vì đá vôi không có giá trị khoa học"
-    ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: Sai, vì tài liệu nêu rõ giá trị địa chất, hóa thạch, địa hình karst và cảnh quan.",
     "practiceGroup": "cstn_application",
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
