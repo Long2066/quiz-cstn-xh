@@ -4422,6 +4422,4444 @@ const QUESTION_BANK = [
     ],
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tạo cơ hội giao tiếp, động viên và khuyến khích trẻ tham gia hoạt động nhóm."
+  },
+  {
+    "id": "physics_21",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Năng lượng mặt trời thuộc loại năng lượng nào?",
+    "options": [
+      "Không tái tạo",
+      "Tái tạo",
+      "Hóa thạch",
+      "Nhân tạo"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Tái tạo."
+  },
+  {
+    "id": "physics_22",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Than đá là nguồn năng lượng gì?",
+    "options": [
+      "Tái tạo",
+      "Không tái tạo",
+      "Sinh học",
+      "Gió"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Không tái tạo."
+  },
+  {
+    "id": "physics_23",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Trong đèn pin, pin cung cấp dạng năng lượng nào?",
+    "options": [
+      "Hóa năng",
+      "Quang năng",
+      "Cơ năng",
+      "Âm năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Hóa năng."
+  },
+  {
+    "id": "physics_24",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Điện năng trong bóng đèn chuyển hóa chủ yếu thành gì?",
+    "options": [
+      "Cơ năng",
+      "Quang năng",
+      "Thế năng",
+      "Hóa năng"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Quang năng."
+  },
+  {
+    "id": "physics_25",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Hành động nào giúp tiết kiệm điện?",
+    "options": [
+      "Tắt điện khi ra khỏi phòng",
+      "Bật quạt cả ngày",
+      "Mở tivi liên tục",
+      "Dùng nhiều bóng đèn"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tắt điện khi ra khỏi phòng."
+  },
+  {
+    "id": "physics_26",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Nhà máy thủy điện sử dụng nguồn năng lượng nào?",
+    "options": [
+      "Gió",
+      "Nước chảy",
+      "Than đá",
+      "Mặt trời"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Nước chảy."
+  },
+  {
+    "id": "physics_27",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Cối xay gió hoạt động nhờ năng lượng nào?",
+    "options": [
+      "Điện năng",
+      "Năng lượng gió",
+      "Hóa năng",
+      "Nhiệt năng"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Năng lượng gió."
+  },
+  {
+    "id": "physics_28",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Mạch điện kín có đặc điểm gì?",
+    "options": [
+      "Không có dòng điện",
+      "Dòng điện truyền liên tục",
+      "Pin bị hỏng",
+      "Bóng đèn cháy"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Dòng điện truyền liên tục."
+  },
+  {
+    "id": "physics_29",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Năng lượng trong thức ăn tồn tại chủ yếu dưới dạng nào?",
+    "options": [
+      "Điện năng",
+      "Hóa năng",
+      "Quang năng",
+      "Cơ năng"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Hóa năng."
+  },
+  {
+    "id": "physics_30",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Xe bóng bay hoạt động dựa trên nguyên lí nào?",
+    "options": [
+      "Trọng lực",
+      "Phản lực",
+      "Ma sát",
+      "Quán tính"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Phản lực."
+  },
+  {
+    "id": "physics_31",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Dầu mỏ thuộc loại năng lượng nào?",
+    "options": [
+      "Tái tạo",
+      "Không tái tạo",
+      "Sinh học",
+      "Ánh sáng"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Không tái tạo."
+  },
+  {
+    "id": "physics_32",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào sử dụng điện năng?",
+    "options": [
+      "Quạt điện",
+      "Diều giấy",
+      "Chong chóng",
+      "Xe đạp"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Quạt điện."
+  },
+  {
+    "id": "physics_33",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Năng lượng mặt trời thường dùng để làm gì?",
+    "options": [
+      "Phát điện",
+      "Tạo khói",
+      "Gây ô nhiễm",
+      "Làm lạnh nước"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Phát điện."
+  },
+  {
+    "id": "physics_34",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Hành động nào gây lãng phí điện?",
+    "options": [
+      "Tắt quạt khi không dùng",
+      "Mở đèn ban ngày không cần thiết",
+      "Rút phích cắm điện",
+      "Dùng ánh sáng tự nhiên"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Mở đèn ban ngày không cần thiết."
+  },
+  {
+    "id": "physics_35",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Pin mặt trời có chức năng gì?",
+    "options": [
+      "Tạo điện từ ánh sáng",
+      "Làm lạnh không khí",
+      "Tạo nước sạch",
+      "Tạo âm thanh"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tạo điện từ ánh sáng."
+  },
+  {
+    "id": "physics_36",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Nguồn năng lượng nào sạch hơn than đá?",
+    "options": [
+      "Mặt trời",
+      "Dầu mỏ",
+      "Khí than",
+      "Củi tươi"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Mặt trời."
+  },
+  {
+    "id": "physics_37",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Trong bóng đèn điện có sự chuyển hóa nào?",
+    "options": [
+      "Điện năng → Quang năng",
+      "Quang năng → Điện năng",
+      "Cơ năng → Hóa năng",
+      "Nhiệt năng → Điện năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Điện năng → Quang năng."
+  },
+  {
+    "id": "physics_38",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào dùng năng lượng gió?",
+    "options": [
+      "Tua-bin gió",
+      "Máy giặt",
+      "Tủ lạnh",
+      "Nồi cơm điện"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tua-bin gió."
+  },
+  {
+    "id": "physics_39",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Đặc điểm của năng lượng tái tạo là gì?",
+    "options": [
+      "Có thể sử dụng lâu dài",
+      "Cạn kiệt nhanh",
+      "Ô nhiễm nặng",
+      "Không thể tái tạo"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Có thể sử dụng lâu dài."
+  },
+  {
+    "id": "physics_40",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Tắt thiết bị điện khi không dùng giúp gì?",
+    "options": [
+      "Tiết kiệm năng lượng",
+      "Tăng tiền điện",
+      "Gây nóng phòng",
+      "Lãng phí điện"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tiết kiệm năng lượng."
+  },
+  {
+    "id": "physics_41",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Quạt điện hoạt động nhờ sự chuyển hóa nào?",
+    "options": [
+      "Điện năng → Cơ năng",
+      "Quang năng → Điện năng",
+      "Hóa năng → Quang năng",
+      "Cơ năng → Điện năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Điện năng → Cơ năng."
+  },
+  {
+    "id": "physics_42",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Than củi khi cháy tạo ra chủ yếu dạng năng lượng nào?",
+    "options": [
+      "Nhiệt năng",
+      "Điện năng",
+      "Quang năng",
+      "Cơ năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Nhiệt năng."
+  },
+  {
+    "id": "physics_43",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Làm xe bóng bay giúp học sinh hiểu kiến thức gì?",
+    "options": [
+      "Lực phản lực",
+      "Đông đặc",
+      "Bay hơi",
+      "Nóng chảy"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Lực phản lực."
+  },
+  {
+    "id": "physics_44",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào sử dụng năng lượng mặt trời?",
+    "options": [
+      "Máy tính năng lượng mặt trời",
+      "Xe đạp",
+      "Cầu trượt",
+      "Chong chóng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Máy tính năng lượng mặt trời."
+  },
+  {
+    "id": "physics_45",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Tiết kiệm năng lượng giúp gì?",
+    "options": [
+      "Bảo vệ môi trường",
+      "Gây ô nhiễm",
+      "Tăng khói bụi",
+      "Lãng phí tài nguyên"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Bảo vệ môi trường."
+  },
+  {
+    "id": "physics_46",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Giáo viên nên dùng gì để dạy về năng lượng?",
+    "options": [
+      "Hình ảnh trực quan",
+      "Chỉ đọc lý thuyết",
+      "Không cần ví dụ",
+      "Không cần tranh ảnh"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Hình ảnh trực quan."
+  },
+  {
+    "id": "physics_47",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Năng lượng gió được tạo ra do đâu?",
+    "options": [
+      "Chuyển động không khí",
+      "Ánh sáng mặt trời",
+      "Dòng điện",
+      "Nước chảy"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Chuyển động không khí."
+  },
+  {
+    "id": "physics_48",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Loại năng lượng nào ít gây ô nhiễm hơn?",
+    "options": [
+      "Mặt trời",
+      "Than đá",
+      "Dầu mỏ",
+      "Khí đốt"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Mặt trời."
+  },
+  {
+    "id": "physics_49",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Giáo dục STEAM khuyến khích học sinh điều gì?",
+    "options": [
+      "Sáng tạo và thực hành",
+      "Học thuộc lòng",
+      "Chép bài",
+      "Không làm việc nhóm"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Sáng tạo và thực hành."
+  },
+  {
+    "id": "physics_50",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Mô hình đèn ngủ mini giúp học sinh hiểu gì?",
+    "options": [
+      "Mạch điện đơn giản",
+      "Núi lửa",
+      "Hóa thạch",
+      "Sóng thần"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Mạch điện đơn giản."
+  },
+  {
+    "id": "physics_51",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào biến điện năng thành nhiệt năng?",
+    "options": [
+      "Bàn là điện",
+      "Quạt điện",
+      "Xe đạp",
+      "Chong chóng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Bàn là điện."
+  },
+  {
+    "id": "physics_52",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Ánh sáng mặt trời giúp cây xanh thực hiện quá trình gì?",
+    "options": [
+      "Quang hợp",
+      "Bay hơi",
+      "Đông đặc",
+      "Ngưng tụ"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Quang hợp."
+  },
+  {
+    "id": "physics_53",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Khi bật tivi, điện năng chuyển hóa thành gì?",
+    "options": [
+      "Âm năng và quang năng",
+      "Hóa năng",
+      "Thế năng",
+      "Cơ năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Âm năng và quang năng."
+  },
+  {
+    "id": "physics_54",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Nguồn năng lượng nào sẽ cạn kiệt nếu sử dụng quá mức?",
+    "options": [
+      "Than đá",
+      "Gió",
+      "Mặt trời",
+      "Nước chảy"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Than đá."
+  },
+  {
+    "id": "physics_55",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào sử dụng pin để hoạt động?",
+    "options": [
+      "Đồng hồ điện tử",
+      "Xe đạp",
+      "Chong chóng",
+      "Diều giấy"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đồng hồ điện tử."
+  },
+  {
+    "id": "physics_56",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Sử dụng năng lượng tiết kiệm giúp giảm điều gì?",
+    "options": [
+      "Ô nhiễm môi trường",
+      "Ánh sáng",
+      "Nhiệt độ cơ thể",
+      "Không khí"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Ô nhiễm môi trường."
+  },
+  {
+    "id": "physics_57",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Khi nước chảy từ trên cao xuống sẽ tạo ra dạng năng lượng nào?",
+    "options": [
+      "Cơ năng",
+      "Hóa năng",
+      "Âm năng",
+      "Quang năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Cơ năng."
+  },
+  {
+    "id": "physics_58",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Vật liệu tái chế giúp ích gì cho môi trường?",
+    "options": [
+      "Giảm rác thải",
+      "Tăng khói bụi",
+      "Tăng ô nhiễm",
+      "Gây lãng phí"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Giảm rác thải."
+  },
+  {
+    "id": "physics_59",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Loại bóng đèn nào tiết kiệm điện hơn?",
+    "options": [
+      "Đèn LED",
+      "Đèn sợi đốt",
+      "Đèn dầu",
+      "Đèn nến"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đèn LED."
+  },
+  {
+    "id": "physics_60",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Điện gió là nguồn năng lượng gì?",
+    "options": [
+      "Tái tạo",
+      "Không tái tạo",
+      "Hóa thạch",
+      "Nhân tạo"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tái tạo."
+  },
+  {
+    "id": "physics_61",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Năng lượng giúp con người làm gì?",
+    "options": [
+      "Hoạt động và lao động",
+      "Ngủ nhiều hơn",
+      "Không cần ăn uống",
+      "Không cần di chuyển"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Hoạt động và lao động."
+  },
+  {
+    "id": "physics_62",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Đun nước bằng bếp điện là sự chuyển hóa gì?",
+    "options": [
+      "Điện năng → Nhiệt năng",
+      "Nhiệt năng → Điện năng",
+      "Hóa năng → Quang năng",
+      "Cơ năng → Điện năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Điện năng → Nhiệt năng."
+  },
+  {
+    "id": "physics_63",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Mục đích của tranh cổ động tiết kiệm năng lượng là gì?",
+    "options": [
+      "Nâng cao ý thức",
+      "Trang trí ngẫu nhiên",
+      "Tạo tiếng ồn",
+      "Làm tăng điện năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Nâng cao ý thức."
+  },
+  {
+    "id": "physics_64",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Nguồn năng lượng nào thân thiện với môi trường?",
+    "options": [
+      "Năng lượng mặt trời",
+      "Than đá",
+      "Dầu mỏ",
+      "Khí đốt"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Năng lượng mặt trời."
+  },
+  {
+    "id": "physics_65",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Khi pin hết điện, thiết bị sẽ như thế nào?",
+    "options": [
+      "Không hoạt động",
+      "Sáng hơn",
+      "Chạy nhanh hơn",
+      "Không thay đổi"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Không hoạt động."
+  },
+  {
+    "id": "physics_66",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Hành động nào nên làm để tiết kiệm điện ở trường học?",
+    "options": [
+      "Tắt quạt khi ra khỏi lớp",
+      "Bật điện cả ngày",
+      "Mở nhiều đèn cùng lúc",
+      "Không tận dụng ánh sáng tự nhiên"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tắt quạt khi ra khỏi lớp."
+  },
+  {
+    "id": "physics_67",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào biến điện năng thành âm năng?",
+    "options": [
+      "Loa",
+      "Quạt điện",
+      "Bóng đèn",
+      "Bàn là"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Loa."
+  },
+  {
+    "id": "physics_68",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Tái chế giấy giúp giảm điều gì?",
+    "options": [
+      "Chặt phá rừng",
+      "Ánh sáng mặt trời",
+      "Gió",
+      "Mưa"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Chặt phá rừng."
+  },
+  {
+    "id": "physics_69",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Vì sao nên dùng năng lượng sạch?",
+    "options": [
+      "Giảm ô nhiễm môi trường",
+      "Tăng khói bụi",
+      "Tăng rác thải",
+      "Gây nóng toàn cầu"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Giảm ô nhiễm môi trường."
+  },
+  {
+    "id": "physics_70",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Hoạt động làm mô hình trong STEAM giúp học sinh phát triển gì?",
+    "options": [
+      "Kĩ năng sáng tạo",
+      "Học thuộc lòng",
+      "Chép bài nhanh",
+      "Ngủ đúng giờ"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Kĩ năng sáng tạo."
+  },
+  {
+    "id": "physics_71",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào sử dụng điện để làm lạnh thực phẩm?",
+    "options": [
+      "Tủ lạnh",
+      "Quạt giấy",
+      "Xe đạp",
+      "Chong chóng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tủ lạnh."
+  },
+  {
+    "id": "physics_72",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Khi bật quạt điện, điện năng chuyển hóa chủ yếu thành gì?",
+    "options": [
+      "Cơ năng",
+      "Hóa năng",
+      "Thế năng",
+      "Quang năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Cơ năng."
+  },
+  {
+    "id": "physics_73",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Nguồn năng lượng nào có sẵn trong tự nhiên và không bị cạn kiệt nhanh?",
+    "options": [
+      "Năng lượng mặt trời",
+      "Than đá",
+      "Dầu mỏ",
+      "Khí đốt"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Năng lượng mặt trời."
+  },
+  {
+    "id": "physics_74",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Tua-bin trong nhà máy thủy điện quay nhờ gì?",
+    "options": [
+      "Nước chảy mạnh",
+      "Ánh sáng mặt trời",
+      "Không khí lạnh",
+      "Đất đá"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Nước chảy mạnh."
+  },
+  {
+    "id": "physics_75",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Mục đích của việc sử dụng năng lượng tiết kiệm là gì?",
+    "options": [
+      "Bảo vệ tài nguyên",
+      "Tăng ô nhiễm",
+      "Gây lãng phí",
+      "Làm giảm cây xanh"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Bảo vệ tài nguyên."
+  },
+  {
+    "id": "physics_76",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Nguồn năng lượng nào thường dùng để chạy ô tô?",
+    "options": [
+      "Xăng dầu",
+      "Gió",
+      "Nước chảy",
+      "Ánh sáng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Xăng dầu."
+  },
+  {
+    "id": "physics_77",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Loại năng lượng nào giúp cây cối phát triển?",
+    "options": [
+      "Ánh sáng mặt trời",
+      "Âm thanh",
+      "Gió mạnh",
+      "Khói bụi"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Ánh sáng mặt trời."
+  },
+  {
+    "id": "physics_78",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Khi dùng bếp gas để nấu ăn, gas chứa dạng năng lượng gì?",
+    "options": [
+      "Hóa năng",
+      "Điện năng",
+      "Cơ năng",
+      "Quang năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Hóa năng."
+  },
+  {
+    "id": "physics_79",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Hành động nào giúp bảo vệ môi trường?",
+    "options": [
+      "Tắt điện khi không sử dụng",
+      "Đốt rác bừa bãi",
+      "Dùng điện lãng phí",
+      "Chặt phá cây xanh"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tắt điện khi không sử dụng."
+  },
+  {
+    "id": "physics_80",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Năng lượng nào giúp thuyền buồm di chuyển?",
+    "options": [
+      "Gió",
+      "Điện",
+      "Than đá",
+      "Ánh sáng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Gió."
+  },
+  {
+    "id": "physics_81",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Năng lượng điện được tạo ra từ đâu ở nhà máy thủy điện?",
+    "options": [
+      "Nước chảy làm quay tua-bin",
+      "Ánh sáng mặt trời",
+      "Than đá cháy",
+      "Gió nhẹ"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Nước chảy làm quay tua-bin."
+  },
+  {
+    "id": "physics_82",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Vì sao cần tiết kiệm điện?",
+    "options": [
+      "Giảm chi phí và bảo vệ môi trường",
+      "Làm tăng ô nhiễm",
+      "Tăng lượng rác thải",
+      "Làm nóng Trái Đất"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Giảm chi phí và bảo vệ môi trường."
+  },
+  {
+    "id": "physics_83",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào sau đây hoạt động nhờ pin?",
+    "options": [
+      "Điều khiển tivi",
+      "Xe đạp",
+      "Cầu trượt",
+      "Chong chóng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Điều khiển tivi."
+  },
+  {
+    "id": "physics_84",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Đèn LED có ưu điểm gì?",
+    "options": [
+      "Tiết kiệm điện",
+      "Tốn nhiều điện",
+      "Không phát sáng",
+      "Dễ cháy nổ"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tiết kiệm điện."
+  },
+  {
+    "id": "physics_85",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Nguồn năng lượng nào thường gây ô nhiễm môi trường hơn?",
+    "options": [
+      "Than đá",
+      "Mặt trời",
+      "Gió",
+      "Nước chảy"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Than đá."
+  },
+  {
+    "id": "physics_86",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Trong giáo dục STEAM, học sinh thường được làm gì?",
+    "options": [
+      "Thực hành sáng tạo sản phẩm",
+      "Chỉ nghe giảng",
+      "Học thuộc lòng",
+      "Không làm việc nhóm"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Thực hành sáng tạo sản phẩm."
+  },
+  {
+    "id": "physics_87",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Điện mặt trời là nguồn năng lượng gì?",
+    "options": [
+      "Tái tạo",
+      "Không tái tạo",
+      "Hóa thạch",
+      "Nhân tạo"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tái tạo."
+  },
+  {
+    "id": "physics_88",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Vì sao không nên bật nhiều thiết bị điện cùng lúc?",
+    "options": [
+      "Gây tốn điện",
+      "Làm phòng đẹp hơn",
+      "Làm giảm ánh sáng",
+      "Giúp tiết kiệm điện"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Gây tốn điện."
+  },
+  {
+    "id": "physics_89",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào biến điện năng thành cơ năng?",
+    "options": [
+      "Máy bơm nước",
+      "Bóng đèn",
+      "Bếp điện",
+      "Loa"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Máy bơm nước."
+  },
+  {
+    "id": "physics_90",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Nguồn năng lượng nào được dùng để phát điện bằng tua-bin gió?",
+    "options": [
+      "Gió",
+      "Than đá",
+      "Dầu mỏ",
+      "Gas"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Gió."
+  },
+  {
+    "id": "physics_91",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Khi đun nước bằng bếp điện, điện năng biến đổi thành gì?",
+    "options": [
+      "Nhiệt năng",
+      "Quang năng",
+      "Cơ năng",
+      "Hóa năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Nhiệt năng."
+  },
+  {
+    "id": "physics_92",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Hành động nào sau đây gây lãng phí năng lượng?",
+    "options": [
+      "Bật điều hòa khi không có người",
+      "Tắt điện khi ra ngoài",
+      "Dùng ánh sáng tự nhiên",
+      "Rút phích cắm khi không dùng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Bật điều hòa khi không có người."
+  },
+  {
+    "id": "physics_93",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Loại năng lượng nào có lợi cho môi trường hơn?",
+    "options": [
+      "Năng lượng gió",
+      "Than đá",
+      "Dầu mỏ",
+      "Khí than"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Năng lượng gió."
+  },
+  {
+    "id": "physics_94",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Sử dụng năng lượng sạch giúp giảm điều gì?",
+    "options": [
+      "Ô nhiễm môi trường",
+      "Ánh sáng mặt trời",
+      "Không khí",
+      "Mưa"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Ô nhiễm môi trường."
+  },
+  {
+    "id": "physics_95",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Trong pin có tích trữ dạng năng lượng nào?",
+    "options": [
+      "Hóa năng",
+      "Điện năng",
+      "Nhiệt năng",
+      "Âm năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Hóa năng."
+  },
+  {
+    "id": "physics_96",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào sử dụng điện năng để phát âm thanh?",
+    "options": [
+      "Loa",
+      "Bóng đèn",
+      "Quạt giấy",
+      "Chong chóng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Loa."
+  },
+  {
+    "id": "physics_97",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Một trong những nguồn năng lượng sạch là gì?",
+    "options": [
+      "Năng lượng mặt trời",
+      "Than đá",
+      "Dầu mỏ",
+      "Xăng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Năng lượng mặt trời."
+  },
+  {
+    "id": "physics_98",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Việc tái chế chai nhựa giúp gì cho môi trường?",
+    "options": [
+      "Giảm rác thải",
+      "Tăng ô nhiễm",
+      "Tăng khói bụi",
+      "Gây lãng phí"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Giảm rác thải."
+  },
+  {
+    "id": "physics_99",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Đặc điểm của năng lượng không tái tạo là gì?",
+    "options": [
+      "Có thể cạn kiệt",
+      "Không bao giờ hết",
+      "Không gây ô nhiễm",
+      "Có ở khắp nơi vô hạn"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Có thể cạn kiệt."
+  },
+  {
+    "id": "physics_100",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào sử dụng điện để tạo nhiệt?",
+    "options": [
+      "Nồi cơm điện",
+      "Xe đạp",
+      "Chong chóng",
+      "Diều giấy"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Nồi cơm điện."
+  },
+  {
+    "id": "physics_101",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Khi sử dụng năng lượng tiết kiệm, chúng ta góp phần gì?",
+    "options": [
+      "Bảo vệ môi trường",
+      "Gây ô nhiễm",
+      "Tăng lượng rác",
+      "Tăng khói bụi"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Bảo vệ môi trường."
+  },
+  {
+    "id": "physics_102",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Gió mạnh có thể giúp tạo ra gì?",
+    "options": [
+      "Điện năng",
+      "Hóa năng",
+      "Âm năng",
+      "Thế năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Điện năng."
+  },
+  {
+    "id": "physics_103",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào dưới đây dùng điện để chiếu sáng?",
+    "options": [
+      "Đèn học",
+      "Xe đạp",
+      "Cầu trượt",
+      "Chong chóng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đèn học."
+  },
+  {
+    "id": "physics_104",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Vì sao nên sử dụng đèn LED thay cho đèn sợi đốt?",
+    "options": [
+      "Tiết kiệm điện hơn",
+      "Tốn điện hơn",
+      "Không phát sáng",
+      "Dễ hỏng hơn"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tiết kiệm điện hơn."
+  },
+  {
+    "id": "physics_105",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Trong hoạt động STEAM, học sinh được rèn luyện điều gì?",
+    "options": [
+      "Kĩ năng hợp tác",
+      "Học thuộc máy móc",
+      "Không cần sáng tạo",
+      "Chỉ ghi chép"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Kĩ năng hợp tác."
+  },
+  {
+    "id": "physics_106",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào biến điện năng thành cả nhiệt năng và quang năng?",
+    "options": [
+      "Bóng đèn sợi đốt",
+      "Quạt điện",
+      "Xe đạp điện",
+      "Máy bơm nước"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Bóng đèn sợi đốt."
+  },
+  {
+    "id": "physics_107",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Loại năng lượng nào giúp giảm ô nhiễm môi trường?",
+    "options": [
+      "Năng lượng mặt trời",
+      "Than đá",
+      "Dầu mỏ",
+      "Khí gas"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Năng lượng mặt trời."
+  },
+  {
+    "id": "physics_108",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Hành động nào thể hiện sử dụng điện hợp lí?",
+    "options": [
+      "Tắt đèn khi đủ ánh sáng",
+      "Mở nhiều quạt không cần thiết",
+      "Bật điện cả ngày",
+      "Không rút sạc điện"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tắt đèn khi đủ ánh sáng."
+  },
+  {
+    "id": "physics_109",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Nhà máy điện gió sử dụng nguồn năng lượng nào?",
+    "options": [
+      "Gió",
+      "Nước",
+      "Than đá",
+      "Dầu mỏ"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Gió."
+  },
+  {
+    "id": "physics_110",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Trong bếp gas, gas cháy tạo ra chủ yếu gì?",
+    "options": [
+      "Nhiệt năng",
+      "Điện năng",
+      "Quang năng",
+      "Cơ năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Nhiệt năng."
+  },
+  {
+    "id": "physics_111",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Tận dụng ánh sáng tự nhiên giúp gì?",
+    "options": [
+      "Tiết kiệm điện",
+      "Tăng tiền điện",
+      "Gây ô nhiễm",
+      "Làm nóng phòng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tiết kiệm điện."
+  },
+  {
+    "id": "physics_112",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào sử dụng điện năng để làm mát không khí?",
+    "options": [
+      "Quạt điện",
+      "Bóng đèn",
+      "Bếp gas",
+      "Xe đạp"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Quạt điện."
+  },
+  {
+    "id": "physics_113",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Một ví dụ về năng lượng tái tạo là gì?",
+    "options": [
+      "Năng lượng gió",
+      "Than đá",
+      "Xăng dầu",
+      "Khí gas"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Năng lượng gió."
+  },
+  {
+    "id": "physics_114",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Sử dụng nhiều nhiên liệu hóa thạch gây ra điều gì?",
+    "options": [
+      "Ô nhiễm môi trường",
+      "Không khí sạch hơn",
+      "Tăng cây xanh",
+      "Giảm khói bụi"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Ô nhiễm môi trường."
+  },
+  {
+    "id": "physics_115",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Thiết bị nào sử dụng điện năng để hoạt động?",
+    "options": [
+      "Máy giặt",
+      "Diều giấy",
+      "Chong chóng",
+      "Xe đạp"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Máy giặt."
+  },
+  {
+    "id": "physics_116",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Vì sao cần bảo vệ nguồn năng lượng?",
+    "options": [
+      "Vì nhiều nguồn có thể cạn kiệt",
+      "Vì năng lượng vô tận",
+      "Vì năng lượng không quan trọng",
+      "Vì không cần tiết kiệm"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Vì nhiều nguồn có thể cạn kiệt."
+  },
+  {
+    "id": "physics_117",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Học sinh làm mô hình điện gió giúp hiểu điều gì?",
+    "options": [
+      "Cách tạo điện từ gió",
+      "Cách tạo mưa",
+      "Cách tạo đất",
+      "Cách tạo khói"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Cách tạo điện từ gió."
+  },
+  {
+    "id": "physics_118",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Năng lượng nào giúp con người sưởi ấm và nấu ăn?",
+    "options": [
+      "Nhiệt năng",
+      "Âm năng",
+      "Quang năng",
+      "Cơ năng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Nhiệt năng."
+  },
+  {
+    "id": "physics_119",
+    "subject": "physics",
+    "subjectName": "Vật lý",
+    "question": "Việc sử dụng năng lượng hợp lí mang lại lợi ích gì?",
+    "options": [
+      "Tiết kiệm tài nguyên và bảo vệ môi trường",
+      "Gây lãng phí năng lượng",
+      "Tăng ô nhiễm",
+      "Làm cạn kiệt tài nguyên nhanh hơn"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tiết kiệm tài nguyên và bảo vệ môi trường."
+  },
+  {
+    "id": "his_32",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Nhà nước Văn Lang ra đời vào khoảng thời gian nào?",
+    "options": [
+      "Thế kỷ X TCN",
+      "Thế kỷ VII TCN",
+      "Thế kỷ I",
+      "Thế kỷ III SCN"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Thế kỷ VII TCN."
+  },
+  {
+    "id": "his_33",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Người đứng đầu nhà nước Văn Lang là ai?",
+    "options": [
+      "An Dương Vương",
+      "Hùng Vương",
+      "Lạc tướng",
+      "Lạc hầu"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Hùng Vương."
+  },
+  {
+    "id": "his_34",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Nhà nước Âu Lạc được thành lập vào khoảng:",
+    "options": [
+      "Thế kỷ VII TCN",
+      "Thế kỷ V TCN",
+      "Thế kỷ III TCN",
+      "Thế kỷ I TCN"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Thế kỷ III TCN."
+  },
+  {
+    "id": "his_35",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Địa bàn chủ yếu của Văn Lang – Âu Lạc thuộc khu vực nào hiện nay?",
+    "options": [
+      "Nam Bộ",
+      "Tây Nguyên",
+      "Bắc Bộ và Bắc Trung Bộ",
+      "Nam Trung Bộ"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Bắc Bộ và Bắc Trung Bộ."
+  },
+  {
+    "id": "his_36",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Cơ sở kinh tế quan trọng hình thành nhà nước Văn Lang là:",
+    "options": [
+      "Trồng cây công nghiệp",
+      "Chăn nuôi du mục",
+      "Nghề làm gốm",
+      "Nông nghiệp lúa nước"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Nông nghiệp lúa nước."
+  },
+  {
+    "id": "his_37",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Công cụ sản xuất chủ yếu thời Văn Lang – Âu Lạc làm bằng:",
+    "options": [
+      "Đá",
+      "Đồng thau",
+      "Sắt",
+      "Vàng"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Đồng thau."
+  },
+  {
+    "id": "his_38",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Một trong những nhu cầu thúc đẩy sự ra đời nhà nước đầu tiên là:",
+    "options": [
+      "Mở rộng buôn bán",
+      "Trị thủy và chống ngoại xâm",
+      "Khai thác khoáng sản",
+      "Truyền bá tôn giáo"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Trị thủy và chống ngoại xâm."
+  },
+  {
+    "id": "his_39",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Bộ máy nhà nước Văn Lang mang tính chất:",
+    "options": [
+      "Dân chủ hiện đại",
+      "Quân chủ chuyên chế",
+      "Quân chủ sơ khai",
+      "Liên bang"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Quân chủ sơ khai."
+  },
+  {
+    "id": "his_40",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Dưới vua thời Văn Lang có các chức quan nào?",
+    "options": [
+      "Thái sư, Thái úy",
+      "Lạc hầu, Lạc tướng",
+      "Quan văn, quan võ",
+      "Tổng đốc, tuần phủ"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Lạc hầu, Lạc tướng."
+  },
+  {
+    "id": "his_41",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Đơn vị cư trú cơ sở thời Văn Lang là:",
+    "options": [
+      "Huyện",
+      "Châu",
+      "Phủ",
+      "Chiềng, Chạ"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Chiềng, Chạ."
+  },
+  {
+    "id": "his_42",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Điểm nổi bật trong tổ chức cộng đồng Văn Lang – Âu Lạc là:",
+    "options": [
+      "Quan hệ vua dân xa cách",
+      "Tính gắn kết Nhà – Làng – Nước",
+      "Đô thị phát triển mạnh",
+      "Thương nghiệp phát triển cao"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Tính gắn kết Nhà – Làng – Nước."
+  },
+  {
+    "id": "his_43",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Người đứng đầu nhà nước Âu Lạc là:",
+    "options": [
+      "Triệu Đà",
+      "Hùng Vương",
+      "An Dương Vương",
+      "Lý Nam Đế"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: An Dương Vương."
+  },
+  {
+    "id": "his_44",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Thành lũy nổi tiếng của nước Âu Lạc là:",
+    "options": [
+      "Thành Nhà Hồ",
+      "Thành Thăng Long",
+      "Thành Hoa Lư",
+      "Thành Cổ Loa"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Thành Cổ Loa."
+  },
+  {
+    "id": "his_45",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Vũ khí nổi tiếng của quân đội Âu Lạc là:",
+    "options": [
+      "Đại bác",
+      "Nỏ liên châu",
+      "Súng thần công",
+      "Hỏa pháo"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Nỏ liên châu."
+  },
+  {
+    "id": "his_46",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Nhà nước Âu Lạc phát triển hơn Văn Lang ở điểm nào?",
+    "options": [
+      "Không có quân đội",
+      "Bộ máy nhà nước chặt chẽ hơn",
+      "Bỏ nghề nông",
+      "Không xây thành lũy"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Bộ máy nhà nước chặt chẽ hơn."
+  },
+  {
+    "id": "his_47",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Ý thức bảo vệ Tổ quốc hiện nay thể hiện qua việc:",
+    "options": [
+      "Thờ ơ với xã hội",
+      "Học tập và rèn luyện tốt",
+      "Phủ nhận lịch sử dân tộc",
+      "Không tham gia hoạt động cộng đồng"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Học tập và rèn luyện tốt."
+  },
+  {
+    "id": "his_48",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Trong thời đại hiện nay, “vũ khí” quan trọng để xây dựng đất nước là:",
+    "options": [
+      "Vàng bạc",
+      "Trí tuệ và công nghệ",
+      "Ruộng đất",
+      "Sức mạnh quân sự đơn thuần"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Trí tuệ và công nghệ."
+  },
+  {
+    "id": "his_49",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Một trong những phẩm chất đạo đức cần có của sinh viên hiện nay là:",
+    "options": [
+      "Ích kỷ",
+      "Thực dụng",
+      "Trung thực, trách nhiệm",
+      "Thờ ơ cộng đồng"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Trung thực, trách nhiệm."
+  },
+  {
+    "id": "his_50",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Hòa nhập nhưng không hòa tan” nhấn mạnh việc:",
+    "options": [
+      "Từ bỏ bản sắc dân tộc",
+      "Giữ gìn văn hóa dân tộc",
+      "Không giao lưu quốc tế",
+      "Chỉ học văn hóa nước ngoài"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Giữ gìn văn hóa dân tộc."
+  },
+  {
+    "id": "his_51",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Tinh thần “Đâu cần thanh niên có” thể hiện:",
+    "options": [
+      "Lối sống hưởng thụ",
+      "Tinh thần xung kích của tuổi trẻ",
+      "Thái độ thờ ơ",
+      "Né tránh trách nhiệm"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Tinh thần xung kích của tuổi trẻ."
+  },
+  {
+    "id": "his_52",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Nhà Lý dời đô về Thăng Long vào năm nào?",
+    "options": [
+      "938",
+      "1009",
+      "1010",
+      "1070"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 1010."
+  },
+  {
+    "id": "his_53",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Người quyết định dời đô về Thăng Long là:",
+    "options": [
+      "Lý Thái Tổ",
+      "Lý Thánh Tông",
+      "Trần Nhân Tông",
+      "Lê Thánh Tông"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Lý Thái Tổ."
+  },
+  {
+    "id": "his_54",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Văn Miếu được xây dựng vào năm:",
+    "options": [
+      "1010",
+      "1070",
+      "1076",
+      "1258"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 1070."
+  },
+  {
+    "id": "his_55",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Quốc Tử Giám được thành lập dưới triều:",
+    "options": [
+      "Đinh",
+      "Tiền Lê",
+      "Lý",
+      "Trần"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Lý."
+  },
+  {
+    "id": "his_56",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Quốc Tử Giám được xem là:",
+    "options": [
+      "Trường quân sự đầu tiên",
+      "Đại học đầu tiên của Việt Nam",
+      "Trường nghề đầu tiên",
+      "Học viện ngoại giao"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Đại học đầu tiên của Việt Nam."
+  },
+  {
+    "id": "his_57",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chùa Một Cột là công trình kiến trúc nổi tiếng thời:",
+    "options": [
+      "Đinh",
+      "Lý",
+      "Trần",
+      "Lê"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Lý."
+  },
+  {
+    "id": "his_58",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chiến thắng trên sông Như Nguyệt gắn với cuộc kháng chiến chống:",
+    "options": [
+      "Quân Minh",
+      "Quân Thanh",
+      "Quân Tống",
+      "Quân Nguyên"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Quân Tống."
+  },
+  {
+    "id": "his_59",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Nam quốc sơn hà” được xem là:",
+    "options": [
+      "Bộ luật đầu tiên",
+      "Bản tuyên ngôn độc lập đầu tiên",
+      "Bài thơ tình nổi tiếng",
+      "Chiếu dời đô"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Bản tuyên ngôn độc lập đầu tiên."
+  },
+  {
+    "id": "his_60",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Triều đại nào ba lần đánh bại quân Nguyên – Mông?",
+    "options": [
+      "Nhà Lý",
+      "Nhà Trần",
+      "Nhà Hồ",
+      "Nhà Nguyễn"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Nhà Trần."
+  },
+  {
+    "id": "his_61",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Hội nghị Diên Hồng thể hiện tinh thần:",
+    "options": [
+      "Chia rẽ dân tộc",
+      "Đoàn kết toàn dân",
+      "Đầu hàng giặc",
+      "Mở rộng buôn bán"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Đoàn kết toàn dân."
+  },
+  {
+    "id": "his_62",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Hội nghị Bình Than được tổ chức nhằm:",
+    "options": [
+      "Mở khoa thi",
+      "Bàn kế chống giặc",
+      "Chia ruộng đất",
+      "Đổi tiền tệ"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Bàn kế chống giặc."
+  },
+  {
+    "id": "his_63",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Bộ luật nổi tiếng thời Trần là:",
+    "options": [
+      "Luật Gia Long",
+      "Luật Hồng Đức",
+      "Hình thư",
+      "Quốc triều hình luật"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Hình thư."
+  },
+  {
+    "id": "his_64",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Thương cảng nổi tiếng thời Trần là:",
+    "options": [
+      "Hội An",
+      "Vân Đồn",
+      "Đà Nẵng",
+      "Phố Hiến"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Vân Đồn."
+  },
+  {
+    "id": "his_65",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chữ viết phát triển mạnh dưới thời Trần là:",
+    "options": [
+      "Chữ Latin",
+      "Chữ Hán",
+      "Chữ Nôm",
+      "Chữ Phạn"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Chữ Nôm."
+  },
+  {
+    "id": "his_66",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Luật Hồng Đức được ban hành dưới triều:",
+    "options": [
+      "Lý",
+      "Trần",
+      "Lê Sơ",
+      "Nguyễn"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Lê Sơ."
+  },
+  {
+    "id": "his_67",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Luật Hồng Đức có điểm tiến bộ nổi bật là:",
+    "options": [
+      "Không bảo vệ dân",
+      "Bảo vệ quyền lợi phụ nữ",
+      "Cấm học hành",
+      "Xóa bỏ nông nghiệp"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Bảo vệ quyền lợi phụ nữ."
+  },
+  {
+    "id": "his_68",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Tư tưởng “Hiền tài là nguyên khí quốc gia” thuộc thời kỳ:",
+    "options": [
+      "Nhà Đinh",
+      "Nhà Lý",
+      "Nhà Trần",
+      "Nhà Lê Sơ"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Nhà Lê Sơ."
+  },
+  {
+    "id": "his_69",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Người nói câu “Hiền tài là nguyên khí quốc gia” là:",
+    "options": [
+      "Nguyễn Trãi",
+      "Lê Lợi",
+      "Thân Nhân Trung",
+      "Chu Văn An"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Thân Nhân Trung."
+  },
+  {
+    "id": "his_70",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Tác phẩm “Bình Ngô đại cáo” gắn với tên tuổi:",
+    "options": [
+      "Nguyễn Trãi",
+      "Lê Thánh Tông",
+      "Trần Hưng Đạo",
+      "Lý Công Uẩn"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Nguyễn Trãi."
+  },
+  {
+    "id": "his_71",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chính sách “lấy dân làm gốc” nhấn mạnh:",
+    "options": [
+      "Chỉ chú trọng quân đội",
+      "Chăm lo đời sống nhân dân",
+      "Phát triển thương mại",
+      "Mở rộng lãnh thổ bằng chiến tranh"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Chăm lo đời sống nhân dân."
+  },
+  {
+    "id": "his_72",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Khoan thư sức dân” có nghĩa là:",
+    "options": [
+      "Tăng sưu thuế",
+      "Chăm lo đời sống nhân dân",
+      "Giảm học hành",
+      "Tăng lao dịch"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Chăm lo đời sống nhân dân."
+  },
+  {
+    "id": "his_73",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Ngụ binh ư nông” nghĩa là:",
+    "options": [
+      "Quân đội chỉ ở doanh trại",
+      "Đưa dân vào quân đội thường trực",
+      "Gửi binh ở nhà nông",
+      "Bỏ sản xuất nông nghiệp"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Gửi binh ở nhà nông."
+  },
+  {
+    "id": "his_74",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Truyền thống nổi bật của dân tộc Việt Nam qua các triều đại là:",
+    "options": [
+      "Hiếu học",
+      "Sùng bái chiến tranh",
+      "Tách biệt thế giới",
+      "Phân biệt giai cấp cực đoan"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Hiếu học."
+  },
+  {
+    "id": "his_75",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Việc dựng bia Tiến sĩ thể hiện truyền thống:",
+    "options": [
+      "Hiếu học và trọng dụng nhân tài",
+      "Mê tín dị đoan",
+      "Đóng cửa đất nước",
+      "Chỉ coi trọng võ thuật"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Hiếu học và trọng dụng nhân tài."
+  },
+  {
+    "id": "his_76",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Tam giáo đồng nguyên” phản ánh sự:",
+    "options": [
+      "Độc tôn tôn giáo",
+      "Hòa hợp tư tưởng",
+      "Bài trừ văn hóa",
+      "Chống giáo dục"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Hòa hợp tư tưởng."
+  },
+  {
+    "id": "his_77",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Đảng Cộng sản Việt Nam thành lập vào ngày:",
+    "options": [
+      "19/8/1945",
+      "3/2/1930",
+      "7/5/1954",
+      "30/4/1975"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 3/2/1930."
+  },
+  {
+    "id": "his_78",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Sự kiện đánh dấu bước ngoặt vĩ đại của cách mạng Việt Nam là:",
+    "options": [
+      "Thành lập Đảng Cộng sản Việt Nam",
+      "Thành lập ASEAN",
+      "Khởi nghĩa Yên Bái",
+      "Chiến tranh thế giới thứ hai"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Thành lập Đảng Cộng sản Việt Nam."
+  },
+  {
+    "id": "his_79",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Phong trào cách mạng 1930 – 1931 có đỉnh cao là:",
+    "options": [
+      "Đồng Khởi",
+      "Xô viết Nghệ – Tĩnh",
+      "Khởi nghĩa Bắc Sơn",
+      "Khởi nghĩa Nam Kỳ"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Xô viết Nghệ – Tĩnh."
+  },
+  {
+    "id": "his_80",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Xô viết Nghệ – Tĩnh được xem là:",
+    "options": [
+      "Cuộc tổng diễn tập đầu tiên",
+      "Trận đánh lớn nhất",
+      "Hội nghị quốc tế",
+      "Bộ luật đầu tiên"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Cuộc tổng diễn tập đầu tiên."
+  },
+  {
+    "id": "his_81",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Giai đoạn 1936 – 1939 diễn ra cuộc vận động:",
+    "options": [
+      "Văn hóa",
+      "Khởi nghĩa vũ trang",
+      "Dân chủ",
+      "Công nghiệp hóa"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Dân chủ."
+  },
+  {
+    "id": "his_82",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Cách mạng Tháng Tám thành công vào năm:",
+    "options": [
+      "1945",
+      "1954",
+      "1975",
+      "1930"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: 1945."
+  },
+  {
+    "id": "his_83",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Ngày Quốc khánh nước Việt Nam Dân chủ Cộng hòa là:",
+    "options": [
+      "30/4",
+      "19/8",
+      "2/9",
+      "22/12"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 2/9."
+  },
+  {
+    "id": "his_84",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Người đọc Tuyên ngôn Độc lập năm 1945 là:",
+    "options": [
+      "Võ Nguyên Giáp",
+      "Hồ Chí Minh",
+      "Trường Chinh",
+      "Phạm Văn Đồng"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Hồ Chí Minh."
+  },
+  {
+    "id": "his_85",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Cuộc kháng chiến chống Pháp diễn ra trong giai đoạn:",
+    "options": [
+      "1930 – 1945",
+      "1946 – 1954",
+      "1954 – 1975",
+      "1975 – 1986"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 1946 – 1954."
+  },
+  {
+    "id": "his_86",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chiến thắng “lừng lẫy năm châu, chấn động địa cầu” là:",
+    "options": [
+      "Điện Biên Phủ",
+      "Bạch Đằng",
+      "Chi Lăng",
+      "Ngọc Hồi – Đống Đa"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Điện Biên Phủ."
+  },
+  {
+    "id": "his_87",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chiến thắng Điện Biên Phủ diễn ra năm:",
+    "options": [
+      "1945",
+      "1950",
+      "1954",
+      "1975"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 1954."
+  },
+  {
+    "id": "his_88",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Hiệp định Giơ-ne-vơ được ký sau thắng lợi nào?",
+    "options": [
+      "Cách mạng tháng Tám",
+      "Điện Biên Phủ",
+      "Đồng Khởi",
+      "Hồ Chí Minh"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Điện Biên Phủ."
+  },
+  {
+    "id": "his_89",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Cuộc kháng chiến chống Mỹ cứu nước diễn ra giai đoạn:",
+    "options": [
+      "1930 – 1945",
+      "1945 – 1954",
+      "1954 – 1975",
+      "1975 – 1986"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 1954 – 1975."
+  },
+  {
+    "id": "his_90",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Phong trào Đồng Khởi nổ ra năm:",
+    "options": [
+      "1954",
+      "1960",
+      "1968",
+      "1972"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 1960."
+  },
+  {
+    "id": "his_91",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Điện Biên Phủ trên không” diễn ra năm:",
+    "options": [
+      "1968",
+      "1970",
+      "1972",
+      "1975"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 1972."
+  },
+  {
+    "id": "his_92",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chiến dịch Hồ Chí Minh toàn thắng vào ngày:",
+    "options": [
+      "2/9/1945",
+      "7/5/1954",
+      "30/4/1975",
+      "19/8/1945"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 30/4/1975."
+  },
+  {
+    "id": "his_93",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Thắng lợi 30/4/1975 có ý nghĩa:",
+    "options": [
+      "Chia cắt đất nước",
+      "Giải phóng miền Nam, thống nhất đất nước",
+      "Chấm dứt chiến tranh thế giới",
+      "Thành lập ASEAN"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Giải phóng miền Nam, thống nhất đất nước."
+  },
+  {
+    "id": "his_94",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Nhân tố hàng đầu quyết định thắng lợi cách mạng Việt Nam là:",
+    "options": [
+      "Viện trợ quốc tế",
+      "Tài nguyên thiên nhiên",
+      "Sự lãnh đạo đúng đắn của Đảng",
+      "Dân số đông"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Sự lãnh đạo đúng đắn của Đảng."
+  },
+  {
+    "id": "his_95",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Sức mạnh quan trọng của cách mạng Việt Nam là:",
+    "options": [
+      "Đại đoàn kết toàn dân",
+      "Chỉ dựa vào quân đội",
+      "Chỉ dựa vào nước ngoài",
+      "Chỉ dựa vào kinh tế"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đại đoàn kết toàn dân."
+  },
+  {
+    "id": "his_96",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Một bài học kinh nghiệm của cách mạng Việt Nam là:",
+    "options": [
+      "Thụ động chờ thời cơ",
+      "Tự lực tự cường",
+      "Tách biệt quốc tế",
+      "Không cần đoàn kết"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Tự lực tự cường."
+  },
+  {
+    "id": "his_97",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Kết hợp sức mạnh dân tộc với sức mạnh thời đại” nghĩa là:",
+    "options": [
+      "Chỉ dựa vào nước ngoài",
+      "Chỉ dựa vào trong nước",
+      "Kết hợp nội lực và sự ủng hộ quốc tế",
+      "Không hội nhập quốc tế"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Kết hợp nội lực và sự ủng hộ quốc tế."
+  },
+  {
+    "id": "his_98",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Trách nhiệm của thế hệ trẻ hiện nay là:",
+    "options": [
+      "Phủ nhận lịch sử",
+      "Giữ gìn và phát huy thành quả cách mạng",
+      "Thờ ơ với đất nước",
+      "Chỉ quan tâm cá nhân"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Giữ gìn và phát huy thành quả cách mạng."
+  },
+  {
+    "id": "his_99",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Trong thời đại số, thanh niên cần:",
+    "options": [
+      "Tin mọi thông tin mạng",
+      "Tỉnh táo trước thông tin sai lệch",
+      "Không sử dụng công nghệ",
+      "Từ chối hội nhập"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Tỉnh táo trước thông tin sai lệch."
+  },
+  {
+    "id": "his_100",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Tri thức là vũ khí giữ nước hiện đại” nhấn mạnh vai trò của:",
+    "options": [
+      "Học tập và công nghệ",
+      "Vũ khí cổ truyền",
+      "Ruộng đất",
+      "Buôn bán nhỏ lẻ"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Học tập và công nghệ."
+  },
+  {
+    "id": "his_101",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Một biểu hiện của lòng biết ơn thế hệ đi trước là:",
+    "options": [
+      "Đền ơn đáp nghĩa",
+      "Phá hoại di tích",
+      "Xuyên tạc lịch sử",
+      "Thờ ơ xã hội"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đền ơn đáp nghĩa."
+  },
+  {
+    "id": "his_102",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chiến dịch Hồ Chí Minh là chiến dịch quân sự:",
+    "options": [
+      "Quy mô nhỏ",
+      "Quy mô trung bình",
+      "Hiệp đồng binh chủng lớn nhất lịch sử dân tộc",
+      "Chỉ diễn ra ở miền Bắc"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Hiệp đồng binh chủng lớn nhất lịch sử dân tộc."
+  },
+  {
+    "id": "his_103",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chiến dịch Hồ Chí Minh đã kết thúc cuộc kháng chiến chống:",
+    "options": [
+      "Pháp",
+      "Nhật",
+      "Mỹ",
+      "Tống"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Mỹ."
+  },
+  {
+    "id": "his_104",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chiến thắng 30/4/1975 chấm dứt:",
+    "options": [
+      "10 năm chiến tranh",
+      "21 năm kháng chiến chống Mỹ",
+      "5 năm nội chiến",
+      "Chiến tranh thế giới"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 21 năm kháng chiến chống Mỹ."
+  },
+  {
+    "id": "his_105",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Sau năm 1975, Việt Nam bước vào kỷ nguyên:",
+    "options": [
+      "Chia cắt lâu dài",
+      "Độc lập, thống nhất",
+      "Phụ thuộc nước ngoài",
+      "Thực dân mới"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Độc lập, thống nhất."
+  },
+  {
+    "id": "his_106",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Nghệ thuật quân sự nổi bật của chiến dịch Hồ Chí Minh là:",
+    "options": [
+      "Chậm chắc",
+      "Phòng thủ bị động",
+      "“Thần tốc, táo bạo, bất ngờ, chắc thắng”",
+      "Đánh lâu dài"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: “Thần tốc, táo bạo, bất ngờ, chắc thắng”."
+  },
+  {
+    "id": "his_107",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chiến thắng 1975 chứng minh sức mạnh của:",
+    "options": [
+      "Chủ nghĩa cá nhân",
+      "Đại đoàn kết dân tộc",
+      "Tách biệt quốc tế",
+      "Quân đội đánh thuê"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Đại đoàn kết dân tộc."
+  },
+  {
+    "id": "his_108",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Chiến thắng 30/4/1975 có tác động quốc tế như thế nào?",
+    "options": [
+      "Cổ vũ phong trào giải phóng dân tộc",
+      "Làm suy yếu phong trào hòa bình",
+      "Tăng chiến tranh thuộc địa",
+      "Không ảnh hưởng quốc tế"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Cổ vũ phong trào giải phóng dân tộc."
+  },
+  {
+    "id": "his_109",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Hòa bình hôm nay được đánh đổi bằng:",
+    "options": [
+      "Tiền bạc",
+      "Tài nguyên",
+      "Xương máu cha ông",
+      "Viện trợ nước ngoài"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Xương máu cha ông."
+  },
+  {
+    "id": "his_110",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Biên cương tư tưởng” hiện nay cần được bảo vệ bằng:",
+    "options": [
+      "Nhận thức chính trị đúng đắn",
+      "Bạo lực",
+      "Tẩy chay công nghệ",
+      "Đóng cửa hội nhập"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Nhận thức chính trị đúng đắn."
+  },
+  {
+    "id": "his_111",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Theo bài học lịch sử, sinh viên hiện nay cần:",
+    "options": [
+      "Học thật, làm thật",
+      "Gian lận trong học tập",
+      "Chỉ học lý thuyết",
+      "Không cần kỹ năng mềm"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Học thật, làm thật."
+  },
+  {
+    "id": "his_112",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Nhà nước đầu tiên của người Việt cổ là:",
+    "options": [
+      "Đại Việt",
+      "Văn Lang",
+      "Đại Cồ Việt",
+      "Champa"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Văn Lang."
+  },
+  {
+    "id": "his_113",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Thành Cổ Loa thuộc thời kỳ:",
+    "options": [
+      "Văn Lang",
+      "Âu Lạc",
+      "Đại Việt",
+      "Nhà Nguyễn"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Âu Lạc."
+  },
+  {
+    "id": "his_114",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Quốc Tử Giám được lập nhằm mục đích:",
+    "options": [
+      "Đào tạo nhân tài",
+      "Mở rộng quân đội",
+      "Phát triển thương mại",
+      "Truyền bá tôn giáo"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đào tạo nhân tài."
+  },
+  {
+    "id": "his_115",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Tinh thần đoàn kết toàn dân thể hiện rõ nhất thời Trần qua:",
+    "options": [
+      "Hội nghị Diên Hồng",
+      "Lễ Tịch điền",
+      "Bình Ngô đại cáo",
+      "Văn Miếu"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Hội nghị Diên Hồng."
+  },
+  {
+    "id": "his_116",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Bộ luật tiến bộ thời Lê là:",
+    "options": [
+      "Hình thư",
+      "Luật Hồng Đức",
+      "Gia Long",
+      "Hán luật"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Luật Hồng Đức."
+  },
+  {
+    "id": "his_117",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Đảng Cộng sản Việt Nam ra đời đã:",
+    "options": [
+      "Chấm dứt khủng hoảng đường lối cứu nước",
+      "Làm đất nước chia rẽ",
+      "Kéo dài chiến tranh",
+      "Xóa bỏ giáo dục"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Chấm dứt khủng hoảng đường lối cứu nước."
+  },
+  {
+    "id": "his_118",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Nước Việt Nam Dân chủ Cộng hòa ra đời sau thắng lợi của:",
+    "options": [
+      "Khởi nghĩa Yên Bái",
+      "Cách mạng tháng Tám",
+      "Đồng Khởi",
+      "Điện Biên Phủ"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Cách mạng tháng Tám."
+  },
+  {
+    "id": "his_119",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Hiệp định Giơ-ne-vơ được ký năm:",
+    "options": [
+      "1945",
+      "1950",
+      "1954",
+      "1975"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 1954."
+  },
+  {
+    "id": "his_120",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Đại thắng mùa Xuân 1975 đã:",
+    "options": [
+      "Giải phóng hoàn toàn miền Nam",
+      "Chia cắt đất nước",
+      "Mở đầu chiến tranh",
+      "Xóa bỏ độc lập dân tộc"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Giải phóng hoàn toàn miền Nam."
+  },
+  {
+    "id": "his_121",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Yếu tố giúp dân tộc Việt Nam vượt qua nhiều kẻ thù mạnh là:",
+    "options": [
+      "Đoàn kết dân tộc",
+      "Diện tích rộng",
+      "Dân số đông",
+      "Nhiều khoáng sản"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đoàn kết dân tộc."
+  },
+  {
+    "id": "his_122",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Hiếu học” là truyền thống được thể hiện qua:",
+    "options": [
+      "Dựng bia Tiến sĩ",
+      "Xây thành lũy",
+      "Đánh trận",
+      "Đúc vũ khí"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Dựng bia Tiến sĩ."
+  },
+  {
+    "id": "his_123",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Sinh viên hiện nay cần làm gì để bảo vệ Tổ quốc?",
+    "options": [
+      "Không học tập",
+      "Rèn luyện trí tuệ và đạo đức",
+      "Thờ ơ chính trị",
+      "Chỉ quan tâm giải trí"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Rèn luyện trí tuệ và đạo đức."
+  },
+  {
+    "id": "his_124",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Một trong những kỹ năng cần thiết của thanh niên thời hội nhập là:",
+    "options": [
+      "Tư duy phản biện",
+      "Né tránh giao tiếp",
+      "Phụ thuộc người khác",
+      "Không làm việc nhóm"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Tư duy phản biện."
+  },
+  {
+    "id": "his_125",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Giữ gìn bản sắc dân tộc nghĩa là:",
+    "options": [
+      "Từ bỏ văn hóa Việt",
+      "Phát huy giá trị truyền thống",
+      "Chỉ học văn hóa nước ngoài",
+      "Không giao lưu quốc tế"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Phát huy giá trị truyền thống."
+  },
+  {
+    "id": "his_126",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Thành tựu lớn nhất của thời Trần về quân sự là:",
+    "options": [
+      "Đánh thắng quân Nguyên – Mông",
+      "Thành lập Văn Miếu",
+      "Ban hành Luật Hồng Đức",
+      "Dời đô Thăng Long"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đánh thắng quân Nguyên – Mông."
+  },
+  {
+    "id": "his_127",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Nam quốc sơn hà” khẳng định:",
+    "options": [
+      "Chủ quyền dân tộc",
+      "Quyền lực vua chúa",
+      "Phát triển thương mại",
+      "Chính sách thuế khóa"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Chủ quyền dân tộc."
+  },
+  {
+    "id": "his_128",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Một trách nhiệm quan trọng của thanh niên hiện nay là:",
+    "options": [
+      "Lan truyền tin giả",
+      "Bảo vệ nền tảng tư tưởng đúng đắn",
+      "Thờ ơ lịch sử",
+      "Phủ nhận truyền thống"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Bảo vệ nền tảng tư tưởng đúng đắn."
+  },
+  {
+    "id": "his_129",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "“Bản lĩnh – Trí tuệ – Đạo đức” là hành trang cần có của:",
+    "options": [
+      "Thế hệ trẻ",
+      "Chỉ quân đội",
+      "Chỉ cán bộ lãnh đạo",
+      "Chỉ doanh nhân"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Thế hệ trẻ."
+  },
+  {
+    "id": "his_130",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Thành tựu văn hóa nổi bật thời Lý là:",
+    "options": [
+      "Chùa Một Cột",
+      "Thành Nhà Hồ",
+      "Kinh thành Huế",
+      "Phố cổ Hội An"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Chùa Một Cột."
+  },
+  {
+    "id": "his_131",
+    "subject": "his",
+    "subjectName": "Lịch sử - Xã hội",
+    "question": "Bài học lớn xuyên suốt lịch sử Việt Nam là:",
+    "options": [
+      "Đoàn kết tạo nên sức mạnh dân tộc",
+      "Chỉ dựa vào nước ngoài",
+      "Đóng cửa đất nước",
+      "Không cần giáo dục"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đoàn kết tạo nên sức mạnh dân tộc."
+  },
+  {
+    "id": "geo_61",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Trái Đất là hành tinh thứ mấy tính từ Mặt Trời?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 3."
+  },
+  {
+    "id": "geo_62",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Trái Đất thuộc:",
+    "options": [
+      "Hệ Sao Hỏa",
+      "Hệ Mặt Trời",
+      "Hệ Alpha",
+      "Hệ Thiên Lang"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Hệ Mặt Trời."
+  },
+  {
+    "id": "geo_63",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Khoảng cách trung bình từ Trái Đất đến Mặt Trăng là:",
+    "options": [
+      "284.400 km",
+      "384.400 km",
+      "484.400 km",
+      "584.400 km"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 384.400 km."
+  },
+  {
+    "id": "geo_64",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Trái Đất có dạng:",
+    "options": [
+      "Hình vuông",
+      "Hình cầu hơi dẹt ở hai cực",
+      "Hình tam giác",
+      "Hình phẳng"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Hình cầu hơi dẹt ở hai cực."
+  },
+  {
+    "id": "geo_65",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Bán kính trung bình của Trái Đất khoảng:",
+    "options": [
+      "5.371 km",
+      "6.371 km",
+      "7.371 km",
+      "8.371 km"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 6.371 km."
+  },
+  {
+    "id": "geo_66",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Diện tích bề mặt Trái Đất khoảng:",
+    "options": [
+      "410 triệu km²",
+      "510 triệu km²",
+      "610 triệu km²",
+      "710 triệu km²"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 510 triệu km²."
+  },
+  {
+    "id": "geo_67",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Thể tích Trái Đất khoảng:",
+    "options": [
+      "1.083 triệu km³",
+      "1.083 tỉ km³",
+      "2.083 tỉ km³",
+      "3.083 tỉ km³"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 1.083 tỉ km³."
+  },
+  {
+    "id": "geo_68",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Nơi cao nhất thế giới là:",
+    "options": [
+      "Fansipan",
+      "Everest",
+      "Alps",
+      "Himalaya"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Everest."
+  },
+  {
+    "id": "geo_69",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Trái Đất tự quay quanh:",
+    "options": [
+      "Mặt Trời",
+      "Mặt Trăng",
+      "Trục tưởng tượng",
+      "Sao Kim"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Trục tưởng tượng."
+  },
+  {
+    "id": "geo_70",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Hướng quay của Trái Đất là:",
+    "options": [
+      "Đông sang Tây",
+      "Tây sang Đông",
+      "Bắc sang Nam",
+      "Nam sang Bắc"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Tây sang Đông."
+  },
+  {
+    "id": "geo_71",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Thời gian Trái Đất quay hết một vòng quanh trục là:",
+    "options": [
+      "12 giờ",
+      "18 giờ",
+      "24 giờ",
+      "48 giờ"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 24 giờ."
+  },
+  {
+    "id": "geo_72",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Hiện tượng ngày đêm luân phiên do:",
+    "options": [
+      "Trái Đất quay quanh Mặt Trời",
+      "Trái Đất tự quay quanh trục",
+      "Mặt Trăng quay quanh Trái Đất",
+      "Mặt Trời đứng yên"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Trái Đất tự quay quanh trục."
+  },
+  {
+    "id": "geo_73",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Trái Đất được chia thành:",
+    "options": [
+      "12 múi giờ",
+      "18 múi giờ",
+      "24 múi giờ",
+      "36 múi giờ"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 24 múi giờ."
+  },
+  {
+    "id": "geo_74",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Việt Nam thuộc múi giờ số:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 7."
+  },
+  {
+    "id": "geo_75",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Ở bán cầu Bắc, vật chuyển động bị lệch:",
+    "options": [
+      "Sang trái",
+      "Sang phải",
+      "Lên trên",
+      "Xuống dưới"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Sang phải."
+  },
+  {
+    "id": "geo_76",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Trái Đất chuyển động quanh:",
+    "options": [
+      "Sao Hỏa",
+      "Sao Kim",
+      "Mặt Trời",
+      "Mặt Trăng"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Mặt Trời."
+  },
+  {
+    "id": "geo_77",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Quỹ đạo chuyển động quanh Mặt Trời có dạng:",
+    "options": [
+      "Hình vuông",
+      "Hình tròn",
+      "Hình elip",
+      "Hình tam giác"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Hình elip."
+  },
+  {
+    "id": "geo_78",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Thời gian Trái Đất quay quanh Mặt Trời là:",
+    "options": [
+      "300 ngày",
+      "365 ngày",
+      "365 ngày 6 giờ",
+      "400 ngày"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 365 ngày 6 giờ."
+  },
+  {
+    "id": "geo_79",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Các mùa trong năm xuất hiện do:",
+    "options": [
+      "Trái Đất tự quay",
+      "Trái Đất quay quanh Mặt Trời",
+      "Núi lửa",
+      "Động đất"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Trái Đất quay quanh Mặt Trời."
+  },
+  {
+    "id": "geo_80",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Mùa hạ ở bán cầu Bắc có:",
+    "options": [
+      "Ngày dài hơn đêm",
+      "Đêm dài hơn ngày",
+      "Ngày bằng đêm",
+      "Không xác định"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Ngày dài hơn đêm."
+  },
+  {
+    "id": "geo_81",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Mùa đông ở bán cầu Bắc có:",
+    "options": [
+      "Ngày dài hơn đêm",
+      "Đêm dài hơn ngày",
+      "Ngày bằng đêm",
+      "Không có đêm"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Đêm dài hơn ngày."
+  },
+  {
+    "id": "geo_82",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Hiện tượng Mặt Trời lên thiên đỉnh xảy ra ở:",
+    "options": [
+      "Ngoài chí tuyến",
+      "Nội chí tuyến",
+      "Bắc Cực",
+      "Nam Cực"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Nội chí tuyến."
+  },
+  {
+    "id": "geo_83",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Lục địa chiếm khoảng bao nhiêu diện tích Trái Đất?",
+    "options": [
+      "149 triệu km²",
+      "249 triệu km²",
+      "349 triệu km²",
+      "449 triệu km²"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 349 triệu km²."
+  },
+  {
+    "id": "geo_84",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đại dương chiếm khoảng:",
+    "options": [
+      "161 triệu km²",
+      "261 triệu km²",
+      "361 triệu km²",
+      "461 triệu km²"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: 461 triệu km²."
+  },
+  {
+    "id": "geo_85",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Lực làm lệch hướng chuyển động trên Trái Đất gọi là:",
+    "options": [
+      "Lực hút",
+      "Lực hấp dẫn",
+      "Lực Coriolis",
+      "Lực đẩy"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Lực hấp dẫn."
+  },
+  {
+    "id": "geo_86",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Một năm nhuận có:",
+    "options": [
+      "364 ngày",
+      "365 ngày",
+      "366 ngày",
+      "367 ngày"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 366 ngày."
+  },
+  {
+    "id": "geo_87",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Trái Đất nằm trong:",
+    "options": [
+      "Dải Ngân Hà",
+      "Hệ Alpha",
+      "Chòm Bắc Đẩu",
+      "Hệ Thiên Lang"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Dải Ngân Hà."
+  },
+  {
+    "id": "geo_88",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Bề mặt Trái Đất gồm:",
+    "options": [
+      "Núi và biển",
+      "Lục địa và đại dương",
+      "Đồng bằng và núi",
+      "Sa mạc và rừng"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Lục địa và đại dương."
+  },
+  {
+    "id": "geo_89",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Nội chí tuyến là khu vực:",
+    "options": [
+      "Giữa hai chí tuyến",
+      "Ngoài hai chí tuyến",
+      "Hai cực",
+      "Bắc bán cầu"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Giữa hai chí tuyến."
+  },
+  {
+    "id": "geo_90",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Ngày đêm dài ngắn theo mùa do:",
+    "options": [
+      "Trái Đất tự quay",
+      "Trái Đất quay quanh Mặt Trời",
+      "Núi lửa",
+      "Sóng thần"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Trái Đất quay quanh Mặt Trời."
+  },
+  {
+    "id": "geo_91",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Sau sáp nhập năm 2025, Hà Giang thuộc tỉnh:",
+    "options": [
+      "Cao Bằng",
+      "Lào Cai",
+      "Tuyên Quang",
+      "Thái Nguyên"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Tuyên Quang."
+  },
+  {
+    "id": "geo_92",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tuyên Quang mới được thành lập từ:",
+    "options": [
+      "Hà Giang và Cao Bằng",
+      "Hà Giang và Tuyên Quang",
+      "Tuyên Quang và Bắc Kạn",
+      "Hà Giang và Lào Cai"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Hà Giang và Tuyên Quang."
+  },
+  {
+    "id": "geo_93",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tỉnh Tuyên Quang mới nằm ở vùng:",
+    "options": [
+      "Tây Nguyên",
+      "Đông Bắc Bắc Bộ",
+      "Nam Bộ",
+      "Bắc Trung Bộ"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Đông Bắc Bắc Bộ."
+  },
+  {
+    "id": "geo_94",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tuyên Quang mới giáp quốc gia:",
+    "options": [
+      "Lào",
+      "Campuchia",
+      "Trung Quốc",
+      "Thái Lan"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Trung Quốc."
+  },
+  {
+    "id": "geo_95",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Diện tích tỉnh Tuyên Quang mới khoảng:",
+    "options": [
+      "10.795 km²",
+      "11.795 km²",
+      "12.795 km²",
+      "13.795,5 km²"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: 13.795,5 km²."
+  },
+  {
+    "id": "geo_96",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đường biên giới với Trung Quốc dài khoảng:",
+    "options": [
+      "177 km",
+      "277 km",
+      "377 km",
+      "477 km"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 277 km."
+  },
+  {
+    "id": "geo_97",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Dân số tỉnh Tuyên Quang mới khoảng:",
+    "options": [
+      "860 nghìn người",
+      "1 triệu người",
+      "1,86 triệu người",
+      "2,86 triệu người"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 1,86 triệu người."
+  },
+  {
+    "id": "geo_98",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tỉnh Tuyên Quang mới có bao nhiêu thành phố?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 2."
+  },
+  {
+    "id": "geo_99",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Một trong hai thành phố của tỉnh mới là:",
+    "options": [
+      "Đồng Văn",
+      "Mèo Vạc",
+      "Hà Giang",
+      "Bắc Quang"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Hà Giang."
+  },
+  {
+    "id": "geo_100",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tỉnh Tuyên Quang mới có nhiều dân tộc như:",
+    "options": [
+      "Mông",
+      "Dao",
+      "Tày",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_101",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Cao nguyên đá Đồng Văn được UNESCO công nhận năm:",
+    "options": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 2010."
+  },
+  {
+    "id": "geo_102",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Cao nguyên đá Đồng Văn là:",
+    "options": [
+      "Công viên địa chất toàn cầu",
+      "Khu công nghiệp",
+      "Khu bảo tồn biển",
+      "Đồng bằng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Công viên địa chất toàn cầu."
+  },
+  {
+    "id": "geo_103",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Diện tích Cao nguyên đá Đồng Văn khoảng:",
+    "options": [
+      "1.356 km²",
+      "2.356 km²",
+      "3.356 km²",
+      "4.356 km²"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 2.356 km²."
+  },
+  {
+    "id": "geo_104",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Cao nguyên đá Đồng Văn gồm mấy huyện?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 4."
+  },
+  {
+    "id": "geo_105",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Huyện nào thuộc Công viên địa chất Đồng Văn?",
+    "options": [
+      "Đồng Văn",
+      "Mèo Vạc",
+      "Yên Minh",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_106",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Địa hình chủ yếu ở Đồng Văn là:",
+    "options": [
+      "Đồng bằng",
+      "Núi đất",
+      "Đá vôi",
+      "Núi lửa"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Đá vôi."
+  },
+  {
+    "id": "geo_107",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Địa hình karst hình thành chủ yếu trên:",
+    "options": [
+      "Đá bazan",
+      "Đá vôi",
+      "Đá granit",
+      "Đá đỏ"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Đá vôi."
+  },
+  {
+    "id": "geo_108",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đồng Văn nổi tiếng với:",
+    "options": [
+      "Núi đá tai mèo",
+      "Đồng bằng rộng lớn",
+      "Biển",
+      "Sa mạc"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Núi đá tai mèo."
+  },
+  {
+    "id": "geo_109",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Giá trị nổi bật nhất của Đồng Văn là:",
+    "options": [
+      "Địa chất",
+      "Dầu khí",
+      "Công nghiệp",
+      "Thủy sản"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Địa chất."
+  },
+  {
+    "id": "geo_110",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Cao nguyên đá Đồng Văn là công viên địa chất toàn cầu đầu tiên của:",
+    "options": [
+      "ASEAN",
+      "Trung Quốc",
+      "Việt Nam",
+      "Châu Á"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Việt Nam."
+  },
+  {
+    "id": "geo_111",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Loại đá chủ yếu ở Đồng Văn là:",
+    "options": [
+      "Đá granit",
+      "Đá bazan",
+      "Đá vôi",
+      "Đá đỏ"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Đá vôi."
+  },
+  {
+    "id": "geo_112",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đồng Văn có nhiều:",
+    "options": [
+      "Hóa thạch cổ",
+      "Núi lửa",
+      "Đồng bằng",
+      "Biển"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Hóa thạch cổ."
+  },
+  {
+    "id": "geo_113",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Huyện không thuộc Công viên địa chất Đồng Văn là:",
+    "options": [
+      "Bắc Quang",
+      "Đồng Văn",
+      "Mèo Vạc",
+      "Quản Bạ"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Bắc Quang."
+  },
+  {
+    "id": "geo_114",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đèo nổi tiếng ở khu vực Đồng Văn là:",
+    "options": [
+      "Hải Vân",
+      "Mã Pí Lèng",
+      "Prenn",
+      "Ô Quy Hồ"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Mã Pí Lèng."
+  },
+  {
+    "id": "geo_115",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Sông nổi tiếng ở Đồng Văn là:",
+    "options": [
+      "Sông Hồng",
+      "Sông Tiền",
+      "Sông Nho Quế",
+      "Sông Hậu"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Sông Nho Quế."
+  },
+  {
+    "id": "geo_116",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "UNESCO là tổ chức của:",
+    "options": [
+      "ASEAN",
+      "Châu Âu",
+      "Liên Hợp Quốc",
+      "NATO"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Liên Hợp Quốc."
+  },
+  {
+    "id": "geo_117",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tuyên Quang mới có thế mạnh về:",
+    "options": [
+      "Du lịch",
+      "Công nghiệp dầu khí",
+      "Đánh bắt hải sản",
+      "Hàng hải"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Du lịch."
+  },
+  {
+    "id": "geo_118",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Địa hình chủ yếu của tỉnh Tuyên Quang mới là:",
+    "options": [
+      "Đồng bằng",
+      "Núi cao",
+      "Sa mạc",
+      "Ven biển"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Núi cao."
+  },
+  {
+    "id": "geo_119",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Người dân vùng núi phát triển mạnh:",
+    "options": [
+      "Du lịch",
+      "Chăn nuôi",
+      "Trồng dược liệu",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_120",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Cao nguyên đá Đồng Văn thu hút nhiều:",
+    "options": [
+      "Ngư dân",
+      "Nhà khoa học và du khách",
+      "Thủy thủ",
+      "Công nhân dầu khí"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Nhà khoa học và du khách."
+  },
+  {
+    "id": "geo_121",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tuyên Quang mới giáp tỉnh:",
+    "options": [
+      "Phú Thọ",
+      "Lào Cai",
+      "Cao Bằng",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_122",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đặc điểm nổi bật của Hà Giang cũ là:",
+    "options": [
+      "Biển",
+      "Núi đá",
+      "Đồng bằng",
+      "Sa mạc"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Núi đá."
+  },
+  {
+    "id": "geo_123",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tỉnh mới có nhiều dân tộc thiểu số:",
+    "options": [
+      "Đúng",
+      "Sai",
+      "Không xác định",
+      "Không có dân tộc"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đúng."
+  },
+  {
+    "id": "geo_124",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Quản Bạ thuộc:",
+    "options": [
+      "Công viên địa chất Đồng Văn",
+      "Đồng bằng Bắc Bộ",
+      "Tây Nguyên",
+      "Duyên hải miền Trung"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Công viên địa chất Đồng Văn."
+  },
+  {
+    "id": "geo_125",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Mèo Vạc là:",
+    "options": [
+      "Thành phố",
+      "Huyện",
+      "Quận",
+      "Quốc gia"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Huyện."
+  },
+  {
+    "id": "geo_126",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Yên Minh thuộc:",
+    "options": [
+      "Đồng Văn",
+      "Công viên địa chất Đồng Văn",
+      "Lào Cai",
+      "Cao Bằng"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Công viên địa chất Đồng Văn."
+  },
+  {
+    "id": "geo_127",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đồng Văn thuộc vùng:",
+    "options": [
+      "Núi đá",
+      "Đồng bằng",
+      "Biển",
+      "Sa mạc"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Núi đá."
+  },
+  {
+    "id": "geo_128",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Địa hình đá vôi dễ hình thành:",
+    "options": [
+      "Hang động",
+      "Hố sụt",
+      "Núi đá",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_129",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tuyên Quang mới có đường biên giới với:",
+    "options": [
+      "Lào",
+      "Campuchia",
+      "Trung Quốc",
+      "Thái Lan"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Trung Quốc."
+  },
+  {
+    "id": "geo_130",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Một trong những dân tộc ở tỉnh mới là:",
+    "options": [
+      "Lô Lô",
+      "Pu Péo",
+      "Dao",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_131",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Ngày và đêm xuất hiện do:",
+    "options": [
+      "Trái Đất quay quanh Mặt Trời",
+      "Trái Đất tự quay quanh trục",
+      "Mặt Trăng quay quanh Trái Đất",
+      "Núi lửa"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Trái Đất tự quay quanh trục."
+  },
+  {
+    "id": "geo_132",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Mặt Trời lên thiên đỉnh mấy lần/năm ở nội chí tuyến?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 2."
+  },
+  {
+    "id": "geo_133",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Việt Nam thuộc bán cầu:",
+    "options": [
+      "Bắc",
+      "Nam",
+      "Tây",
+      "Nam Cực"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Bắc."
+  },
+  {
+    "id": "geo_134",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đỉnh Everest nằm ở:",
+    "options": [
+      "Việt Nam",
+      "Nepal - Trung Quốc",
+      "Nhật Bản",
+      "Ấn Độ"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Nepal - Trung Quốc."
+  },
+  {
+    "id": "geo_135",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Địa hình karst còn gọi là:",
+    "options": [
+      "Địa hình đá vôi",
+      "Địa hình cát",
+      "Địa hình băng",
+      "Địa hình biển"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Địa hình đá vôi."
+  },
+  {
+    "id": "geo_136",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đồng Văn nổi tiếng về:",
+    "options": [
+      "Di sản địa chất",
+      "Biển",
+      "Đồng bằng",
+      "Công nghiệp"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Di sản địa chất."
+  },
+  {
+    "id": "geo_137",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Mã Pí Lèng là:",
+    "options": [
+      "Đèo",
+      "Sông",
+      "Thành phố",
+      "Đồng bằng"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Đèo."
+  },
+  {
+    "id": "geo_138",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Nho Quế là:",
+    "options": [
+      "Hồ",
+      "Sông",
+      "Núi",
+      "Biển"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Sông."
+  },
+  {
+    "id": "geo_139",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tỉnh Tuyên Quang mới có trung tâm hành chính là:",
+    "options": [
+      "Hà Giang",
+      "Tuyên Quang",
+      "Đồng Văn",
+      "Mèo Vạc"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Tuyên Quang."
+  },
+  {
+    "id": "geo_140",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Hà Giang cũ nổi tiếng với:",
+    "options": [
+      "Cao nguyên đá",
+      "Đảo",
+      "Đồng bằng",
+      "Rừng ngập mặn"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Cao nguyên đá."
+  },
+  {
+    "id": "geo_141",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Sự lệch hướng chuyển động là do:",
+    "options": [
+      "Lực hút",
+      "Lực Coriolis",
+      "Sóng thần",
+      "Động đất"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Lực Coriolis."
+  },
+  {
+    "id": "geo_142",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Mặt Trời mọc ở hướng:",
+    "options": [
+      "Tây",
+      "Đông",
+      "Nam",
+      "Bắc"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Đông."
+  },
+  {
+    "id": "geo_143",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Mặt Trời lặn ở hướng:",
+    "options": [
+      "Đông",
+      "Tây",
+      "Bắc",
+      "Nam"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Tây."
+  },
+  {
+    "id": "geo_144",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Bề mặt Trái Đất phần lớn là:",
+    "options": [
+      "Lục địa",
+      "Đại dương",
+      "Núi",
+      "Sa mạc"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Đại dương."
+  },
+  {
+    "id": "geo_145",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Nơi có ngày dài đêm ngắn vào mùa hạ là:",
+    "options": [
+      "Bán cầu Bắc",
+      "Bán cầu Nam",
+      "Xích đạo",
+      "Nam Cực"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Bán cầu Bắc."
+  },
+  {
+    "id": "geo_146",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Trái Đất quay quanh Mặt Trời theo hướng:",
+    "options": [
+      "Đông sang Tây",
+      "Tây sang Đông",
+      "Bắc sang Nam",
+      "Nam sang Bắc"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Tây sang Đông."
+  },
+  {
+    "id": "geo_147",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Một ngày đêm dài:",
+    "options": [
+      "12 giờ",
+      "18 giờ",
+      "24 giờ",
+      "36 giờ"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 24 giờ."
+  },
+  {
+    "id": "geo_148",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Cao nguyên đá Đồng Văn có giá trị về:",
+    "options": [
+      "Khoa học",
+      "Văn hóa",
+      "Du lịch",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_149",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đặc điểm nổi bật của tỉnh mới là:",
+    "options": [
+      "Nhiều dân tộc",
+      "Núi đá hùng vĩ",
+      "Cảnh quan đẹp",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_150",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Công viên địa chất Đồng Văn thuộc mạng lưới:",
+    "options": [
+      "ASEAN",
+      "UNESCO",
+      "FIFA",
+      "WTO"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: UNESCO."
+  },
+  {
+    "id": "geo_151",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đá vôi thường dễ bị:",
+    "options": [
+      "Phong hóa",
+      "Hòa tan",
+      "Xâm thực",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_152",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Cao nguyên đá Đồng Văn có nhiều:",
+    "options": [
+      "Núi đá tai mèo",
+      "Đồng bằng",
+      "Biển",
+      "Sa mạc"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Núi đá tai mèo."
+  },
+  {
+    "id": "geo_153",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tỉnh mới có điều kiện phát triển:",
+    "options": [
+      "Du lịch sinh thái",
+      "Du lịch địa chất",
+      "Du lịch văn hóa",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_154",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đồng Văn thuộc khu vực:",
+    "options": [
+      "Núi cao phía Bắc",
+      "Đồng bằng Bắc Bộ",
+      "Nam Bộ",
+      "Tây Nguyên"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Núi cao phía Bắc."
+  },
+  {
+    "id": "geo_155",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Quản Bạ nổi tiếng với:",
+    "options": [
+      "Núi đôi",
+      "Biển",
+      "Sa mạc",
+      "Đảo"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Núi đôi."
+  },
+  {
+    "id": "geo_156",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Người dân vùng cao thường phát triển:",
+    "options": [
+      "Chăn nuôi",
+      "Trồng dược liệu",
+      "Du lịch",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_157",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Địa hình hiểm trở gây khó khăn cho:",
+    "options": [
+      "Giao thông",
+      "Xây dựng",
+      "Sản xuất",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_158",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tuyên Quang mới có tiềm năng lớn về:",
+    "options": [
+      "Du lịch",
+      "Văn hóa dân tộc",
+      "Cảnh quan thiên nhiên",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Tất cả đều đúng."
+  },
+  {
+    "id": "geo_159",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đặc trưng nổi bật của Cao nguyên đá Đồng Văn là:",
+    "options": [
+      "Địa hình karst đá vôi",
+      "Đồng bằng phù sa",
+      "Núi lửa",
+      "Đảo đá"
+    ],
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: Địa hình karst đá vôi."
+  },
+  {
+    "id": "geo_160",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Milky Way Galaxy là:",
+    "options": [
+      "Hệ Mặt Trời",
+      "Dải Ngân Hà",
+      "Chòm sao Bắc Đẩu",
+      "Thiên hà Andromeda"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Dải Ngân Hà."
+  },
+  {
+    "id": "geo_161",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Orion-Cygnus (Orion Spur) là:",
+    "options": [
+      "Một hành tinh",
+      "Một nhánh nhỏ của Dải Ngân Hà",
+      "Một vệ tinh",
+      "Một ngôi sao"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Một nhánh nhỏ của Dải Ngân Hà."
+  },
+  {
+    "id": "geo_162",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "“Local Group” là:",
+    "options": [
+      "Một hành tinh trong Hệ Mặt Trời",
+      "Một cụm thiên hà gồm Dải Ngân Hà và các thiên hà lân cận",
+      "Một chòm sao",
+      "Một lớp của Trái Đất"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Một cụm thiên hà gồm Dải Ngân Hà và các thiên hà lân cận."
+  },
+  {
+    "id": "geo_163",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Thông tin nào sau đây KHÔNG phải là thông số của Trái Đất?",
+    "options": [
+      "Bán kính trung bình khoảng 6.371 km",
+      "Diện tích khoảng 510 triệu km²",
+      "Thể tích khoảng 1.083 tỉ km³",
+      "Nhiệt độ bề mặt trung bình 5.000°C"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Nhiệt độ bề mặt trung bình 5.000°C."
+  },
+  {
+    "id": "geo_164",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Nội dung nào sau đây KHÔNG đúng về cấu tạo bên trong của Trái Đất?",
+    "options": [
+      "Gồm vỏ, manti và nhân",
+      "Nhân Trái Đất có nhiệt độ rất cao",
+      "Lớp manti nằm giữa vỏ và nhân",
+      "Vỏ Trái Đất là lớp dày nhất"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Vỏ Trái Đất là lớp dày nhất."
+  },
+  {
+    "id": "geo_165",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đặc điểm nào sau đây KHÔNG đúng về lớp vỏ Trái Đất?",
+    "options": [
+      "Là lớp ngoài cùng",
+      "Có độ dày không đồng đều",
+      "Là lớp mỏng nhất",
+      "Có nhiệt độ cao nhất Trái Đất"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Có nhiệt độ cao nhất Trái Đất."
+  },
+  {
+    "id": "geo_166",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Chuyển động của Trái Đất quanh Mặt Trời KHÔNG tạo ra:",
+    "options": [
+      "Các mùa trong năm",
+      "Hiện tượng ngày đêm dài ngắn",
+      "Hiện tượng ngày đêm luân phiên",
+      "Hiện tượng Mặt Trời lên thiên đỉnh"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Hiện tượng ngày đêm luân phiên."
+  },
+  {
+    "id": "geo_167",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Nguyên nhân nào sau đây KHÔNG tạo nên hiện tượng ngày và đêm trên Trái Đất?",
+    "options": [
+      "Trái Đất có dạng hình cầu",
+      "Trái Đất tự quay quanh trục",
+      "Trái Đất chuyển động quanh Mặt Trời",
+      "Mặt Trời chỉ chiếu sáng một nửa Trái Đất"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Trái Đất chuyển động quanh Mặt Trời."
+  },
+  {
+    "id": "geo_168",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Thông tin nào sau đây KHÔNG đúng về quy ước giờ trên Trái Đất?",
+    "options": [
+      "Trái Đất được chia thành 24 múi giờ",
+      "Mỗi múi giờ rộng 15° kinh tuyến",
+      "Việt Nam thuộc múi giờ số 7",
+      "Mọi nơi trên Trái Đất đều có cùng giờ"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Mọi nơi trên Trái Đất đều có cùng giờ."
+  },
+  {
+    "id": "geo_169",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Ở bán cầu Bắc, lực Côriôlit làm vật chuyển động lệch:",
+    "options": [
+      "Sang trái",
+      "Sang phải",
+      "Không lệch",
+      "Lên trên"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: Sang phải."
+  },
+  {
+    "id": "geo_170",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Dân số tỉnh Tuyên Quang năm 2025 sau sáp nhập khoảng:",
+    "options": [
+      "860 nghìn người",
+      "1 triệu người",
+      "1,86 triệu người",
+      "2,86 triệu người"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 1,86 triệu người."
+  },
+  {
+    "id": "geo_171",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Diện tích tỉnh Tuyên Quang năm 2025 sau sáp nhập khoảng:",
+    "options": [
+      "10.795 km²",
+      "11.795 km²",
+      "12.795 km²",
+      "13.795,5 km²"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: 13.795,5 km²."
+  },
+  {
+    "id": "geo_172",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đường biên giới tỉnh Tuyên Quang sau sáp nhập dài khoảng:",
+    "options": [
+      "177 km",
+      "277 km",
+      "377 km",
+      "477 km"
+    ],
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 277 km."
+  },
+  {
+    "id": "geo_173",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tỉnh Tuyên Quang sau sáp nhập có:",
+    "options": [
+      "112 đơn vị hành chính cấp xã",
+      "124 đơn vị hành chính cấp xã",
+      "137 đơn vị hành chính cấp xã",
+      "150 đơn vị hành chính cấp xã"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 137 đơn vị hành chính cấp xã."
+  },
+  {
+    "id": "geo_174",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Tọa độ phía Bắc của Tuyên Quang khoảng:",
+    "options": [
+      "20°10’B",
+      "21°23’B",
+      "23°23’B",
+      "24°30’B"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 23°23’B."
+  },
+  {
+    "id": "geo_175",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Loại đá chủ yếu được hình thành trên Cao nguyên đá Đồng Văn là:",
+    "options": [
+      "Đá bazan",
+      "Đá granit",
+      "Đá vôi",
+      "Đá đỏ"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Đá vôi."
+  },
+  {
+    "id": "geo_176",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Đặc điểm nào sau đây KHÔNG phải của đá chủ yếu ở Đồng Văn?",
+    "options": [
+      "Dễ hòa tan",
+      "Hình thành địa hình karst",
+      "Tạo nhiều hang động",
+      "Có nguồn gốc núi lửa bazan"
+    ],
+    "answer": 3,
+    "explanation": "Đáp án đúng là D: Có nguồn gốc núi lửa bazan."
+  },
+  {
+    "id": "geo_177",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Độ cao trung bình của Cao nguyên đá Đồng Văn khoảng:",
+    "options": [
+      "200 – 400 m",
+      "500 – 800 m",
+      "1.000 – 1.600 m",
+      "2.000 – 2.500 m"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: 1.000 – 1.600 m."
+  },
+  {
+    "id": "geo_178",
+    "subject": "geo",
+    "subjectName": "Địa lí Tự nhiên",
+    "question": "Nhận định nào sau đây KHÔNG đúng về Cao nguyên đá Đồng Văn?",
+    "options": [
+      "Là Công viên địa chất toàn cầu",
+      "Có giá trị địa chất và văn hóa lớn",
+      "Thuộc vùng đồng bằng ven biển",
+      "Có nhiều hóa thạch cổ"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là C: Thuộc vùng đồng bằng ven biển."
   }
 ];
 

@@ -82,6 +82,7 @@ function renderHome() {
   }
 
   renderExamCourseOptions();
+  renderExamDeOptions();
   renderHistory();
 }
 
@@ -182,14 +183,28 @@ function renderExamCourseOptions() {
 
 function selectExamCourse(courseId, btn) {
   state.examCourse = courseId;
+  state.examDe = 1;
   document.querySelectorAll('.exam-course-btn').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
+  renderExamDeOptions();
 }
 
 function selectDe(btn) {
   document.querySelectorAll('.exam-de-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   state.examDe = parseInt(btn.dataset.de);
+}
+
+function renderExamDeOptions() {
+  const row = document.getElementById('exam-de-row');
+  if (!row) return;
+  const count = getExamDeCount(state.examCourse);
+  if (state.examDe > count) state.examDe = 1;
+  row.innerHTML = Array.from({length: count}, (_, i) => {
+    const de = i + 1;
+    const active = de === state.examDe ? ' active' : '';
+    return `<button class="exam-de-btn${active}" data-de="${de}" onclick="selectDe(this)">Đề ${de}</button>`;
+  }).join('');
 }
 
 function setExamTime(mins, btn) {
@@ -201,6 +216,8 @@ function setExamTime(mins, btn) {
 function startExam() {
   const mins = parseInt(document.getElementById('exam-time').value) || 60;
   const course = EXAM_COURSES.find(c => c.id === state.examCourse) || EXAM_COURSES[0];
+  const deCount = getExamDeCount(course.id);
+  if (state.examDe > deCount) state.examDe = 1;
   const basePool = getExamPool(course.id, state.examDe);
   if (!basePool.length) {
     alert('Học phần này chưa có câu hỏi.');
@@ -261,9 +278,12 @@ function getExamPool(courseId, de) {
   const questionsPerExam = 50;
   const ordered = seededShuffle(getCourseQuestions(courseId), hashString(courseId));
   const start = (de - 1) * questionsPerExam;
-  const end = start + questionsPerExam;
-  const slice = ordered.slice(start, end);
-  return slice.length ? slice : ordered.slice(0, Math.min(questionsPerExam, ordered.length));
+  return ordered.slice(start, start + questionsPerExam);
+}
+
+function getExamDeCount(courseId) {
+  const total = getCourseQuestions(courseId).length;
+  return Math.max(1, Math.floor(total / 50));
 }
 
 /* ===== TIMER ===== */
