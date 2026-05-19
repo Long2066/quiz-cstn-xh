@@ -8842,8 +8842,8 @@ const QUESTION_BANK = [
       "3",
       "4"
     ],
-    "answer": 1,
-    "explanation": "Đáp án đúng là B: 2.",
+    "answer": 0,
+    "explanation": "Đáp án đúng là A: 1.",
     "level": "understanding",
     "levelName": "Đề thông hiểu"
   },
@@ -8851,15 +8851,15 @@ const QUESTION_BANK = [
     "id": "geo_99",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
-    "question": "Một trong hai thành phố của tỉnh mới là:",
+    "question": "Thành phố của tỉnh Tuyên Quang mới theo tài liệu là:",
     "options": [
       "Đồng Văn",
       "Mèo Vạc",
-      "Hà Giang",
+      "Tuyên Quang",
       "Bắc Quang"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Hà Giang.",
+    "explanation": "Đáp án đúng là C: Tuyên Quang.",
     "level": "understanding",
     "levelName": "Đề thông hiểu"
   },
@@ -10848,15 +10848,15 @@ const QUESTION_BANK = [
     "level": "advanced1",
     "levelName": "Đề nâng cao cấp độ 1",
     "sourceTopic": "Chủ đề 2",
-    "question": "Phương án nào nêu đúng hai thành phố trong tỉnh Tuyên Quang mới theo tài liệu?",
+    "question": "Phương án nào nêu đúng số thành phố trong tỉnh Tuyên Quang mới theo tài liệu?",
     "options": [
-      "Quản Bạ và Yên Minh",
-      "Tuyên Quang và Hà Giang",
-      "Đồng Văn và Mèo Vạc",
-      "Cao Bằng và Thái Nguyên"
+      "2 thành phố",
+      "1 thành phố",
+      "3 thành phố",
+      "4 thành phố"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Tuyên Quang và Hà Giang."
+    "explanation": "Đáp án đúng là B: 1 thành phố."
   },
   {
     "id": "geo_adv1_44",
@@ -11069,15 +11069,15 @@ const QUESTION_BANK = [
     "level": "advanced1",
     "levelName": "Đề nâng cao cấp độ 1",
     "sourceTopic": "Chủ đề 2",
-    "question": "Nếu đề thi hỏi 'Tuyên Quang mới có hai thành phố', phương án gây nhiễu hợp lý nhất là:",
+    "question": "Với câu hỏi 'Tuyên Quang mới có bao nhiêu thành phố?', đáp án đúng theo tài liệu là:",
     "options": [
-      "Thành phố Tuyên Quang và thành phố Hà Giang",
-      "Tuyên Quang và Hà Giang",
-      "Hai thành phố trực thuộc tỉnh sau sáp nhập",
-      "Đồng Văn và Mèo Vạc"
+      "4 thành phố",
+      "3 thành phố",
+      "2 thành phố",
+      "1 thành phố"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Đồng Văn và Mèo Vạc."
+    "explanation": "Đáp án đúng là D: 1 thành phố."
   },
   {
     "id": "geo_adv1_57",
