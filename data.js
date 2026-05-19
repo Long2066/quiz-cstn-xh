@@ -8244,24 +8244,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
-    "id": "his_76",
-    "subject": "his",
-    "subjectName": "Lịch sử - Xã hội",
-    "question": "“Tam giáo đồng nguyên” phản ánh sự:",
-    "options": [
-      "Độc tôn tôn giáo",
-      "Hòa hợp tư tưởng",
-      "Bài trừ văn hóa",
-      "Chống giáo dục"
-    ],
-    "answer": 1,
-    "explanation": "Đáp án đúng là B: Hòa hợp tư tưởng.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
     "id": "his_77",
     "subject": "his",
     "subjectName": "Lịch sử - Xã hội",
@@ -10440,24 +10422,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
-    "id": "geo_137",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Mã Pí Lèng là:",
-    "options": [
-      "Đèo",
-      "Sông",
-      "Thành phố",
-      "Đồng bằng"
-    ],
-    "answer": 0,
-    "explanation": "Đáp án đúng là A: Đèo.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
     "id": "geo_138",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -11578,25 +11542,6 @@ const QUESTION_BANK = [
     ],
     "answer": 3,
     "explanation": "Đáp án đúng là D: Trái Đất chuyển động quanh Mặt Trời khoảng 365 ngày 6 giờ.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
-    "id": "geo_adv1_27",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 1",
-    "question": "Trong câu 'mùa hạ ngày dài, đêm ngắn', điều kiện ngầm cần xác định để tránh hiểu sai là:",
-    "options": [
-      "Đang xét toàn Trái Đất cùng một lúc",
-      "Đang xét riêng vùng xích đạo quanh năm",
-      "Đang xét một bán cầu/vĩ độ cụ thể, thường là bán cầu Bắc trong tài liệu",
-      "Đang xét mọi hành tinh trong Hệ Mặt Trời"
-    ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: Đang xét một bán cầu/vĩ độ cụ thể, thường là bán cầu Bắc trong tài liệu.",
     "practiceGroup": "cstn_application",
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
@@ -13767,25 +13712,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
-    "id": "his_adv1_87",
-    "subject": "his",
-    "subjectName": "Lịch sử - Xã hội",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 5",
-    "question": "Điểm cần tránh khi ra câu hỏi lịch sử cho sinh viên sư phạm là:",
-    "options": [
-      "Gắn sự kiện với bối cảnh",
-      "Biến lịch sử thành học vẹt tách khỏi ý nghĩa giáo dục",
-      "Yêu cầu phân tích nguyên nhân - ý nghĩa",
-      "Liên hệ trách nhiệm công dân"
-    ],
-    "answer": 1,
-    "explanation": "Đáp án đúng là B: Biến lịch sử thành học vẹt tách khỏi ý nghĩa giáo dục.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
     "id": "his_adv1_88",
     "subject": "his",
     "subjectName": "Lịch sử - Xã hội",
@@ -14660,25 +14586,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
-    "id": "chem_adv1_18",
-    "subject": "chem",
-    "subjectName": "Chủ đề hóa học",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 7",
-    "question": "Một câu hỏi yêu cầu chọn phát biểu sai về oxygen. Đáp án sai là:",
-    "options": [
-      "Oxygen là khí không màu ở điều kiện thường",
-      "Oxygen duy trì sự cháy",
-      "Oxygen dùng để dập tắt mọi đám cháy vì không duy trì sự cháy",
-      "Oxygen cần cho hô hấp"
-    ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: Oxygen dùng để dập tắt mọi đám cháy vì không duy trì sự cháy.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
     "id": "chem_adv1_19",
     "subject": "chem",
     "subjectName": "Chủ đề hóa học",
@@ -14846,25 +14753,6 @@ const QUESTION_BANK = [
     ],
     "answer": 2,
     "explanation": "Đáp án đúng là C: Phát thải CO2, bụi, khí ô nhiễm và biến đổi khí hậu.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
-    "id": "chem_adv1_29",
-    "subject": "chem",
-    "subjectName": "Chủ đề hóa học",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 7",
-    "question": "Một câu hỏi phân hóa tốt về CO2 ở hang đá vôi là:",
-    "options": [
-      "Vì sao CO2 có thể tích tụ ở đáy hang và gây nguy hiểm dù không nhìn thấy?",
-      "CO2 có phải nước không?",
-      "CO2 có màu gì?",
-      "CO2 có phải kim loại không?"
-    ],
-    "answer": 0,
-    "explanation": "Đáp án đúng là A: Vì sao CO2 có thể tích tụ ở đáy hang và gây nguy hiểm dù không nhìn thấy?.",
     "practiceGroup": "cstn_application",
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
@@ -15435,25 +15323,6 @@ const QUESTION_BANK = [
     ],
     "answer": 3,
     "explanation": "Đáp án đúng là D: Sức khỏe con người phụ thuộc vào nước sạch, không khí sạch, thực phẩm an toàn và hành vi vệ sinh.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
-    "id": "bio_adv1_30",
-    "subject": "bio",
-    "subjectName": "Sinh học",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 8",
-    "question": "Nhận định bao quát đúng nhất về chủ đề sinh học CSTNXH là:",
-    "options": [
-      "Giúp sinh viên hiểu sinh vật, cơ thể người và sức khỏe để tổ chức dạy học trực quan, an toàn, gắn đời sống",
-      "Chỉ học tên loài",
-      "Không cần liên hệ tiểu học",
-      "Tách rời hoàn toàn với giáo dục sức khỏe"
-    ],
-    "answer": 0,
-    "explanation": "Đáp án đúng là A: Giúp sinh viên hiểu sinh vật, cơ thể người và sức khỏe để tổ chức dạy học trực quan, an toàn, gắn đời sống.",
     "practiceGroup": "cstn_application",
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   }
