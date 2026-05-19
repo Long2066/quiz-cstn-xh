@@ -12285,25 +12285,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
-    "id": "his_adv1_8",
-    "subject": "his",
-    "subjectName": "Lịch sử - Xã hội",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 3",
-    "question": "Khi học sinh có biểu hiện lệch chuẩn hành vi, cách phối hợp phù hợp nhất là:",
-    "options": [
-      "Trao đổi với gia đình, tìm nguyên nhân, thống nhất biện pháp hỗ trợ và theo dõi",
-      "Bỏ qua vì trẻ tiểu học sẽ tự hết",
-      "Công khai phê bình trước toàn trường ngay lập tức",
-      "Giao toàn bộ trách nhiệm cho phụ huynh"
-    ],
-    "answer": 0,
-    "explanation": "Đáp án đúng là A: Trao đổi với gia đình, tìm nguyên nhân, thống nhất biện pháp hỗ trợ và theo dõi.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
     "id": "his_adv1_9",
     "subject": "his",
     "subjectName": "Lịch sử - Xã hội",
@@ -14337,25 +14318,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
-    "id": "physics_adv1_27",
-    "subject": "physics",
-    "subjectName": "Vật lý",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 6",
-    "question": "Câu hỏi nâng cao về vật lí tiểu học nên yêu cầu:",
-    "options": [
-      "Chỉ nhớ tên một thiết bị",
-      "Chọn đáp án ngắn nhất",
-      "Phân tích hiện tượng, xác định chuyển hóa năng lượng và đề xuất cách dạy an toàn",
-      "Không cần liên hệ thực nghiệm"
-    ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: Phân tích hiện tượng, xác định chuyển hóa năng lượng và đề xuất cách dạy an toàn.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
     "id": "physics_adv1_28",
     "subject": "physics",
     "subjectName": "Vật lý",
@@ -14808,25 +14770,6 @@ const QUESTION_BANK = [
     ],
     "answer": 2,
     "explanation": "Đáp án đúng là C: Nói không khí là một chất tinh khiết chỉ gồm oxygen.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
-    "id": "chem_adv1_24",
-    "subject": "chem",
-    "subjectName": "Chủ đề hóa học",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 7",
-    "question": "Câu hỏi nâng cao về nước nên yêu cầu:",
-    "options": [
-      "Không cần liên hệ đời sống",
-      "Chọn câu dài nhất",
-      "Phân tích nguyên nhân ô nhiễm, hậu quả sức khỏe và biện pháp xử lí",
-      "Chỉ hỏi nước có màu gì"
-    ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: Phân tích nguyên nhân ô nhiễm, hậu quả sức khỏe và biện pháp xử lí.",
     "practiceGroup": "cstn_application",
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
