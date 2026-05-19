@@ -10857,7 +10857,7 @@ const QUESTION_BANK = [
     "id": "geo_149",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
-    "question": "Đặc điểm nổi bật của tỉnh mới là:",
+    "question": "Đặc điểm nổi bật của tỉnh Tuyên Quang mới là:",
     "options": [
       "Nhiều dân tộc",
       "Núi đá hùng vĩ",
