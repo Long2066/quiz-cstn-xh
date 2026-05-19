@@ -13,7 +13,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Milky Way Galaxy là dải Ngân Hà, thiên hà chứa Hệ Mặt Trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_2",
@@ -29,7 +31,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Hệ Mặt Trời nằm trong nhánh Orion-Cygnus/Orion Spur của Ngân Hà.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_3",
@@ -45,7 +49,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Local Group là nhóm thiên hà gồm Ngân Hà, Andromeda và nhiều thiên hà nhỏ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_4",
@@ -61,7 +67,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Khoảng cách trung bình Trái Đất - Mặt Trăng xấp xỉ 384.400 km.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_5",
@@ -77,7 +85,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "384.400 km là khoảng cách Trái Đất - Mặt Trăng, không phải Trái Đất - Mặt Trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_6",
@@ -93,7 +103,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Trái Đất là khối cầu hơi dẹt ở hai cực.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_7",
@@ -109,7 +121,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Bán kính trung bình Trái Đất khoảng 6.371 km.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_8",
@@ -125,7 +139,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Diện tích bề mặt Trái Đất khoảng 510 triệu km².",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_9",
@@ -141,7 +157,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đỉnh Everest là điểm cao nhất so với mực nước biển.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_10",
@@ -157,7 +175,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Bên trong Trái Đất gồm vỏ, manti và nhân.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_11",
@@ -173,7 +193,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Nhân trong chủ yếu ở trạng thái rắn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_12",
@@ -189,7 +211,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Vỏ đại dương thường mỏng hơn vỏ lục địa.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_13",
@@ -205,7 +229,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Trái Đất tự quay từ tây sang đông.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_14",
@@ -221,7 +247,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Một vòng tự quay xấp xỉ 24 giờ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_15",
@@ -237,7 +265,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Ngày đêm luân phiên là hệ quả của tự quay và dạng khối cầu.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_16",
@@ -253,7 +283,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Ngày đêm luân phiên chủ yếu do tự quay quanh trục.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_17",
@@ -269,7 +301,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Diện tích bề mặt không phải nguyên nhân tạo ngày đêm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_18",
@@ -285,7 +319,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "360° chia 24 khu vực giờ = 15°/khu vực.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_19",
@@ -301,7 +337,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Kinh tuyến Greenwich là 0°.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_20",
@@ -317,7 +355,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Một số quốc gia rộng lớn có nhiều múi giờ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_21",
@@ -333,7 +373,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Ở bán cầu Bắc, vật thể lệch phải so với hướng chuyển động.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_22",
@@ -349,7 +391,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Ở bán cầu Nam, vật thể lệch trái.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_23",
@@ -365,7 +409,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Tỉnh mới gồm toàn bộ Hà Giang cũ và Tuyên Quang cũ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_24",
@@ -381,7 +427,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Theo Nghị quyết 202/2025/QH15, diện tích là 13.795,50 km².",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_25",
@@ -397,7 +445,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Quy mô dân số sau sáp nhập là 1.865.270 người.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_26",
@@ -413,7 +463,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Sau sắp xếp có 124 đơn vị cấp xã.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_27",
@@ -429,7 +481,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Gồm 117 xã và 07 phường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_28",
@@ -445,7 +499,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Lũng Cú thuộc Hà Giang cũ, sau sáp nhập thuộc tỉnh Tuyên Quang.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_29",
@@ -461,7 +517,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Cực Bắc đất liền Việt Nam khoảng 23°23’B.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_30",
@@ -477,7 +535,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Kế thừa tuyến biên giới của Hà Giang cũ với Trung Quốc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_31",
@@ -493,7 +553,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Được công nhận là Công viên địa chất toàn cầu năm 2010.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_32",
@@ -509,7 +571,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đây là công viên địa chất toàn cầu đầu tiên của Việt Nam.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_33",
@@ -525,7 +589,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Công viên nằm trên 4 huyện cũ Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_34",
@@ -541,7 +607,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Diện tích khoảng 2.356 km².",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_35",
@@ -557,7 +625,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đá vôi/đá carbonate tạo địa hình karst đặc trưng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_36",
@@ -573,7 +643,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đồng Văn là cao nguyên đá, không phải đồng bằng phù sa rộng lớn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_37",
@@ -589,7 +661,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Độ cao trung bình khoảng 1.400 - 1.600 m.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_38",
@@ -605,7 +679,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Giá trị chính là địa chất, địa mạo, cảnh quan, đa dạng sinh học và văn hóa.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_39",
@@ -621,7 +697,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Cao nguyên đá Đồng Văn là vùng núi đá vôi, không phải đồng bằng phù sa.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_40",
@@ -637,7 +715,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Cao nguyên đá Đồng Văn là Công viên địa chất toàn cầu UNESCO.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_41",
@@ -653,7 +733,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Các mùa là hệ quả của chuyển động quanh Mặt Trời kết hợp trục nghiêng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_42",
@@ -669,7 +751,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Tự quay tạo ngày đêm luân phiên.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_43",
@@ -685,7 +769,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Một vòng quanh Mặt Trời khoảng 365 ngày 6 giờ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_44",
@@ -701,7 +787,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "4 năm cộng phần dư khoảng 24 giờ tạo thêm 1 ngày nhuận.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_45",
@@ -717,7 +805,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Mặt Trăng là vệ tinh tự nhiên của Trái Đất.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_46",
@@ -733,7 +823,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Vỏ Trái Đất là lớp ngoài cùng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_47",
@@ -749,7 +841,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Manti chiếm phần lớn thể tích Trái Đất.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_48",
@@ -765,7 +859,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Nhân ngoài lỏng, nhân trong rắn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_49",
@@ -781,7 +877,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Các đơn vị sau sắp xếp chính thức hoạt động từ 01/7/2025.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_50",
@@ -797,7 +895,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đồng Văn nằm ở vùng cực Bắc Việt Nam.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_51",
@@ -813,7 +913,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Karst phát triển chủ yếu trên đá vôi/đá carbonate.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_52",
@@ -829,7 +931,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đây là chuỗi vị trí cơ bản của Trái Đất trong vũ trụ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_53",
@@ -845,7 +949,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Cao nguyên đá Đồng Văn không phải đồng bằng thấp, bằng phẳng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_54",
@@ -861,7 +967,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Ngày đêm luân phiên do tự quay quanh trục.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_55",
@@ -877,7 +985,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Diện tích bề mặt không tạo ngày đêm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_56",
@@ -893,7 +1003,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Sau sắp xếp, Tuyên Quang có 124 đơn vị cấp xã.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_57",
@@ -909,7 +1021,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Địa bàn gồm Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_58",
@@ -925,7 +1039,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Công viên địa chất giúp bảo tồn và phát huy giá trị di sản, du lịch.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_59",
@@ -941,7 +1057,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "13.795,50 km² là diện tích tỉnh Tuyên Quang mới.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "geo_60",
@@ -957,7 +1075,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "2.356 km² là diện tích Cao nguyên đá Đồng Văn theo nhiều tài liệu.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_1",
@@ -973,7 +1093,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Chất thải công nghiệp và sinh hoạt chưa xử lý là nguyên nhân chính gây ô nhiễm nguồn nước ngọt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_2",
@@ -989,7 +1111,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Không khí gồm khoảng 78% nitrogen, 21% oxygen và một số khí khác.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_3",
@@ -1005,7 +1129,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Bạc (Ag) là kim loại quý, có tính bền hóa học cao, không phản ứng trực tiếp với O2 ở điều kiện thường. Còn S, P, Fe đều cháy được trong oxygen.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_4",
@@ -1021,7 +1147,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "CuO (đen) + H2 = Cu (đỏ) + H2O. Chất rắn chuyển từ đen sang đỏ là đồng kim loại.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_5",
@@ -1037,7 +1165,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Nước là dung môi hòa tan và vận chuyển chất dinh dưỡng, đồng thời đào thải chất cặn bã.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_6",
@@ -1053,7 +1183,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Xây dựng hệ thống xử lý nước thải trước khi xả ra sông góp phần bảo vệ nguồn nước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_7",
@@ -1069,7 +1201,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Oxygen là chất khí không màu, không mùi, không vị, tan rất ít trong nước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_8",
@@ -1085,7 +1219,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đèn xì hàn oxy-axetilen dựa trên tính chất duy trì sự cháy của oxygen tạo nhiệt độ cao.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_9",
@@ -1101,7 +1237,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Úp cốc lên nến chứng minh sự cháy cần oxygen; hết O2 trong cốc thì nến tắt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_10",
@@ -1117,7 +1255,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Hydrogen rất dễ cháy nổ khi gặp nguồn nhiệt hoặc tia lửa, gây nguy hiểm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_11",
@@ -1133,7 +1273,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Liên kết ba trong phân tử N2 rất bền, cần năng lượng cao mới phá vỡ được.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_12",
@@ -1149,7 +1291,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "N2 lỏng ở -195.8 độ C được dùng bảo quản mẫu bệnh phẩm nhờ nhiệt độ cực thấp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_13",
@@ -1165,7 +1309,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Dư thừa phân đạm gây bạc màu đất và ô nhiễm nước ngầm do dư lượng nitrate.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_14",
@@ -1181,7 +1327,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "CO2 + Ca(OH)2 tạo CaCO3 kết tủa trắng làm vẩn đục dung dịch.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_15",
@@ -1197,7 +1345,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "CO2 là khí nhà kính chính gây hiệu ứng nhà kính và biến đổi khí hậu.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_16",
@@ -1213,7 +1363,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "CO2 nặng hơn không khí, tích tụ ở đáy hang kín, gây thiếu O2 và ngạt thở.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_17",
@@ -1229,7 +1381,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Sắt bị oxi hóa tạo rỉ sắt (Fe2O3.nH2O) - đây là biến đổi hóa học.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_18",
@@ -1245,7 +1399,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Sắt trong hemoglobin giúp vận chuyển O2 từ phổi đến các tế bào.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_19",
@@ -1261,7 +1417,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Nhúng dây đồng và gỗ vào nước nóng để so sánh tốc độ truyền nhiệt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_20",
@@ -1277,7 +1435,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Sưu tầm đồng cũ làm thủ công giáo dục về tính tiết kiệm và tái chế.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_21",
@@ -1293,7 +1453,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Acid hòa tan lớp oxit bảo vệ và phản ứng với nhôm, gây nhiễm độc kim loại.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_22",
@@ -1309,7 +1471,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Fe + CuSO4 = FeSO4 + Cu. Sắt đẩy đồng ra khỏi dung dịch muối đồng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_23",
@@ -1325,7 +1489,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Sắt cháy trong O2: 3Fe + 2O2 = Fe3O4 (oxit sắt từ).",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_1",
@@ -1341,7 +1507,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Gia đình là môi trường đầu tiên hình thành nhân cách và duy trì sự phát triển xã hội.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_2",
@@ -1357,7 +1525,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Trường tiểu học là tổ chức xã hội thứ hai sau gia đình, góp phần hình thành nhân cách cho trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_3",
@@ -1373,7 +1543,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Phối hợp gia đình - nhà trường - cộng đồng kết hợp giáo dục trong và ngoài giờ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_4",
@@ -1389,7 +1561,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Gia đình luôn có quan hệ huyết thống; hộ gia đình không nhất thiết.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_5",
@@ -1405,7 +1579,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Hôn nhân ngày càng đề cao sự thấu hiểu và giá trị cá nhân.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_6",
@@ -1421,7 +1597,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Hình thành nền tảng đạo đức, kỹ năng và phương pháp tư duy ban đầu.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_7",
@@ -1437,7 +1615,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Có năng lực chuyên môn, giữ đạo đức nhà giáo và phối hợp hiệu quả.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_8",
@@ -1453,7 +1633,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Văn Lang - Âu Lạc đánh dấu sự hình thành quốc gia cổ đại đầu tiên.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_9",
@@ -1469,7 +1651,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Khởi nghĩa chống Bắc thuộc xảy ra sau, không phải đặc điểm của Văn Lang - Âu Lạc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_10",
@@ -1485,7 +1669,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Chấm dứt hoàn toàn ách đô hộ phương Bắc, mở ra thời kì độc lập tự chủ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_11",
@@ -1501,7 +1687,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Triều Lý mở khoa thi đầu tiên (1075) và xây Quốc Tử Giám (1076).",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_12",
@@ -1517,7 +1705,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Tinh thần đoàn kết toàn dân và sự lãnh đạo đúng đắn của triều đình.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_13",
@@ -1533,7 +1723,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Nhà nước phong kiến đạt đỉnh cao thịnh trị và tương đối hoàn chỉnh.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_14",
@@ -1549,7 +1741,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Triều Nguyễn KHÔNG đẩy mạnh công nghiệp hóa, đây không phải nguyên nhân suy yếu.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_15",
@@ -1565,7 +1759,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Hạn chế lớn nhất là đường lối đối ngoại bế quan tỏa cảng và từ chối cải cách, không phù hợp với bối cảnh thế giới đang thay đổi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_16",
@@ -1581,7 +1777,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "CMT8 lật đổ ách thực dân - phong kiến, đưa nhân dân trở thành chủ đất nước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_17",
@@ -1597,7 +1795,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Nhật đầu hàng Đồng minh tạo thời cơ khách quan thuận lợi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_18",
@@ -1613,7 +1813,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Chính quyền non trẻ đối mặt nhiều khó khăn: giặc đói, dốt, ngoại xâm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_19",
@@ -1629,7 +1831,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Buộc Pháp ký Hiệp định Giơnevơ 1954, chấm dứt chiến tranh Đông Dương.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_20",
@@ -1645,7 +1849,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Kết hợp quân sự với ngoại giao và phát huy sức mạnh toàn dân.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_21",
@@ -1661,7 +1867,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Chiến dịch HCM kết thúc kháng chiến chống Mỹ, KHÔNG phải kết thúc phong kiến.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_22",
@@ -1677,7 +1885,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Tương quan lực lượng thay đổi có lợi cùng sự lãnh đạo đúng đắn của Đảng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_23",
@@ -1693,7 +1903,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đại hội VI (1986) mở đầu công cuộc đổi mới toàn diện đất nước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_24",
@@ -1709,7 +1921,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Chuyển sang kinh tế thị trường định hướng XHCN và đổi mới toàn diện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_25",
@@ -1725,7 +1939,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đoàn kết dân tộc và khả năng thích ứng là bài học xuyên suốt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_26",
@@ -1741,7 +1957,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Chiến lược lấy ít địch nhiều và tinh thần đoàn kết vua tôi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_27",
@@ -1757,7 +1975,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Trần Hưng Đạo chống Mông-Nguyên, không phải lãnh đạo khởi nghĩa chống Bắc thuộc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_28",
@@ -1773,7 +1993,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Thời bình binh lính về làm ruộng, thời chiến có lực lượng sẵn sàng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_29",
@@ -1789,7 +2011,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Võ Nguyên Giáp đánh giá đúng thực tế, đổi phương châm để chắc thắng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_30",
@@ -1805,7 +2029,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Văn Lang - Âu Lạc chưa có hệ thống luật pháp thành văn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "his_31",
@@ -1821,7 +2047,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Lê sơ xây dựng nhà nước phong kiến tập quyền mạnh nhất.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_24",
@@ -1837,7 +2065,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Bảo vệ rừng, giảm phát thải CO2 và xử lý chất thải là giải pháp đồng thời giảm khí nhà kính và bảo vệ nguồn nước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "chem_25",
@@ -1853,7 +2083,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Phòng cần thông thoáng hoặc dùng thiết bị sưởi an toàn để tránh thiếu oxygen và tích tụ khí độc khi đốt than củi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_1",
@@ -1869,7 +2101,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Mặt Trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_2",
@@ -1885,7 +2119,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Đường thẳng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_3",
@@ -1901,7 +2137,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Mặt Trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_4",
@@ -1917,7 +2155,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Ánh sáng bị vật cản che khuất.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_5",
@@ -1933,7 +2173,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Vật rung động.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_6",
@@ -1949,7 +2191,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Chân không.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_7",
@@ -1965,7 +2209,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Độ rung mạnh hay yếu.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_8",
@@ -1981,7 +2227,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Mất ngủ, ảnh hưởng sức khỏe.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_9",
@@ -1997,7 +2245,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Duy trì sự sống và sự cháy.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_10",
@@ -2013,7 +2263,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Không màu, không mùi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_11",
@@ -2029,7 +2281,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đồng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_12",
@@ -2045,7 +2299,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Dẫn điện và dẫn nhiệt tốt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_13",
@@ -2061,7 +2317,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Nhựa.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_14",
@@ -2077,7 +2335,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Cửa kính và chai lọ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_15",
@@ -2093,7 +2353,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Đất sét.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_16",
@@ -2109,7 +2371,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Năng lượng mặt trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_17",
@@ -2125,7 +2389,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Sự chuyển động của không khí.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_18",
@@ -2141,7 +2407,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Bóng đèn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_19",
@@ -2157,7 +2425,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tắt thiết bị điện khi không sử dụng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "physics_20",
@@ -2173,7 +2443,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đèn điện phát sáng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_1",
@@ -2189,7 +2461,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Phân giải chất hữu cơ thành chất vô cơ..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_2",
@@ -2205,7 +2479,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Thường có màu sắc sặc sỡ và có vòng cuống nấm, bao gốc nấm..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_3",
@@ -2221,7 +2497,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Thân..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_4",
@@ -2237,7 +2515,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Ở lá, diễn ra khi có ánh sáng..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_5",
@@ -2253,7 +2533,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Thú (động vật có vú)..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_6",
@@ -2269,7 +2551,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Để cung cấp thêm khí oxy cho cá thông qua quá trình quang hợp..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_7",
@@ -2285,7 +2569,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Hệ thần kinh..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_8",
@@ -2301,7 +2587,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Thịt, cá, trứng, sữa, các loại đậu..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_9",
@@ -2317,7 +2605,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Ăn chín, uống sôi và rửa tay bằng xà phòng trước khi ăn, sau khi đi vệ sinh..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_10",
@@ -2333,7 +2623,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Để giữ gìn sự cân bằng sinh thái và đa dạng sinh học..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_11",
@@ -2349,7 +2641,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Bón phân hóa học liều lượng cực lớn để cây nhanh lớn..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_12",
@@ -2365,7 +2659,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Lớp 1..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_13",
@@ -2381,7 +2677,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tổ chức cho học sinh quan sát thực tế các loại cây trong khuôn viên trường hoặc địa phương..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_14",
@@ -2397,7 +2695,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Giúp cơ thể tạo ra miễn dịch chủ động để phòng các bệnh truyền nhiễm nguy hiểm..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_15",
@@ -2413,7 +2713,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Con người lấy thức ăn, nước, không khí từ môi trường và thải ra môi trường các chất cặn bã, khí cacbonic..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_16",
@@ -2429,7 +2731,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Nhị hoa và nhụy hoa..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_17",
@@ -2445,7 +2749,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nhóm Cá, Lưỡng cư, Bò sát, Chim, Thú có xương sống; nhóm còn lại không có xương sống..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_18",
@@ -2461,7 +2767,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Ngồi học đúng tư thế, không mang cặp quá nặng trên một vai..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_19",
@@ -2477,7 +2785,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Mũi, họng, khí quản, phế quản và hai lá phổi..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_20",
@@ -2493,7 +2803,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Các bộ phận bên ngoài của cây (rễ, thân, lá, hoa, quả) và chức năng của chúng..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_21",
@@ -2509,7 +2821,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Vì bào tử nấm có sẵn trong không khí, gặp điều kiện thuận lợi về dinh dưỡng và độ ẩm sẽ phát triển..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_22",
@@ -2525,7 +2839,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Để tiết kiệm năng lượng khi nguồn thức ăn khan hiếm và thời tiết khắc nghiệt..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_23",
@@ -2541,7 +2857,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Vận chuyển khí oxy và các chất dinh dưỡng đi nuôi cơ thể, đồng thời mang khí cacbonic và chất thải đến các cơ quan bài tiết..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_24",
@@ -2557,7 +2875,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Ngồi học nơi đủ ánh sáng, giữ khoảng cách giữa mắt và sách khoảng 25-30 cm..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_25",
@@ -2573,7 +2893,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Động vật lấy khí oxy và thải khí cacbonic qua cơ quan hô hấp..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_26",
@@ -2589,7 +2911,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Côn trùng là động vật có 6 chân (3 cặp chân)..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_27",
@@ -2605,7 +2929,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Khoang miệng (răng, lưỡi)..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_28",
@@ -2621,7 +2947,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Để thức ăn được nghiền nhỏ, giúp các dịch tiêu hóa thấm đều và quá trình tiêu hóa ở dạ dày, ruột non diễn ra hiệu quả hơn..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_29",
@@ -2637,7 +2965,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Nhắc nhở nhẹ nhàng về vai trò của cây xanh và hướng dẫn học sinh quan sát, chụp ảnh hoặc nhặt những lá rơi thay vì bẻ cành sống..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "bio_30",
@@ -2653,7 +2983,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Giúp học sinh quan sát trực quan, hình thành kiến thức một cách chân thực và hứng thú với bài học..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh",
+    "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
     "id": "gdhn_general_1",
@@ -2669,7 +3001,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Có tổn thương cơ thể hoặc rối loạn chức năng gây khó khăn đặc thù trong hoạt động.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_2",
@@ -2685,7 +3019,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Trẻ khiếm thị.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_3",
@@ -2701,7 +3037,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Trẻ em như mọi trẻ em khác.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_4",
@@ -2717,7 +3055,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Trẻ khuyết tật cùng học với trẻ em bình thường trong trường pho thông nơi trẻ sinh sống.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_5",
@@ -2733,7 +3073,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tôn trọng sự đa dạng và đáp ứng nhu cầu học tập của mọi học sinh.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_6",
@@ -2749,7 +3091,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Trẻ bị gán mác, tách biệt và khó hòa nhập cuộc sống bình thường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_7",
@@ -2765,7 +3109,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Giáo dục hội nhập thường vẫn duy trì lớp hoặc chương trình riêng cho trẻ khuyết tật.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_8",
@@ -2781,7 +3127,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giáo dục cho mọi đối tượng học sinh Sẽ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_9",
@@ -2797,7 +3145,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tạo điều kiện để trẻ được học trong môi trường gần gũi với cộng đồng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_10",
@@ -2813,7 +3163,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Mọi học sinh đều có năng lực, nhu cầu và tốc độ học tập khác nhau.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_11",
@@ -2829,7 +3181,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Cả A, B, C đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_12",
@@ -2845,7 +3199,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Phương tiện trợ thị lực hoặc tiếp nhận thông tin qua xúc giác, thính giác.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_13",
@@ -2861,7 +3217,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Phương tiện trợ thính, môi trường nghe - nói thuận lợi hoặc giao tiếp qua kênh thị giác.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_14",
@@ -2877,7 +3235,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Môi trường không vật cản.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_15",
@@ -2893,7 +3253,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Được hỗ trợ bằng phương tiện trực quan và củng cố kiến thức, kỹ năng nhiều hơn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_16",
@@ -2909,7 +3271,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Cả A, B, C đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_17",
@@ -2925,7 +3289,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Vì nguyên nhân gây khuyết tật đa dạng, có nguyên nhân khách quan và luôn có thể phát sinh.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_18",
@@ -2941,7 +3307,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Mỗi trẻ đều có khả năng và hạn chế nhất định.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_19",
@@ -2957,7 +3325,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đảm bảo mọi học sinh được tham gia học tập bình đẳng trong môi trường giáo dục chung.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_20",
@@ -2973,7 +3343,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Cần đánh giá phù hợp với khả năng, nhu cầu và tiến bộ cá nhân của học sinh.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_21",
@@ -2989,7 +3361,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tìm hiểu khả năng và nhu cầu của trẻ..",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_22",
@@ -3005,7 +3379,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Cả A, B, C đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_23",
@@ -3021,7 +3397,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Khả nang, nhu cầu và điều kiện thực tế của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_24",
@@ -3037,7 +3415,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Mục tiêu phải cụ thể, phù hợp và có thể đánh giá được.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_25",
@@ -3053,7 +3433,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tạo cơ hội để học sinh hỗ trợ, tương tác và học cùng nhau.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_26",
@@ -3069,7 +3451,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Lựa chọn linh hoạt phương pháp đồng loạt, đa trình độ, cá biệt hoặc thay thế khi cần.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_27",
@@ -3085,7 +3469,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hỗ trợ trẻ khuyết tật tham gia học tập, giao tiếp và hòa nhập với bạn cùng lớp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_28",
@@ -3101,7 +3487,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Huy động gia đình, nhà trường và cộng đồng cùng hỗ trợ trẻ khuyết tật.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_29",
@@ -3117,7 +3505,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tin tưởng vào khả năng phát triển, tôn trọng và hỗ trợ trẻ phù hợp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_general_30",
@@ -3133,7 +3523,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Điều chỉnh môi trường học tập, bố trí lớp học thuận lợi và hỗ trợ di chuyển.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_1",
@@ -3149,7 +3541,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Bị suy giảm khả năng nghe ở các mức độ khác nhau.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_2",
@@ -3165,7 +3559,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Khó khăn trong giao tiếp và tiếp nhận ngôn ngữ nói.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_3",
@@ -3181,7 +3577,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hạn chế tiếp nhận thông tin qua đường nghe.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_4",
@@ -3197,7 +3595,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đánh giá khả năng nghe và giao tiếp của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_5",
@@ -3213,7 +3613,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Cả A, B, C đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_6",
@@ -3229,7 +3631,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Máy trợ thính.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_7",
@@ -3245,7 +3649,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Khuếch đại âm thanh giúp trẻ nghe tốt hơn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_8",
@@ -3261,7 +3667,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đối diện, nơi trẻ có thể quan sát khẩu hình và nét mặt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_9",
@@ -3277,7 +3685,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Phát âm rõ ràng, tốc độ vừa phải.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_10",
@@ -3293,7 +3703,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Kênh thị giác.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_11",
@@ -3309,7 +3721,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hình thức giao tiếp bằng các động tác tay, nét mặt và cơ thể.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_12",
@@ -3325,7 +3739,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Biểu đạt từng chữ cái trong giao tiếp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_13",
@@ -3341,7 +3757,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hạn chế vốn từ và diễn đạt ngôn ngữ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_14",
@@ -3357,7 +3775,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tăng cường tranh ảnh, vật thật và trực quan.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_15",
@@ -3373,7 +3793,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Kết hợp lời nói với trực quan và thao tác cụ thể.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_16",
@@ -3389,7 +3811,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Gắn nội dung học với trải nghiệm trực tiếp và đồ dùng trực quan.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_17",
@@ -3405,7 +3829,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ dễ quan sát giáo viên và bạn học.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_18",
@@ -3421,7 +3847,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Nhắc lại bằng cách rõ ràng hơn kết hợp trực quan.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_19",
@@ -3437,7 +3865,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Cả A, B, C đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_20",
@@ -3453,7 +3883,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Phối hợp với nhà trường phát triển giao tiếp và kỹ năng xã hội cho trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_21",
@@ -3469,7 +3901,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Phân công bạn hỗ trợ và tạo cơ hội giao tiếp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_22",
@@ -3485,7 +3919,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ phát triển khả năng giao tiếp, học tập và hòa nhập xã hội.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_23",
@@ -3501,7 +3937,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Căn cứ vào sự tiến bộ và khả năng thực tế của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_24",
@@ -3517,7 +3955,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hạn chế tiếng ồn và đảm bảo ánh sáng tốt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_25",
@@ -3533,7 +3973,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Sử dụng ví dụ cụ thể, thao tác và hình ảnh trực quan.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_26",
@@ -3549,7 +3991,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tôn trọng, kiên nhẫn và tin tưởng vào khả năng của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_27",
@@ -3565,7 +4009,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tạo cơ hội giao tiếp và hỗ trợ trẻ bằng hình thức phù hợp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_28",
@@ -3581,7 +4027,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Xem trẻ không có khả năng học tập như các bạn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_29",
@@ -3597,7 +4045,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ tăng khả năng học tập và hòa nhập xã hội.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_hearing_30",
@@ -3613,7 +4063,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Bố trí lại vị trí ngồi và tăng cường hỗ trợ trực quan, giao tiếp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_1",
@@ -3629,7 +4081,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Bị suy giảm chức năng nhìn ở các mức độ khác nhau.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_2",
@@ -3645,7 +4099,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Khó tiếp nhận thông tin qua thị giác.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_3",
@@ -3661,7 +4117,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Xúc giác và thính giác.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_4",
@@ -3677,7 +4135,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Giúp trẻ phát triển khả năng học tập và hòa nhập xã hội.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_5",
@@ -3693,7 +4153,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đánh giá khả năng và nhu cầu của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_6",
@@ -3709,7 +4171,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Phương tiện trợ thị lực hoặc chữ Braille.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_7",
@@ -3725,7 +4189,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hệ thống chữ nổi dành cho người khiếm thị.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_8",
@@ -3741,7 +4207,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tăng cường vật thật, mô hình nổi và mô tả bằng lời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_9",
@@ -3757,7 +4225,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Xung hô rõ ràng và hướng dẫn cụ thể bằng lời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_10",
@@ -3773,7 +4243,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: An toàn, dễ định hướng và thuận lợi di chuyển.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_11",
@@ -3789,7 +4261,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Được hỗ trợ phù hợp về phương pháp và phương tiện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_12",
@@ -3805,7 +4279,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Trẻ khiếm thị khó tiếp nhận thông tin trực quan.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_13",
@@ -3821,7 +4297,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Kỹ năng định hướng và di chuyển.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_14",
@@ -3837,7 +4315,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hướng dẫn trẻ bám khuỷu tay người hỗ trợ và mô tả đường đi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_15",
@@ -3853,7 +4333,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tiếp nhận kiến thức thông qua xúc giác.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_16",
@@ -3869,7 +4351,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tôn trọng, hỗ trợ phù hợp và khuyến khích tính độc lập.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_17",
@@ -3885,7 +4369,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Khó quan sát tranh ảnh và chữ viết thông thường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_18",
@@ -3901,7 +4387,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Phù hợp với khả năng, nhu cầu và mức độ khiếm thị của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_19",
@@ -3917,7 +4405,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tạo cơ hội để trẻ giao tiếp và tham gia nhiệm vụ phù hợp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_20",
@@ -3933,7 +4423,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ khiếm thị tiếp nhận đầy đủ thông tin.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_21",
@@ -3949,7 +4441,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hỗ trợ trẻ quan sát rõ hơn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_22",
@@ -3965,7 +4459,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Tự ý thay đổi môi trường lớp học mà không thông báo cho trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_23",
@@ -3981,7 +4477,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Giúp trẻ tự tin, độc lập hơn trong học tập và sinh hoạt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_24",
@@ -3997,7 +4495,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hỗ trợ tài liệu chữ to hoặc phương tiện trợ thị lực phù hợp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_25",
@@ -4013,7 +4513,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Căn cứ vào khả năng thực hiện nhiệm vụ và sự tiến bộ của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_26",
@@ -4029,7 +4531,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Dạy học thông qua trải nghiệm trực tiếp và đa giác quan.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_27",
@@ -4045,7 +4549,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hỗ trợ rèn luyện kỹ năng sinh hoạt, học tập và giao tiếp cho trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_28",
@@ -4061,7 +4567,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tạo môi trường lớp học gọn gàng, ổn định và hướng dẫn kỹ năng định hướng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_29",
@@ -4077,7 +4585,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Mọi trẻ đều có khả năng phát triển nếu được hỗ trợ phù hợp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_visual_30",
@@ -4093,7 +4603,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Khuyến khích, tạo cơ hội giao tiếp và phân công nhiệm vụ phù hợp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_1",
@@ -4109,7 +4621,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Có sự hạn chế đáng kể về chức năng trí tuệ và khả năng thích ứng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_2",
@@ -4125,7 +4639,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tiếp thu kiến thức chậm hơn bạn cùng lứa tuổi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_3",
@@ -4141,7 +4657,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Khó khái quát hóa và vận dụng kiến thức.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_4",
@@ -4157,7 +4675,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đánh giá khả năng và nhu cầu của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_5",
@@ -4173,7 +4693,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ phát triển khả năng học tập, kỹ năng sống và hòa nhập xã hội.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_6",
@@ -4189,7 +4711,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hướng dẫn cụ thể, trực quan và lặp lại nhiều lần.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_7",
@@ -4205,7 +4729,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Dạy từ dễ đến khó, từ cụ thể đến trừu tượng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_8",
@@ -4221,7 +4747,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Khả năng chú ý, ghi nhớ và tư duy.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_9",
@@ -4237,7 +4765,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tăng cường trực quan và chia nhỏ nhiệm vụ học tập.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_10",
@@ -4253,7 +4783,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ ghi nhớ và hình thành kỹ năng tốt hơn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_11",
@@ -4269,7 +4801,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đưa ra yêu cầu ngắn gọn, rõ ràng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_12",
@@ -4285,7 +4819,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Khó thích nghi với thay đổi trong hoạt động.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_13",
@@ -4301,7 +4837,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tôn trọng, kiên nhẫn và khuyến khích sự tiến bộ của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_14",
@@ -4317,7 +4855,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Dựa vào sự tiến bộ và khả năng thực hiện của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_15",
@@ -4333,7 +4873,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Kết hợp trực quan, thao tác thực hành và trải nghiệm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_16",
@@ -4349,7 +4891,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Nhắc lại ngắn gọn và hướng dẫn từng bước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_17",
@@ -4365,7 +4909,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ tăng khả năng độc lập và hòa nhập.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_18",
@@ -4381,7 +4927,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tăng cơ hội giao tiếp và học tập cùng bạn bè.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_19",
@@ -4397,7 +4945,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Mọi trẻ đều có khả năng phát triển nếu được hỗ trợ phù hợp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_20",
@@ -4413,7 +4963,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Cả A, B, C đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_21",
@@ -4429,7 +4981,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Phù hợp với khả năng và nhu cầu thực tế của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_22",
@@ -4445,7 +4999,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Chia nhiệm vụ thành các bước nhỏ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_23",
@@ -4461,7 +5017,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Khích lệ và củng cố kịp thời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_24",
@@ -4477,7 +5035,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Phối hợp với nhà trường trong rèn luyện kỹ năng và hành vi cho trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_25",
@@ -4493,7 +5053,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tăng cường hoạt động ngắn, rõ ràng và trực quan.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_26",
@@ -4509,7 +5071,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Củng cố kiến thức và hình thành kỹ năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_27",
@@ -4525,7 +5089,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Có cấu trúc rõ ràng và ổn định.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_28",
@@ -4541,7 +5107,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Chia phép tính thành từng bước nhỏ để hướng dẫn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_29",
@@ -4557,7 +5125,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hỗ trợ giao tiếp, học tập và tạo cơ hội hòa nhập cho trẻ CPTTT.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_intellectual_30",
@@ -4573,7 +5143,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Khuyến khích, giao nhiệm vụ phù hợp và tạo cơ hội thành công cho trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_1",
@@ -4589,7 +5161,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Có khó khăn trong phát âm, diễn đạt hoặc hiểu ngôn ngữ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_2",
@@ -4605,7 +5179,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hạn chế giao tiếp bằng lời nói.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_3",
@@ -4621,7 +5197,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nói ngọng, phát âm sai hoặc nói khó hiểu.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_4",
@@ -4637,7 +5215,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đánh giá khả năng giao tiếp và nhu cầu của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_5",
@@ -4653,7 +5233,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ phát triển khả năng giao tiếp và hòa nhập xã hội.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_6",
@@ -4669,7 +5251,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ phát âm đúng và rõ hơn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_7",
@@ -4685,7 +5269,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Kiên trì luyện tập thường xuyên.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_8",
@@ -4701,7 +5287,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Phát âm mẫu rõ ràng, chậm và dễ quan sát.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_9",
@@ -4717,7 +5305,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Cả A, B, C đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_10",
@@ -4733,7 +5323,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tạo nhiều cơ hội giao tiếp cho trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_11",
@@ -4749,7 +5341,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tăng khả năng giao tiếp và học tập.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_12",
@@ -4765,7 +5359,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Kết hợp tranh ảnh, vật thật và tình huồng cụ thể.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_13",
@@ -4781,7 +5377,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tôn trọng và kiên nhẫn khi trẻ giao tiếp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_14",
@@ -4797,7 +5395,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Động viên và tạo môi trường giao tiêp an toàn cho trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_15",
@@ -4813,7 +5413,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Kết hợp nghe — nhìn — nói — thực hành.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_16",
@@ -4829,7 +5431,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Vị trí môi, lưỡi và hơi thở của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_17",
@@ -4845,7 +5449,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Thiếu cơ hội giao tiếp và luyện tập.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_18",
@@ -4861,7 +5467,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hỗ trợ giao tiếp và tạo cơ hội tương tác cho trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_19",
@@ -4877,7 +5485,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Sửa nhẹ nhàng và cho trẻ luyện tập lại.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_20",
@@ -4893,7 +5503,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ diễn đạt câu đầy đủ và rõ nghĩa hơn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_21",
@@ -4909,7 +5521,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hướng dẫn trẻ nói từ câu ngắn đến câu hoàn chỉnh.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_22",
@@ -4925,7 +5539,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ tăng tự tin và phát triển ngôn ngữ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_23",
@@ -4941,7 +5557,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tạo cơ hội giao tiếp và luyện tập hằng ngày cho trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_24",
@@ -4957,7 +5575,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Chú ý sự tiến bộ trong giao tiếp và diễn đạt của trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_25",
@@ -4973,7 +5593,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Cho trẻ tham gia trò chuyện và hoạt động thực tế.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_26",
@@ -4989,7 +5611,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Khuyến khích giao tiếp và hợp tác.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_27",
@@ -5005,7 +5629,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hướng dẫn phát âm mẫu và luyện tập từng bước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_28",
@@ -5021,7 +5647,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Mọi trẻ đều có khả năng phát triển nếu được hỗ trợ phù hợp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_29",
@@ -5037,7 +5665,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giúp trẻ hình thành kỹ năng phát âm chính xác hơn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "gdhn_language_30",
@@ -5053,7 +5683,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tạo cơ hội giao tiếp, động viên và khuyến khích trẻ tham gia hoạt động nhóm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "gdhn",
+    "practiceGroupName": "GIÁO DỤC HÒA NHẬP"
   },
   {
     "id": "physics_21",
@@ -5069,7 +5701,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tái tạo.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_22",
@@ -5085,7 +5719,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Không tái tạo.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_23",
@@ -5101,7 +5737,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hóa năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_24",
@@ -5117,7 +5755,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Quang năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_25",
@@ -5133,7 +5773,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tắt điện khi ra khỏi phòng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_26",
@@ -5149,7 +5791,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Nước chảy.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_27",
@@ -5165,7 +5809,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Năng lượng gió.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_28",
@@ -5181,7 +5827,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Dòng điện truyền liên tục.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_29",
@@ -5197,7 +5845,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hóa năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_30",
@@ -5213,7 +5863,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Phản lực.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_31",
@@ -5229,7 +5881,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Không tái tạo.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_32",
@@ -5245,7 +5899,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Quạt điện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_33",
@@ -5261,7 +5917,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Phát điện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_34",
@@ -5277,7 +5935,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Mở đèn ban ngày không cần thiết.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_35",
@@ -5293,7 +5953,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tạo điện từ ánh sáng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_36",
@@ -5309,7 +5971,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Mặt trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_37",
@@ -5325,7 +5989,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Điện năng → Quang năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_38",
@@ -5341,7 +6007,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tua-bin gió.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_39",
@@ -5357,7 +6025,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Có thể sử dụng lâu dài.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_40",
@@ -5373,7 +6043,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tiết kiệm năng lượng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_41",
@@ -5389,7 +6061,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Điện năng → Cơ năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_42",
@@ -5405,7 +6079,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nhiệt năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_43",
@@ -5421,7 +6097,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Lực phản lực.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_44",
@@ -5437,7 +6115,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Máy tính năng lượng mặt trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_45",
@@ -5453,7 +6133,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Bảo vệ môi trường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_46",
@@ -5469,7 +6151,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hình ảnh trực quan.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_47",
@@ -5485,7 +6169,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Chuyển động không khí.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_48",
@@ -5501,7 +6187,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Mặt trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_49",
@@ -5517,7 +6205,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Sáng tạo và thực hành.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_50",
@@ -5533,7 +6223,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Mạch điện đơn giản.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_51",
@@ -5549,7 +6241,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Bàn là điện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_52",
@@ -5565,7 +6259,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Quang hợp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_53",
@@ -5581,7 +6277,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Âm năng và quang năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_54",
@@ -5597,7 +6295,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Than đá.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_55",
@@ -5613,7 +6313,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đồng hồ điện tử.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_56",
@@ -5629,7 +6331,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Ô nhiễm môi trường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_57",
@@ -5645,7 +6349,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Cơ năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_58",
@@ -5661,7 +6367,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giảm rác thải.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_59",
@@ -5677,7 +6385,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đèn LED.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_60",
@@ -5693,7 +6403,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tái tạo.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_61",
@@ -5709,7 +6421,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hoạt động và lao động.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_62",
@@ -5725,7 +6439,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Điện năng → Nhiệt năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_63",
@@ -5741,7 +6457,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nâng cao ý thức.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_64",
@@ -5757,7 +6475,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Năng lượng mặt trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_65",
@@ -5773,7 +6493,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Không hoạt động.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_66",
@@ -5789,7 +6511,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tắt quạt khi ra khỏi lớp.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_67",
@@ -5805,7 +6529,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Loa.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_68",
@@ -5821,7 +6547,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Chặt phá rừng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_69",
@@ -5837,7 +6565,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giảm ô nhiễm môi trường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_70",
@@ -5853,7 +6583,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Kĩ năng sáng tạo.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_71",
@@ -5869,7 +6601,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tủ lạnh.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_72",
@@ -5885,7 +6619,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Cơ năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_73",
@@ -5901,7 +6637,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Năng lượng mặt trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_74",
@@ -5917,7 +6655,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nước chảy mạnh.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_75",
@@ -5933,7 +6673,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Bảo vệ tài nguyên.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_76",
@@ -5949,7 +6691,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Xăng dầu.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_77",
@@ -5965,7 +6709,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Ánh sáng mặt trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_78",
@@ -5981,7 +6727,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hóa năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_79",
@@ -5997,7 +6745,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tắt điện khi không sử dụng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_80",
@@ -6013,7 +6763,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Gió.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_81",
@@ -6029,7 +6781,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nước chảy làm quay tua-bin.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_82",
@@ -6045,7 +6799,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giảm chi phí và bảo vệ môi trường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_83",
@@ -6061,7 +6817,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Điều khiển tivi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_84",
@@ -6077,7 +6835,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tiết kiệm điện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_85",
@@ -6093,7 +6853,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Than đá.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_86",
@@ -6109,7 +6871,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Thực hành sáng tạo sản phẩm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_87",
@@ -6125,7 +6889,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tái tạo.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_88",
@@ -6141,7 +6907,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Gây tốn điện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_89",
@@ -6157,7 +6925,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Máy bơm nước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_90",
@@ -6173,7 +6943,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Gió.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_91",
@@ -6189,7 +6961,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nhiệt năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_92",
@@ -6205,7 +6979,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Bật điều hòa khi không có người.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_93",
@@ -6221,7 +6997,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Năng lượng gió.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_94",
@@ -6237,7 +7015,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Ô nhiễm môi trường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_95",
@@ -6253,7 +7033,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hóa năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_96",
@@ -6269,7 +7051,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Loa.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_97",
@@ -6285,7 +7069,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Năng lượng mặt trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_98",
@@ -6301,7 +7087,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giảm rác thải.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_99",
@@ -6317,7 +7105,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Có thể cạn kiệt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_100",
@@ -6333,7 +7123,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nồi cơm điện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_101",
@@ -6349,7 +7141,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Bảo vệ môi trường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_102",
@@ -6365,7 +7159,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Điện năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_103",
@@ -6381,7 +7177,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đèn học.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_104",
@@ -6397,7 +7195,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tiết kiệm điện hơn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_105",
@@ -6413,7 +7213,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Kĩ năng hợp tác.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_106",
@@ -6429,7 +7231,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Bóng đèn sợi đốt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_107",
@@ -6445,7 +7249,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Năng lượng mặt trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_108",
@@ -6461,7 +7267,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tắt đèn khi đủ ánh sáng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_109",
@@ -6477,7 +7285,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Gió.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_110",
@@ -6493,7 +7303,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nhiệt năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_111",
@@ -6509,7 +7321,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tiết kiệm điện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_112",
@@ -6525,7 +7339,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Quạt điện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_113",
@@ -6541,7 +7357,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Năng lượng gió.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_114",
@@ -6557,7 +7375,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Ô nhiễm môi trường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_115",
@@ -6573,7 +7393,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Máy giặt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_116",
@@ -6589,7 +7411,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Vì nhiều nguồn có thể cạn kiệt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_117",
@@ -6605,7 +7429,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Cách tạo điện từ gió.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_118",
@@ -6621,7 +7447,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nhiệt năng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "physics_119",
@@ -6637,7 +7465,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tiết kiệm tài nguyên và bảo vệ môi trường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_32",
@@ -6653,7 +7483,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Thế kỷ VII TCN.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_33",
@@ -6669,7 +7501,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hùng Vương.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_34",
@@ -6685,7 +7519,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Thế kỷ III TCN.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_35",
@@ -6701,7 +7537,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Bắc Bộ và Bắc Trung Bộ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_36",
@@ -6717,7 +7555,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Nông nghiệp lúa nước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_37",
@@ -6733,7 +7573,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đồng thau.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_38",
@@ -6749,7 +7591,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Trị thủy và chống ngoại xâm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_39",
@@ -6765,7 +7609,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Quân chủ sơ khai.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_40",
@@ -6781,7 +7627,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Lạc hầu, Lạc tướng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_41",
@@ -6797,7 +7645,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Chiềng, Chạ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_42",
@@ -6813,7 +7663,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tính gắn kết Nhà – Làng – Nước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_43",
@@ -6829,7 +7681,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: An Dương Vương.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_44",
@@ -6845,7 +7699,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Thành Cổ Loa.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_45",
@@ -6861,7 +7717,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Nỏ liên châu.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_46",
@@ -6877,7 +7735,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Bộ máy nhà nước chặt chẽ hơn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_47",
@@ -6893,7 +7753,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Học tập và rèn luyện tốt.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_48",
@@ -6909,7 +7771,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Trí tuệ và công nghệ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_49",
@@ -6925,7 +7789,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Trung thực, trách nhiệm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_50",
@@ -6941,7 +7807,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Giữ gìn văn hóa dân tộc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_51",
@@ -6957,7 +7825,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tinh thần xung kích của tuổi trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_52",
@@ -6973,7 +7843,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 1010.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_53",
@@ -6989,7 +7861,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Lý Thái Tổ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_54",
@@ -7005,7 +7879,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 1070.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_55",
@@ -7021,7 +7897,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Lý.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_56",
@@ -7037,7 +7915,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đại học đầu tiên của Việt Nam.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_57",
@@ -7053,7 +7933,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Lý.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_58",
@@ -7069,7 +7951,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Quân Tống.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_59",
@@ -7085,7 +7969,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Bản tuyên ngôn độc lập đầu tiên.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_60",
@@ -7101,7 +7987,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Nhà Trần.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_61",
@@ -7117,7 +8005,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đoàn kết toàn dân.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_62",
@@ -7133,7 +8023,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Bàn kế chống giặc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_63",
@@ -7149,7 +8041,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Hình thư.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_64",
@@ -7165,7 +8059,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Vân Đồn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_65",
@@ -7181,7 +8077,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Chữ Nôm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_66",
@@ -7197,7 +8095,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Lê Sơ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_67",
@@ -7213,7 +8113,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Bảo vệ quyền lợi phụ nữ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_68",
@@ -7229,7 +8131,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Nhà Lê Sơ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_69",
@@ -7245,7 +8149,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Thân Nhân Trung.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_70",
@@ -7261,7 +8167,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nguyễn Trãi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_71",
@@ -7277,7 +8185,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Chăm lo đời sống nhân dân.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_72",
@@ -7293,7 +8203,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Chăm lo đời sống nhân dân.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_73",
@@ -7309,7 +8221,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Gửi binh ở nhà nông.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_74",
@@ -7325,7 +8239,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hiếu học.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_75",
@@ -7341,7 +8257,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hiếu học và trọng dụng nhân tài.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_76",
@@ -7357,7 +8275,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hòa hợp tư tưởng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_77",
@@ -7373,7 +8293,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 3/2/1930.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_78",
@@ -7389,7 +8311,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Thành lập Đảng Cộng sản Việt Nam.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_79",
@@ -7405,7 +8329,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Xô viết Nghệ – Tĩnh.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_80",
@@ -7421,7 +8347,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Cuộc tổng diễn tập đầu tiên.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_81",
@@ -7437,7 +8365,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Dân chủ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_82",
@@ -7453,7 +8383,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: 1945.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_83",
@@ -7469,7 +8401,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 2/9.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_84",
@@ -7485,7 +8419,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hồ Chí Minh.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_85",
@@ -7501,7 +8437,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 1946 – 1954.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_86",
@@ -7517,7 +8455,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Điện Biên Phủ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_87",
@@ -7533,7 +8473,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 1954.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_88",
@@ -7549,7 +8491,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Điện Biên Phủ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_89",
@@ -7565,7 +8509,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 1954 – 1975.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_90",
@@ -7581,7 +8527,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 1960.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_91",
@@ -7597,7 +8545,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 1972.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_92",
@@ -7613,7 +8563,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 30/4/1975.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_93",
@@ -7629,7 +8581,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Giải phóng miền Nam, thống nhất đất nước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_94",
@@ -7645,7 +8599,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Sự lãnh đạo đúng đắn của Đảng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_95",
@@ -7661,7 +8617,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đại đoàn kết toàn dân.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_96",
@@ -7677,7 +8635,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tự lực tự cường.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_97",
@@ -7693,7 +8653,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Kết hợp nội lực và sự ủng hộ quốc tế.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_98",
@@ -7709,7 +8671,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Giữ gìn và phát huy thành quả cách mạng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_99",
@@ -7725,7 +8689,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tỉnh táo trước thông tin sai lệch.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_100",
@@ -7741,7 +8707,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Học tập và công nghệ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_101",
@@ -7757,7 +8725,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đền ơn đáp nghĩa.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_102",
@@ -7773,7 +8743,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Hiệp đồng binh chủng lớn nhất lịch sử dân tộc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_103",
@@ -7789,7 +8761,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Mỹ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_104",
@@ -7805,7 +8779,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 21 năm kháng chiến chống Mỹ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_105",
@@ -7821,7 +8797,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Độc lập, thống nhất.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_106",
@@ -7837,7 +8815,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: “Thần tốc, táo bạo, bất ngờ, chắc thắng”.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_107",
@@ -7853,7 +8833,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đại đoàn kết dân tộc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_108",
@@ -7869,7 +8851,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Cổ vũ phong trào giải phóng dân tộc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_109",
@@ -7885,7 +8869,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Xương máu cha ông.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_110",
@@ -7901,7 +8887,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Nhận thức chính trị đúng đắn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_111",
@@ -7917,7 +8905,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Học thật, làm thật.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_112",
@@ -7933,7 +8923,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Văn Lang.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_113",
@@ -7949,7 +8941,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Âu Lạc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_114",
@@ -7965,7 +8959,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đào tạo nhân tài.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_115",
@@ -7981,7 +8977,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hội nghị Diên Hồng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_116",
@@ -7997,7 +8995,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Luật Hồng Đức.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_117",
@@ -8013,7 +9013,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Chấm dứt khủng hoảng đường lối cứu nước.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_118",
@@ -8029,7 +9031,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Cách mạng tháng Tám.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_119",
@@ -8045,7 +9049,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 1954.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_120",
@@ -8061,7 +9067,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giải phóng hoàn toàn miền Nam.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_121",
@@ -8077,7 +9085,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đoàn kết dân tộc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_122",
@@ -8093,7 +9103,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Dựng bia Tiến sĩ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_123",
@@ -8109,7 +9121,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Rèn luyện trí tuệ và đạo đức.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_124",
@@ -8125,7 +9139,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Tư duy phản biện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_125",
@@ -8141,7 +9157,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Phát huy giá trị truyền thống.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_126",
@@ -8157,7 +9175,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đánh thắng quân Nguyên – Mông.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_127",
@@ -8173,7 +9193,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Chủ quyền dân tộc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_128",
@@ -8189,7 +9211,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Bảo vệ nền tảng tư tưởng đúng đắn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_129",
@@ -8205,7 +9229,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Thế hệ trẻ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_130",
@@ -8221,7 +9247,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Chùa Một Cột.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "his_131",
@@ -8237,7 +9265,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đoàn kết tạo nên sức mạnh dân tộc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_61",
@@ -8253,7 +9283,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 3.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_62",
@@ -8269,7 +9301,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hệ Mặt Trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_63",
@@ -8285,7 +9319,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 384.400 km.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_64",
@@ -8301,7 +9337,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hình cầu hơi dẹt ở hai cực.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_65",
@@ -8317,7 +9355,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 6.371 km.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_66",
@@ -8333,7 +9373,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 510 triệu km².",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_67",
@@ -8349,7 +9391,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 1.083 tỉ km³.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_68",
@@ -8365,7 +9409,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Everest.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_69",
@@ -8381,7 +9427,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Trục tưởng tượng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_70",
@@ -8397,7 +9445,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tây sang Đông.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_71",
@@ -8413,7 +9463,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 24 giờ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_72",
@@ -8429,7 +9481,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Trái Đất tự quay quanh trục.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_73",
@@ -8445,7 +9499,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 24 múi giờ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_74",
@@ -8461,7 +9517,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 7.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_75",
@@ -8477,7 +9535,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Sang phải.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_76",
@@ -8493,7 +9553,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Mặt Trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_77",
@@ -8509,7 +9571,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Hình elip.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_78",
@@ -8525,7 +9589,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 365 ngày 6 giờ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_79",
@@ -8541,7 +9607,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Trái Đất quay quanh Mặt Trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_80",
@@ -8557,7 +9625,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Ngày dài hơn đêm.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_81",
@@ -8573,7 +9643,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đêm dài hơn ngày.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_82",
@@ -8589,7 +9661,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Nội chí tuyến.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_83",
@@ -8605,7 +9679,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 349 triệu km².",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_84",
@@ -8621,7 +9697,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: 461 triệu km².",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_85",
@@ -8637,7 +9715,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Lực hấp dẫn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_86",
@@ -8653,7 +9733,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 366 ngày.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_87",
@@ -8669,7 +9751,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Dải Ngân Hà.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_88",
@@ -8685,7 +9769,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Lục địa và đại dương.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_89",
@@ -8701,7 +9787,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Giữa hai chí tuyến.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_90",
@@ -8717,7 +9805,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Trái Đất quay quanh Mặt Trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_91",
@@ -8733,7 +9823,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Tuyên Quang.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_92",
@@ -8749,7 +9841,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hà Giang và Tuyên Quang.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_93",
@@ -8765,7 +9859,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đông Bắc Bắc Bộ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_94",
@@ -8781,7 +9877,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Trung Quốc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_95",
@@ -8797,7 +9895,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: 13.795,5 km².",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_96",
@@ -8813,7 +9913,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 277 km.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_97",
@@ -8829,7 +9931,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 1,86 triệu người.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_98",
@@ -8845,7 +9949,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: 1.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_99",
@@ -8861,7 +9967,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Tuyên Quang.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_100",
@@ -8877,7 +9985,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_101",
@@ -8893,7 +10003,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 2010.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_102",
@@ -8909,7 +10021,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Công viên địa chất toàn cầu.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_103",
@@ -8925,7 +10039,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 2.356 km².",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_104",
@@ -8941,7 +10057,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 4.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_105",
@@ -8957,7 +10075,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_106",
@@ -8973,7 +10093,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Đá vôi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_107",
@@ -8989,7 +10111,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đá vôi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_108",
@@ -9005,7 +10129,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Núi đá tai mèo.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_109",
@@ -9021,7 +10147,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Địa chất.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_110",
@@ -9037,7 +10165,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Việt Nam.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_111",
@@ -9053,7 +10183,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Đá vôi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_112",
@@ -9069,7 +10201,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Hóa thạch cổ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_113",
@@ -9085,7 +10219,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Bắc Quang.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_114",
@@ -9101,7 +10237,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Mã Pí Lèng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_115",
@@ -9117,7 +10255,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Sông Nho Quế.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_116",
@@ -9133,7 +10273,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Liên Hợp Quốc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_117",
@@ -9149,7 +10291,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Du lịch.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_118",
@@ -9165,7 +10309,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Núi cao.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_119",
@@ -9181,7 +10327,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_120",
@@ -9197,7 +10345,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Nhà khoa học và du khách.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_121",
@@ -9213,7 +10363,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_122",
@@ -9229,7 +10381,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Núi đá.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_123",
@@ -9245,7 +10399,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_124",
@@ -9261,7 +10417,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Công viên địa chất Đồng Văn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_125",
@@ -9277,7 +10435,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Huyện.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_126",
@@ -9293,7 +10453,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Công viên địa chất Đồng Văn.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_127",
@@ -9309,7 +10471,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Núi đá.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_128",
@@ -9325,7 +10489,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_129",
@@ -9341,7 +10507,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Trung Quốc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_130",
@@ -9357,7 +10525,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_131",
@@ -9373,7 +10543,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Trái Đất tự quay quanh trục.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_132",
@@ -9389,7 +10561,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 2.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_133",
@@ -9405,7 +10579,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Bắc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_134",
@@ -9421,7 +10597,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Nepal - Trung Quốc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_135",
@@ -9437,7 +10615,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Địa hình đá vôi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_136",
@@ -9453,7 +10633,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Di sản địa chất.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_137",
@@ -9469,7 +10651,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Đèo.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_138",
@@ -9485,7 +10669,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Sông.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_139",
@@ -9501,7 +10687,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tuyên Quang.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_140",
@@ -9517,7 +10705,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Cao nguyên đá.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_141",
@@ -9533,7 +10723,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Lực Coriolis.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_142",
@@ -9549,7 +10741,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đông.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_143",
@@ -9565,7 +10759,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tây.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_144",
@@ -9581,7 +10777,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Đại dương.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_145",
@@ -9597,7 +10795,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Bán cầu Bắc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_146",
@@ -9613,7 +10813,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Tây sang Đông.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_147",
@@ -9629,7 +10831,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 24 giờ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_148",
@@ -9645,7 +10849,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_149",
@@ -9661,7 +10867,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_150",
@@ -9677,7 +10885,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: UNESCO.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_151",
@@ -9693,7 +10903,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_152",
@@ -9709,7 +10921,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Núi đá tai mèo.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_153",
@@ -9725,7 +10939,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_154",
@@ -9741,7 +10957,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Núi cao phía Bắc.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_155",
@@ -9757,7 +10975,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Núi đôi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_156",
@@ -9773,7 +10993,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_157",
@@ -9789,7 +11011,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_158",
@@ -9805,7 +11029,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_159",
@@ -9821,7 +11047,9 @@ const QUESTION_BANK = [
     "answer": 0,
     "explanation": "Đáp án đúng là A: Địa hình karst đá vôi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_160",
@@ -9837,7 +11065,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Dải Ngân Hà.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_161",
@@ -9853,7 +11083,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Một nhánh nhỏ của Dải Ngân Hà.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_162",
@@ -9869,7 +11101,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Một cụm thiên hà gồm Dải Ngân Hà và các thiên hà lân cận.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_163",
@@ -9885,7 +11119,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Nhiệt độ bề mặt trung bình 5.000°C.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_164",
@@ -9901,7 +11137,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Vỏ Trái Đất là lớp dày nhất.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_165",
@@ -9917,7 +11155,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Có nhiệt độ cao nhất Trái Đất.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_166",
@@ -9933,7 +11173,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Hiện tượng ngày đêm luân phiên.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_167",
@@ -9949,7 +11191,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Trái Đất chuyển động quanh Mặt Trời.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_168",
@@ -9965,7 +11209,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Mọi nơi trên Trái Đất đều có cùng giờ.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_169",
@@ -9981,7 +11227,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: Sang phải.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_170",
@@ -9997,7 +11245,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 1,86 triệu người.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_171",
@@ -10013,7 +11263,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: 13.795,5 km².",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_172",
@@ -10029,7 +11281,9 @@ const QUESTION_BANK = [
     "answer": 1,
     "explanation": "Đáp án đúng là B: 277 km.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_173",
@@ -10045,7 +11299,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 137 đơn vị hành chính cấp xã.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_174",
@@ -10061,7 +11317,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 23°23’B.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_175",
@@ -10077,7 +11335,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Đá vôi.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_176",
@@ -10093,7 +11353,9 @@ const QUESTION_BANK = [
     "answer": 3,
     "explanation": "Đáp án đúng là D: Có nguồn gốc núi lửa bazan.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_177",
@@ -10109,7 +11371,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: 1.000 – 1.600 m.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_178",
@@ -10125,7 +11389,9 @@ const QUESTION_BANK = [
     "answer": 2,
     "explanation": "Đáp án đúng là C: Thuộc vùng đồng bằng ven biển.",
     "level": "understanding",
-    "levelName": "Đề thông hiểu"
+    "levelName": "Đề thông hiểu",
+    "practiceGroup": "cstnxh_advanced",
+    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
     "id": "geo_adv1_1",
@@ -10142,7 +11408,9 @@ const QUESTION_BANK = [
       "6.371 km và 510 triệu km²"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: 384.400 km và 149,6 triệu km."
+    "explanation": "Đáp án đúng là A: 384.400 km và 149,6 triệu km.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_2",
@@ -10159,7 +11427,9 @@ const QUESTION_BANK = [
       "Trung tâm của Hệ Mặt Trời và Dải Ngân Hà"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Hành tinh thứ ba tính từ Mặt Trời, thuộc Hệ Mặt Trời nằm trong Dải Ngân Hà."
+    "explanation": "Đáp án đúng là C: Hành tinh thứ ba tính từ Mặt Trời, thuộc Hệ Mặt Trời nằm trong Dải Ngân Hà.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_3",
@@ -10176,7 +11446,9 @@ const QUESTION_BANK = [
       "Diện tích bề mặt khoảng 510 triệu km²"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Khoảng cách trung bình từ Trái Đất đến Mặt Trăng."
+    "explanation": "Đáp án đúng là A: Khoảng cách trung bình từ Trái Đất đến Mặt Trăng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_4",
@@ -10193,7 +11465,9 @@ const QUESTION_BANK = [
       "Khối cầu hơi dẹt ở hai cực và phình ra ở xích đạo"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Khối cầu hơi dẹt ở hai cực và phình ra ở xích đạo."
+    "explanation": "Đáp án đúng là D: Khối cầu hơi dẹt ở hai cực và phình ra ở xích đạo.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_5",
@@ -10210,7 +11484,9 @@ const QUESTION_BANK = [
       "Ngày đêm luân phiên chủ yếu do tự quay, còn mùa gắn với chuyển động quanh Mặt Trời và độ nghiêng trục"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Ngày đêm luân phiên chủ yếu do tự quay, còn mùa gắn với chuyển động quanh Mặt Trời và độ nghiêng trục."
+    "explanation": "Đáp án đúng là D: Ngày đêm luân phiên chủ yếu do tự quay, còn mùa gắn với chuyển động quanh Mặt Trời và độ nghiêng trục.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_6",
@@ -10227,7 +11503,9 @@ const QUESTION_BANK = [
       "Bên phải"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Bên phải."
+    "explanation": "Đáp án đúng là D: Bên phải.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_7",
@@ -10244,7 +11522,9 @@ const QUESTION_BANK = [
       "Trái Đất quay 360° trong khoảng 24 giờ, mỗi múi khoảng 15° kinh tuyến"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Trái Đất quay 360° trong khoảng 24 giờ, mỗi múi khoảng 15° kinh tuyến."
+    "explanation": "Đáp án đúng là D: Trái Đất quay 360° trong khoảng 24 giờ, mỗi múi khoảng 15° kinh tuyến.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_8",
@@ -10261,7 +11541,9 @@ const QUESTION_BANK = [
       "Ngày đêm luân phiên và sự lệch hướng chuyển động"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Ngày đêm luân phiên và sự lệch hướng chuyển động."
+    "explanation": "Đáp án đúng là D: Ngày đêm luân phiên và sự lệch hướng chuyển động.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_9",
@@ -10278,7 +11560,9 @@ const QUESTION_BANK = [
       "Sự lệch hướng vật chuyển động và thủy triều"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Các mùa và ngày đêm dài ngắn theo mùa."
+    "explanation": "Đáp án đúng là A: Các mùa và ngày đêm dài ngắn theo mùa.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_10",
@@ -10295,7 +11579,9 @@ const QUESTION_BANK = [
       "Xảy ra ở mọi vĩ độ vì Trái Đất hình cầu"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Chỉ xảy ra ở khu vực nội chí tuyến, mỗi nơi có thể có hai lần trong năm."
+    "explanation": "Đáp án đúng là A: Chỉ xảy ra ở khu vực nội chí tuyến, mỗi nơi có thể có hai lần trong năm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_11",
@@ -10312,7 +11598,9 @@ const QUESTION_BANK = [
       "Tổng diện tích khoảng 510 triệu km², trong đó đại dương lớn hơn lục địa"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Tổng diện tích khoảng 510 triệu km², trong đó đại dương lớn hơn lục địa."
+    "explanation": "Đáp án đúng là D: Tổng diện tích khoảng 510 triệu km², trong đó đại dương lớn hơn lục địa.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_12",
@@ -10329,7 +11617,9 @@ const QUESTION_BANK = [
       "Đỉnh Everest"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Dãy Himalaya."
+    "explanation": "Đáp án đúng là C: Dãy Himalaya.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_13",
@@ -10346,7 +11636,9 @@ const QUESTION_BANK = [
       "Quả địa cầu đứng yên, đèn pin quay quanh quả địa cầu mỗi 24 giờ"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Quả địa cầu tự quay trước nguồn sáng cố định tượng trưng cho Mặt Trời."
+    "explanation": "Đáp án đúng là B: Quả địa cầu tự quay trước nguồn sáng cố định tượng trưng cho Mặt Trời.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_14",
@@ -10363,7 +11655,9 @@ const QUESTION_BANK = [
       "Tạo ra các mùa trong năm"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Tạo ra các mùa trong năm."
+    "explanation": "Đáp án đúng là D: Tạo ra các mùa trong năm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_15",
@@ -10380,7 +11674,9 @@ const QUESTION_BANK = [
       "Góp phần tạo nên hiện tượng mùa"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Là nguyên nhân trực tiếp làm Trái Đất có 24 múi giờ."
+    "explanation": "Đáp án đúng là C: Là nguyên nhân trực tiếp làm Trái Đất có 24 múi giờ.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_16",
@@ -10397,7 +11693,9 @@ const QUESTION_BANK = [
       "Ngày và đêm luôn bằng nhau"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Ngày dài hơn đêm."
+    "explanation": "Đáp án đúng là C: Ngày dài hơn đêm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_17",
@@ -10414,7 +11712,9 @@ const QUESTION_BANK = [
       "Cả hai đều mất 24 giờ"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Tự quay tạo chu kì ngày, chuyển động quanh Mặt Trời tạo chu kì năm."
+    "explanation": "Đáp án đúng là C: Tự quay tạo chu kì ngày, chuyển động quanh Mặt Trời tạo chu kì năm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_18",
@@ -10431,7 +11731,9 @@ const QUESTION_BANK = [
       "Sao Kim - Sao Thủy - Trái Đất - Sao Hỏa"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Sao Thủy - Sao Kim - Trái Đất - Sao Hỏa."
+    "explanation": "Đáp án đúng là C: Sao Thủy - Sao Kim - Trái Đất - Sao Hỏa.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_19",
@@ -10448,7 +11750,9 @@ const QUESTION_BANK = [
       "Thời gian tự quay - km/h"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Bán kính Trái Đất - km."
+    "explanation": "Đáp án đúng là B: Bán kính Trái Đất - km.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_20",
@@ -10465,7 +11769,9 @@ const QUESTION_BANK = [
       "Đại dương hấp thụ hết ánh sáng nên thành ban đêm"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Mặt Trời chỉ chiếu sáng được một nửa khối cầu Trái Đất tại một thời điểm."
+    "explanation": "Đáp án đúng là A: Mặt Trời chỉ chiếu sáng được một nửa khối cầu Trái Đất tại một thời điểm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_21",
@@ -10482,7 +11788,9 @@ const QUESTION_BANK = [
       "Khoảng 1.083 tỉ km³"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Khoảng 1.083 tỉ km³."
+    "explanation": "Đáp án đúng là D: Khoảng 1.083 tỉ km³.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_22",
@@ -10499,7 +11807,9 @@ const QUESTION_BANK = [
       "Nói Dải Ngân Hà là một hành tinh"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Nói Dải Ngân Hà là một hành tinh."
+    "explanation": "Đáp án đúng là D: Nói Dải Ngân Hà là một hành tinh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_23",
@@ -10516,7 +11826,9 @@ const QUESTION_BANK = [
       "Trái Đất có bán kính trung bình bao nhiêu?"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Hệ quả nào không phát sinh từ cùng loại chuyển động với ngày đêm luân phiên?."
+    "explanation": "Đáp án đúng là B: Hệ quả nào không phát sinh từ cùng loại chuyển động với ngày đêm luân phiên?.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_24",
@@ -10533,7 +11845,9 @@ const QUESTION_BANK = [
       "Làm học sinh không cần hiểu phương hướng"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Thể hiện trực quan dạng khối cầu và trục nghiêng/tự quay."
+    "explanation": "Đáp án đúng là A: Thể hiện trực quan dạng khối cầu và trục nghiêng/tự quay.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_25",
@@ -10550,7 +11864,9 @@ const QUESTION_BANK = [
       "Sự xuất hiện bốn mùa"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Sự thay đổi giờ giữa các kinh tuyến."
+    "explanation": "Đáp án đúng là B: Sự thay đổi giờ giữa các kinh tuyến.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_26",
@@ -10567,7 +11883,9 @@ const QUESTION_BANK = [
       "Trái Đất chuyển động quanh Mặt Trời khoảng 365 ngày 6 giờ"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Trái Đất chuyển động quanh Mặt Trời khoảng 365 ngày 6 giờ."
+    "explanation": "Đáp án đúng là D: Trái Đất chuyển động quanh Mặt Trời khoảng 365 ngày 6 giờ.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_27",
@@ -10584,7 +11902,9 @@ const QUESTION_BANK = [
       "Đang xét mọi hành tinh trong Hệ Mặt Trời"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Đang xét một bán cầu/vĩ độ cụ thể, thường là bán cầu Bắc trong tài liệu."
+    "explanation": "Đáp án đúng là C: Đang xét một bán cầu/vĩ độ cụ thể, thường là bán cầu Bắc trong tài liệu.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_28",
@@ -10601,7 +11921,9 @@ const QUESTION_BANK = [
       "Trái Đất là hình elip vì quỹ đạo elip"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Ảnh nhìn hai chiều có thể tròn, nhưng mô hình không gian là khối cầu hơi dẹt."
+    "explanation": "Đáp án đúng là C: Ảnh nhìn hai chiều có thể tròn, nhưng mô hình không gian là khối cầu hơi dẹt.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_29",
@@ -10618,7 +11940,9 @@ const QUESTION_BANK = [
       "Tự quay sinh ra ngày đêm luân phiên"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Bán kính trung bình Trái Đất khoảng 6.371 km."
+    "explanation": "Đáp án đúng là B: Bán kính trung bình Trái Đất khoảng 6.371 km.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_30",
@@ -10635,7 +11959,9 @@ const QUESTION_BANK = [
       "Tự quay - 365 ngày 6 giờ - các mùa"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Tự quay - 24 giờ - ngày đêm luân phiên."
+    "explanation": "Đáp án đúng là B: Tự quay - 24 giờ - ngày đêm luân phiên.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_31",
@@ -10652,7 +11978,9 @@ const QUESTION_BANK = [
       "Thành phố Hà Giang đổi tên thành huyện Tuyên Quang"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Tỉnh Hà Giang cũ sáp nhập với tỉnh Tuyên Quang cũ để hình thành tỉnh Tuyên Quang mới."
+    "explanation": "Đáp án đúng là B: Tỉnh Hà Giang cũ sáp nhập với tỉnh Tuyên Quang cũ để hình thành tỉnh Tuyên Quang mới.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_32",
@@ -10669,7 +11997,9 @@ const QUESTION_BANK = [
       "Bắc Trung Bộ"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Đông Bắc Bắc Bộ."
+    "explanation": "Đáp án đúng là A: Đông Bắc Bắc Bộ.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_33",
@@ -10686,7 +12016,9 @@ const QUESTION_BANK = [
       "Phía Đông giáp Lào Cai, phía Tây giáp Thái Nguyên"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Phía Bắc giáp Trung Quốc, phía Tây giáp Lào Cai."
+    "explanation": "Đáp án đúng là A: Phía Bắc giáp Trung Quốc, phía Tây giáp Lào Cai.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_34",
@@ -10703,7 +12035,9 @@ const QUESTION_BANK = [
       "Khoảng 510 triệu km²"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Khoảng 13.795,5 km²."
+    "explanation": "Đáp án đúng là A: Khoảng 13.795,5 km².",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_35",
@@ -10720,7 +12054,9 @@ const QUESTION_BANK = [
       "2.356 km"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: 277 km."
+    "explanation": "Đáp án đúng là A: 277 km.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_36",
@@ -10737,7 +12073,9 @@ const QUESTION_BANK = [
       "Thành phố Hà Giang cũ"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Tỉnh Tuyên Quang mới."
+    "explanation": "Đáp án đúng là B: Tỉnh Tuyên Quang mới.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_37",
@@ -10754,7 +12092,9 @@ const QUESTION_BANK = [
       "Là Công viên địa chất toàn cầu đầu tiên của Việt Nam, thuộc mạng lưới UNESCO"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Là Công viên địa chất toàn cầu đầu tiên của Việt Nam, thuộc mạng lưới UNESCO."
+    "explanation": "Đáp án đúng là D: Là Công viên địa chất toàn cầu đầu tiên của Việt Nam, thuộc mạng lưới UNESCO.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_38",
@@ -10771,7 +12111,9 @@ const QUESTION_BANK = [
       "Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc."
+    "explanation": "Đáp án đúng là D: Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_39",
@@ -10788,7 +12130,9 @@ const QUESTION_BANK = [
       "Vùng đồng bằng phù sa rộng lớn thuận lợi cơ giới hóa"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Giá trị địa chất, hóa thạch, karst đá vôi, cảnh quan và văn hóa dân tộc."
+    "explanation": "Đáp án đúng là A: Giá trị địa chất, hóa thạch, karst đá vôi, cảnh quan và văn hóa dân tộc.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_40",
@@ -10805,7 +12149,9 @@ const QUESTION_BANK = [
       "Có nhiều núi đá tai mèo"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Chủ yếu là đồng bằng phù sa thấp và rộng."
+    "explanation": "Đáp án đúng là A: Chủ yếu là đồng bằng phù sa thấp và rộng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_41",
@@ -10822,7 +12168,9 @@ const QUESTION_BANK = [
       "Đồng bằng phù sa gắn với sản lượng lúa lớn nhất Việt Nam"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Địa hình đá vôi karst gắn với cảnh quan, đời sống và văn hóa các dân tộc vùng cao."
+    "explanation": "Đáp án đúng là B: Địa hình đá vôi karst gắn với cảnh quan, đời sống và văn hóa các dân tộc vùng cao.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_42",
@@ -10839,7 +12187,9 @@ const QUESTION_BANK = [
       "Diện tích Cao nguyên đá Đồng Văn"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Diện tích Cao nguyên đá Đồng Văn."
+    "explanation": "Đáp án đúng là D: Diện tích Cao nguyên đá Đồng Văn.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_43",
@@ -10856,7 +12206,9 @@ const QUESTION_BANK = [
       "4 thành phố"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: 1 thành phố."
+    "explanation": "Đáp án đúng là B: 1 thành phố.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_44",
@@ -10873,7 +12225,9 @@ const QUESTION_BANK = [
       "Tày, Dao, Mông, Nùng, Kinh, Lô Lô, Pu Péo"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Tày, Dao, Mông, Nùng, Kinh, Lô Lô, Pu Péo."
+    "explanation": "Đáp án đúng là D: Tày, Dao, Mông, Nùng, Kinh, Lô Lô, Pu Péo.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_45",
@@ -10890,7 +12244,9 @@ const QUESTION_BANK = [
       "Đường biên giới Tuyên Quang mới dài khoảng 277 km"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Đường biên giới Tuyên Quang mới dài khoảng 277 km."
+    "explanation": "Đáp án đúng là D: Đường biên giới Tuyên Quang mới dài khoảng 277 km.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_46",
@@ -10907,7 +12263,9 @@ const QUESTION_BANK = [
       "Giúp sinh viên/học sinh liên hệ kiến thức địa chất, cảnh quan, văn hóa với quê hương"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Giúp sinh viên/học sinh liên hệ kiến thức địa chất, cảnh quan, văn hóa với quê hương."
+    "explanation": "Đáp án đúng là D: Giúp sinh viên/học sinh liên hệ kiến thức địa chất, cảnh quan, văn hóa với quê hương.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_47",
@@ -10924,7 +12282,9 @@ const QUESTION_BANK = [
       "Cao nguyên đá Đồng Văn - địa hình karst đá vôi"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Cao nguyên đá Đồng Văn - địa hình karst đá vôi."
+    "explanation": "Đáp án đúng là D: Cao nguyên đá Đồng Văn - địa hình karst đá vôi.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_48",
@@ -10941,7 +12301,9 @@ const QUESTION_BANK = [
       "Cả hai đều là thành phố trực thuộc tỉnh"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Đồng Văn là công viên địa chất/cao nguyên đá ở Việt Nam; Everest là đỉnh núi cao nhất thế giới."
+    "explanation": "Đáp án đúng là B: Đồng Văn là công viên địa chất/cao nguyên đá ở Việt Nam; Everest là đỉnh núi cao nhất thế giới.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_49",
@@ -10958,7 +12320,9 @@ const QUESTION_BANK = [
       "Tuyên Quang mới 510 triệu km²; Đồng Văn 361 triệu km²"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Tuyên Quang mới khoảng 13.795,5 km²; Đồng Văn khoảng 2.356 km²."
+    "explanation": "Đáp án đúng là B: Tuyên Quang mới khoảng 13.795,5 km²; Đồng Văn khoảng 2.356 km².",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_50",
@@ -10975,7 +12339,9 @@ const QUESTION_BANK = [
       "Bắc Giang và Hà Nội"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Cao Bằng và Thái Nguyên."
+    "explanation": "Đáp án đúng là A: Cao Bằng và Thái Nguyên.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_51",
@@ -10992,7 +12358,9 @@ const QUESTION_BANK = [
       "Lào Cai"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Phú Thọ."
+    "explanation": "Đáp án đúng là B: Phú Thọ.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_52",
@@ -11009,7 +12377,9 @@ const QUESTION_BANK = [
       "Hỏi tên một dân tộc bất kỳ"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: So sánh diện tích tỉnh Tuyên Quang mới với diện tích Công viên địa chất Đồng Văn."
+    "explanation": "Đáp án đúng là B: So sánh diện tích tỉnh Tuyên Quang mới với diện tích Công viên địa chất Đồng Văn.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_53",
@@ -11026,7 +12396,9 @@ const QUESTION_BANK = [
       "Đúng, vì đá vôi không có giá trị khoa học"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Sai, vì tài liệu nêu rõ giá trị địa chất, hóa thạch, địa hình karst và cảnh quan."
+    "explanation": "Đáp án đúng là C: Sai, vì tài liệu nêu rõ giá trị địa chất, hóa thạch, địa hình karst và cảnh quan.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_54",
@@ -11043,7 +12415,9 @@ const QUESTION_BANK = [
       "Yêu cầu chép nguyên văn tên các huyện 10 lần"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Cho sinh viên lập bảng liên hệ: vị trí - số liệu - giá trị - ứng dụng giáo dục."
+    "explanation": "Đáp án đúng là C: Cho sinh viên lập bảng liên hệ: vị trí - số liệu - giá trị - ứng dụng giáo dục.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_55",
@@ -11060,7 +12434,9 @@ const QUESTION_BANK = [
       "Địa hình đồng bằng thấp quyết định trồng lúa nước quy mô lớn"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Địa hình đá vôi khắc nghiệt nhưng tạo cảnh quan, bản sắc văn hóa và tiềm năng du lịch - giáo dục."
+    "explanation": "Đáp án đúng là B: Địa hình đá vôi khắc nghiệt nhưng tạo cảnh quan, bản sắc văn hóa và tiềm năng du lịch - giáo dục.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_56",
@@ -11077,7 +12453,9 @@ const QUESTION_BANK = [
       "1 thành phố"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: 1 thành phố."
+    "explanation": "Đáp án đúng là D: 1 thành phố.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_57",
@@ -11094,7 +12472,9 @@ const QUESTION_BANK = [
       "Là loại đá núi lửa trẻ chiếm toàn bộ cao nguyên"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Là thành phần chủ yếu, hình thành lâu dài và gắn với địa hình karst."
+    "explanation": "Đáp án đúng là B: Là thành phần chủ yếu, hình thành lâu dài và gắn với địa hình karst.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_58",
@@ -11111,7 +12491,9 @@ const QUESTION_BANK = [
       "Là nơi có múi giờ số 7"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Thuộc mạng lưới Công viên địa chất toàn cầu UNESCO, thu hút du khách và nhà khoa học quốc tế."
+    "explanation": "Đáp án đúng là A: Thuộc mạng lưới Công viên địa chất toàn cầu UNESCO, thu hút du khách và nhà khoa học quốc tế.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "geo_adv1_59",
@@ -11128,7 +12510,9 @@ const QUESTION_BANK = [
       "Tuyên Quang mới không có yếu tố quốc tế nào"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Tuyên Quang mới có vị trí biên giới, đa dân tộc; Đồng Văn nổi bật về địa chất, cảnh quan và văn hóa."
+    "explanation": "Đáp án đúng là A: Tuyên Quang mới có vị trí biên giới, đa dân tộc; Đồng Văn nổi bật về địa chất, cảnh quan và văn hóa.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_1",
@@ -11145,7 +12529,9 @@ const QUESTION_BANK = [
       "Gia đình là môi trường đầu tiên hình thành nhân cách và tái sản xuất đời sống xã hội"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Gia đình là môi trường đầu tiên hình thành nhân cách và tái sản xuất đời sống xã hội."
+    "explanation": "Đáp án đúng là D: Gia đình là môi trường đầu tiên hình thành nhân cách và tái sản xuất đời sống xã hội.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_2",
@@ -11162,7 +12548,9 @@ const QUESTION_BANK = [
       "Hộ gia đình không bao giờ có trách nhiệm kinh tế chung"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Gia đình nhấn mạnh quan hệ hôn nhân, huyết thống, nuôi dưỡng; hộ gia đình nhấn mạnh đơn vị cư trú/kinh tế."
+    "explanation": "Đáp án đúng là C: Gia đình nhấn mạnh quan hệ hôn nhân, huyết thống, nuôi dưỡng; hộ gia đình nhấn mạnh đơn vị cư trú/kinh tế.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_3",
@@ -11179,7 +12567,9 @@ const QUESTION_BANK = [
       "Đào tạo chuyên môn nghề nghiệp sâu"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Hình thành cơ sở ban đầu về đạo đức, trí tuệ, kỹ năng và phương pháp học tập."
+    "explanation": "Đáp án đúng là B: Hình thành cơ sở ban đầu về đạo đức, trí tuệ, kỹ năng và phương pháp học tập.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_4",
@@ -11196,7 +12586,9 @@ const QUESTION_BANK = [
       "Tập trung toàn bộ vào kiểm tra điểm số"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Xây dựng cơ chế phối hợp thường xuyên, chia sẻ thông tin, cùng tổ chức hoạt động giáo dục."
+    "explanation": "Đáp án đúng là B: Xây dựng cơ chế phối hợp thường xuyên, chia sẻ thông tin, cùng tổ chức hoạt động giáo dục.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_5",
@@ -11213,7 +12605,9 @@ const QUESTION_BANK = [
       "Có chuyên môn, đạo đức nhà giáo và năng lực phối hợp các lực lượng giáo dục"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Có chuyên môn, đạo đức nhà giáo và năng lực phối hợp các lực lượng giáo dục."
+    "explanation": "Đáp án đúng là D: Có chuyên môn, đạo đức nhà giáo và năng lực phối hợp các lực lượng giáo dục.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_6",
@@ -11230,7 +12624,9 @@ const QUESTION_BANK = [
       "Hôn nhân đề cao sự thấu hiểu, bình đẳng và giá trị cá nhân hơn trước"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Hôn nhân đề cao sự thấu hiểu, bình đẳng và giá trị cá nhân hơn trước."
+    "explanation": "Đáp án đúng là D: Hôn nhân đề cao sự thấu hiểu, bình đẳng và giá trị cá nhân hơn trước.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_7",
@@ -11247,7 +12643,9 @@ const QUESTION_BANK = [
       "Chỉ là nơi học sinh vui chơi không cần định hướng"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Cung cấp môi trường trải nghiệm, bản sắc văn hóa và nguồn lực hỗ trợ giáo dục."
+    "explanation": "Đáp án đúng là B: Cung cấp môi trường trải nghiệm, bản sắc văn hóa và nguồn lực hỗ trợ giáo dục.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_8",
@@ -11264,7 +12662,9 @@ const QUESTION_BANK = [
       "Giao toàn bộ trách nhiệm cho phụ huynh"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Trao đổi với gia đình, tìm nguyên nhân, thống nhất biện pháp hỗ trợ và theo dõi."
+    "explanation": "Đáp án đúng là A: Trao đổi với gia đình, tìm nguyên nhân, thống nhất biện pháp hỗ trợ và theo dõi.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_9",
@@ -11281,7 +12681,9 @@ const QUESTION_BANK = [
       "Chỉ truyền đạt tri thức sách giáo khoa, không hình thành nhân cách"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Chỉ truyền đạt tri thức sách giáo khoa, không hình thành nhân cách."
+    "explanation": "Đáp án đúng là D: Chỉ truyền đạt tri thức sách giáo khoa, không hình thành nhân cách.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_10",
@@ -11298,7 +12700,9 @@ const QUESTION_BANK = [
       "Chỉ rèn nề nếp mà không cần tri thức"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Kết hợp đức, trí, thể, mỹ, kỹ năng và trải nghiệm thực tiễn."
+    "explanation": "Đáp án đúng là B: Kết hợp đức, trí, thể, mỹ, kỹ năng và trải nghiệm thực tiễn.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_11",
@@ -11315,7 +12719,9 @@ const QUESTION_BANK = [
       "Độc quyền truyền đạt và yêu cầu học thuộc"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Tổ chức, định hướng, hỗ trợ và đánh giá quá trình học của học sinh."
+    "explanation": "Đáp án đúng là A: Tổ chức, định hướng, hỗ trợ và đánh giá quá trình học của học sinh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_12",
@@ -11332,7 +12738,9 @@ const QUESTION_BANK = [
       "Gắn kiến thức với đời sống, di sản, nghề nghiệp và vấn đề gần gũi của địa phương"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Gắn kiến thức với đời sống, di sản, nghề nghiệp và vấn đề gần gũi của địa phương."
+    "explanation": "Đáp án đúng là D: Gắn kiến thức với đời sống, di sản, nghề nghiệp và vấn đề gần gũi của địa phương.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_13",
@@ -11349,7 +12757,9 @@ const QUESTION_BANK = [
       "Khoán trắng việc dạy học cho phụ huynh"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Huy động sự tham gia của gia đình, nhà trường, cộng đồng và các tổ chức xã hội trong giáo dục."
+    "explanation": "Đáp án đúng là C: Huy động sự tham gia của gia đình, nhà trường, cộng đồng và các tổ chức xã hội trong giáo dục.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_14",
@@ -11366,7 +12776,9 @@ const QUESTION_BANK = [
       "Luôn quy lỗi cho phụ huynh"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Tôn trọng, hợp tác, bảo mật thông tin và cùng hướng tới sự tiến bộ của học sinh."
+    "explanation": "Đáp án đúng là C: Tôn trọng, hợp tác, bảo mật thông tin và cùng hướng tới sự tiến bộ của học sinh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_15",
@@ -11383,7 +12795,9 @@ const QUESTION_BANK = [
       "Đồng nhất gia đình với hộ gia đình trong mọi trường hợp"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Đồng nhất gia đình với hộ gia đình trong mọi trường hợp."
+    "explanation": "Đáp án đúng là D: Đồng nhất gia đình với hộ gia đình trong mọi trường hợp.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_16",
@@ -11400,7 +12814,9 @@ const QUESTION_BANK = [
       "Tránh phải phối hợp với cộng đồng"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Thiết kế bài học gần gũi, giáo dục bản sắc và phát triển năng lực vận dụng."
+    "explanation": "Đáp án đúng là C: Thiết kế bài học gần gũi, giáo dục bản sắc và phát triển năng lực vận dụng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_17",
@@ -11417,7 +12833,9 @@ const QUESTION_BANK = [
       "Cộng đồng quyết định toàn bộ điểm số"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Nhà trường chủ trì, gia đình đồng hành, cộng đồng hỗ trợ nguồn lực và môi trường trải nghiệm."
+    "explanation": "Đáp án đúng là B: Nhà trường chủ trì, gia đình đồng hành, cộng đồng hỗ trợ nguồn lực và môi trường trải nghiệm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_18",
@@ -11434,7 +12852,9 @@ const QUESTION_BANK = [
       "Sự tiến bộ qua hoạt động"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Điểm kiểm tra kiến thức."
+    "explanation": "Đáp án đúng là B: Điểm kiểm tra kiến thức.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_19",
@@ -11451,7 +12871,9 @@ const QUESTION_BANK = [
       "Loại bỏ vai trò của gia đình"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Đặt cơ sở ban đầu cho học tập lâu dài, phẩm chất và năng lực cơ bản."
+    "explanation": "Đáp án đúng là C: Đặt cơ sở ban đầu cho học tập lâu dài, phẩm chất và năng lực cơ bản.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_20",
@@ -11468,7 +12890,9 @@ const QUESTION_BANK = [
       "Làm giảm hoàn toàn thời lượng học chính khóa"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Tạo cơ hội thực hành kỹ năng, hợp tác, trách nhiệm và liên hệ thực tiễn."
+    "explanation": "Đáp án đúng là A: Tạo cơ hội thực hành kỹ năng, hợp tác, trách nhiệm và liên hệ thực tiễn.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_21",
@@ -11485,7 +12909,9 @@ const QUESTION_BANK = [
       "Chỉ dùng tài liệu nước ngoài"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Bối cảnh văn hóa, ngôn ngữ, điều kiện sống và nguồn lực địa phương."
+    "explanation": "Đáp án đúng là C: Bối cảnh văn hóa, ngôn ngữ, điều kiện sống và nguồn lực địa phương.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_22",
@@ -11502,7 +12928,9 @@ const QUESTION_BANK = [
       "Chỉ yêu cầu đóng góp vật chất"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Mục tiêu rõ, thông tin hai chiều, trách nhiệm cụ thể và theo dõi tiến bộ."
+    "explanation": "Đáp án đúng là C: Mục tiêu rõ, thông tin hai chiều, trách nhiệm cụ thể và theo dõi tiến bộ.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_23",
@@ -11519,7 +12947,9 @@ const QUESTION_BANK = [
       "Sự nghiêm khắc tuyệt đối"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Năng lực sư phạm, đạo đức, tôn trọng học sinh và tự bồi dưỡng."
+    "explanation": "Đáp án đúng là B: Năng lực sư phạm, đạo đức, tôn trọng học sinh và tự bồi dưỡng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_24",
@@ -11536,7 +12966,9 @@ const QUESTION_BANK = [
       "Từ tình huống gần gũi, tôn trọng sự đa dạng hoàn cảnh gia đình"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Từ tình huống gần gũi, tôn trọng sự đa dạng hoàn cảnh gia đình."
+    "explanation": "Đáp án đúng là D: Từ tình huống gần gũi, tôn trọng sự đa dạng hoàn cảnh gia đình.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_25",
@@ -11553,7 +12985,9 @@ const QUESTION_BANK = [
       "Mời nghệ nhân/nhân chứng/người có kinh nghiệm địa phương tham gia hoạt động phù hợp"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Mời nghệ nhân/nhân chứng/người có kinh nghiệm địa phương tham gia hoạt động phù hợp."
+    "explanation": "Đáp án đúng là D: Mời nghệ nhân/nhân chứng/người có kinh nghiệm địa phương tham gia hoạt động phù hợp.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_26",
@@ -11570,7 +13004,9 @@ const QUESTION_BANK = [
       "Học sinh được hoạt động, trải nghiệm, vận dụng chứ không chỉ ghi nhớ"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Học sinh được hoạt động, trải nghiệm, vận dụng chứ không chỉ ghi nhớ."
+    "explanation": "Đáp án đúng là D: Học sinh được hoạt động, trải nghiệm, vận dụng chứ không chỉ ghi nhớ.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_27",
@@ -11587,7 +13023,9 @@ const QUESTION_BANK = [
       "Ngừng trao đổi hoàn toàn"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Đối thoại dựa trên bằng chứng, thống nhất mục tiêu vì lợi ích của học sinh."
+    "explanation": "Đáp án đúng là B: Đối thoại dựa trên bằng chứng, thống nhất mục tiêu vì lợi ích của học sinh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_28",
@@ -11604,7 +13042,9 @@ const QUESTION_BANK = [
       "Hỏi số lượng học sinh tùy ý"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Phân tích tình huống phối hợp giáo dục và chọn biện pháp phù hợp."
+    "explanation": "Đáp án đúng là C: Phân tích tình huống phối hợp giáo dục và chọn biện pháp phù hợp.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_29",
@@ -11621,7 +13061,9 @@ const QUESTION_BANK = [
       "Gắn nội dung với trải nghiệm"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Định kiến, miệt thị phong tục hoặc hoàn cảnh sống của học sinh."
+    "explanation": "Đáp án đúng là B: Định kiến, miệt thị phong tục hoặc hoàn cảnh sống của học sinh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_30",
@@ -11638,7 +13080,9 @@ const QUESTION_BANK = [
       "Tăng thủ tục hành chính"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Tạo môi trường giáo dục thống nhất, an toàn và hỗ trợ phát triển toàn diện học sinh."
+    "explanation": "Đáp án đúng là A: Tạo môi trường giáo dục thống nhất, an toàn và hỗ trợ phát triển toàn diện học sinh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_31",
@@ -11655,7 +13099,9 @@ const QUESTION_BANK = [
       "Có bộ máy cai quản, lãnh thổ, cư dân và nhu cầu trị thủy - chống ngoại xâm"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Có bộ máy cai quản, lãnh thổ, cư dân và nhu cầu trị thủy - chống ngoại xâm."
+    "explanation": "Đáp án đúng là D: Có bộ máy cai quản, lãnh thổ, cư dân và nhu cầu trị thủy - chống ngoại xâm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_32",
@@ -11672,7 +13118,9 @@ const QUESTION_BANK = [
       "Nông nghiệp lúa nước gắn với trị thủy"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Nông nghiệp lúa nước gắn với trị thủy."
+    "explanation": "Đáp án đúng là D: Nông nghiệp lúa nước gắn với trị thủy.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_33",
@@ -11689,7 +13137,9 @@ const QUESTION_BANK = [
       "Không còn nhu cầu quốc phòng"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Tổ chức nhà nước và quân sự chặt chẽ hơn, tiêu biểu là thành Cổ Loa và nỏ liên châu."
+    "explanation": "Đáp án đúng là C: Tổ chức nhà nước và quân sự chặt chẽ hơn, tiêu biểu là thành Cổ Loa và nỏ liên châu.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_34",
@@ -11706,7 +13156,9 @@ const QUESTION_BANK = [
       "Là kinh đô thời Lê sơ"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Phản ánh trình độ tổ chức, kỹ thuật quân sự và ý thức phòng thủ của Âu Lạc."
+    "explanation": "Đáp án đúng là A: Phản ánh trình độ tổ chức, kỹ thuật quân sự và ý thức phòng thủ của Âu Lạc.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_35",
@@ -11723,7 +13175,9 @@ const QUESTION_BANK = [
       "Đưa Phật giáo thành quốc giáo"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Chấm dứt ách đô hộ phương Bắc, mở ra thời kỳ độc lập tự chủ lâu dài."
+    "explanation": "Đáp án đúng là B: Chấm dứt ách đô hộ phương Bắc, mở ra thời kỳ độc lập tự chủ lâu dài.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_36",
@@ -11740,7 +13194,9 @@ const QUESTION_BANK = [
       "Mục tiêu đóng cửa với bên ngoài"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Tầm nhìn chính trị về vị trí trung tâm, thuận lợi phát triển quốc gia."
+    "explanation": "Đáp án đúng là B: Tầm nhìn chính trị về vị trí trung tâm, thuận lợi phát triển quốc gia.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_37",
@@ -11757,7 +13213,9 @@ const QUESTION_BANK = [
       "Hiếu học, coi trọng giáo dục và đào tạo nhân tài"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Hiếu học, coi trọng giáo dục và đào tạo nhân tài."
+    "explanation": "Đáp án đúng là D: Hiếu học, coi trọng giáo dục và đào tạo nhân tài.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_38",
@@ -11774,7 +13232,9 @@ const QUESTION_BANK = [
       "Ba lần đánh thắng quân Nguyên - Mông"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Khẳng định ý chí độc lập qua kháng chiến chống Tống và bài thơ Nam quốc sơn hà."
+    "explanation": "Đáp án đúng là B: Khẳng định ý chí độc lập qua kháng chiến chống Tống và bài thơ Nam quốc sơn hà.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_39",
@@ -11791,7 +13251,9 @@ const QUESTION_BANK = [
       "Vũ khí hiện đại vượt xa thế giới"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Đoàn kết toàn dân, đường lối đúng đắn và nghệ thuật quân sự linh hoạt."
+    "explanation": "Đáp án đúng là B: Đoàn kết toàn dân, đường lối đúng đắn và nghệ thuật quân sự linh hoạt.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_40",
@@ -11808,7 +13270,9 @@ const QUESTION_BANK = [
       "Việc thành lập Quốc Tử Giám"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Tinh thần đoàn kết và ý chí toàn dân chống xâm lược."
+    "explanation": "Đáp án đúng là A: Tinh thần đoàn kết và ý chí toàn dân chống xâm lược.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_41",
@@ -11825,7 +13289,9 @@ const QUESTION_BANK = [
       "Chăm lo, giảm bớt sức dân để làm kế sâu rễ bền gốc"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Chăm lo, giảm bớt sức dân để làm kế sâu rễ bền gốc."
+    "explanation": "Đáp án đúng là D: Chăm lo, giảm bớt sức dân để làm kế sâu rễ bền gốc.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_42",
@@ -11842,7 +13308,9 @@ const QUESTION_BANK = [
       "Quốc phòng và sản xuất nông nghiệp"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Quốc phòng và sản xuất nông nghiệp."
+    "explanation": "Đáp án đúng là D: Quốc phòng và sản xuất nông nghiệp.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_43",
@@ -11859,7 +13327,9 @@ const QUESTION_BANK = [
       "Phủ nhận quyền sở hữu tài sản"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Bảo vệ một số quyền lợi của phụ nữ và trật tự xã hội."
+    "explanation": "Đáp án đúng là A: Bảo vệ một số quyền lợi của phụ nữ và trật tự xã hội.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_44",
@@ -11876,7 +13346,9 @@ const QUESTION_BANK = [
       "Chỉ coi trọng ruộng đất"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Vai trò của nhân tài đối với sự hưng thịnh đất nước."
+    "explanation": "Đáp án đúng là C: Vai trò của nhân tài đối với sự hưng thịnh đất nước.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_45",
@@ -11893,7 +13365,9 @@ const QUESTION_BANK = [
       "Là bài thơ tình thời Trần"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Là áng văn chính luận khẳng định độc lập, chủ quyền và thắng lợi chống Minh."
+    "explanation": "Đáp án đúng là A: Là áng văn chính luận khẳng định độc lập, chủ quyền và thắng lợi chống Minh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_46",
@@ -11910,7 +13384,9 @@ const QUESTION_BANK = [
       "Chính quyền trung ương mất kiểm soát hoàn toàn"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Nhà nước phong kiến tập quyền phát triển tương đối hoàn chỉnh."
+    "explanation": "Đáp án đúng là B: Nhà nước phong kiến tập quyền phát triển tương đối hoàn chỉnh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_47",
@@ -11927,7 +13403,9 @@ const QUESTION_BANK = [
       "Không phát triển nông nghiệp"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Bảo thủ, chậm cải cách và đường lối đối ngoại thiếu phù hợp."
+    "explanation": "Đáp án đúng là B: Bảo thủ, chậm cải cách và đường lối đối ngoại thiếu phù hợp.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_48",
@@ -11944,7 +13422,9 @@ const QUESTION_BANK = [
       "Văn Lang thuộc cận đại; Lê sơ thuộc hiện đại"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Văn Lang là nhà nước sơ khai; Lê sơ là nhà nước phong kiến tập quyền phát triển cao hơn."
+    "explanation": "Đáp án đúng là A: Văn Lang là nhà nước sơ khai; Lê sơ là nhà nước phong kiến tập quyền phát triển cao hơn.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_49",
@@ -11961,7 +13441,9 @@ const QUESTION_BANK = [
       "Nông nghiệp lúa nước"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Văn Miếu - Quốc Tử Giám."
+    "explanation": "Đáp án đúng là A: Văn Miếu - Quốc Tử Giám.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_50",
@@ -11978,7 +13460,9 @@ const QUESTION_BANK = [
       "Hội nghị Diên Hồng"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Nỏ liên châu của Âu Lạc."
+    "explanation": "Đáp án đúng là A: Nỏ liên châu của Âu Lạc.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_51",
@@ -11995,7 +13479,9 @@ const QUESTION_BANK = [
       "Yêu nước, đoàn kết, hiếu học, trọng dân và bảo vệ độc lập"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Yêu nước, đoàn kết, hiếu học, trọng dân và bảo vệ độc lập."
+    "explanation": "Đáp án đúng là D: Yêu nước, đoàn kết, hiếu học, trọng dân và bảo vệ độc lập.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_52",
@@ -12012,7 +13498,9 @@ const QUESTION_BANK = [
       "Gắn với ý thức cảnh giác, bảo vệ đất nước và bài học lịch sử"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Gắn với ý thức cảnh giác, bảo vệ đất nước và bài học lịch sử."
+    "explanation": "Đáp án đúng là D: Gắn với ý thức cảnh giác, bảo vệ đất nước và bài học lịch sử.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_53",
@@ -12029,7 +13517,9 @@ const QUESTION_BANK = [
       "Cách mạng tháng Tám"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Dời đô về Thăng Long."
+    "explanation": "Đáp án đúng là A: Dời đô về Thăng Long.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_54",
@@ -12046,7 +13536,9 @@ const QUESTION_BANK = [
       "Dời đô về Thăng Long"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Chiến thắng Bạch Đằng của Ngô Quyền."
+    "explanation": "Đáp án đúng là A: Chiến thắng Bạch Đằng của Ngô Quyền.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_55",
@@ -12063,7 +13555,9 @@ const QUESTION_BANK = [
       "Kháng chiến chống Tống thời Lý"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Kháng chiến chống Tống thời Lý."
+    "explanation": "Đáp án đúng là D: Kháng chiến chống Tống thời Lý.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_56",
@@ -12080,7 +13574,9 @@ const QUESTION_BANK = [
       "An Dương Vương - Luật Hồng Đức"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Lý Công Uẩn - Chiếu dời đô/Thăng Long."
+    "explanation": "Đáp án đúng là B: Lý Công Uẩn - Chiếu dời đô/Thăng Long.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_57",
@@ -12097,7 +13593,9 @@ const QUESTION_BANK = [
       "Trần - ba lần đánh bại Nguyên - Mông"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Trần - ba lần đánh bại Nguyên - Mông."
+    "explanation": "Đáp án đúng là D: Trần - ba lần đánh bại Nguyên - Mông.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_58",
@@ -12114,7 +13612,9 @@ const QUESTION_BANK = [
       "Liên hệ ý nghĩa lịch sử với giáo dục lòng yêu nước cho học sinh tiểu học"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Liên hệ ý nghĩa lịch sử với giáo dục lòng yêu nước cho học sinh tiểu học."
+    "explanation": "Đáp án đúng là D: Liên hệ ý nghĩa lịch sử với giáo dục lòng yêu nước cho học sinh tiểu học.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_59",
@@ -12131,7 +13631,9 @@ const QUESTION_BANK = [
       "Chỉ coi trọng thành tích thi"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Tôn trọng, chăm lo, phát huy vai trò chủ thể của học sinh và cộng đồng."
+    "explanation": "Đáp án đúng là C: Tôn trọng, chăm lo, phát huy vai trò chủ thể của học sinh và cộng đồng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_60",
@@ -12148,7 +13650,9 @@ const QUESTION_BANK = [
       "Không có nhà nước trước thời Nguyễn"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Quá trình dựng nước, giữ nước và xây dựng văn hóa - giáo dục có tính liên tục."
+    "explanation": "Đáp án đúng là B: Quá trình dựng nước, giữ nước và xây dựng văn hóa - giáo dục có tính liên tục.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_61",
@@ -12165,7 +13669,9 @@ const QUESTION_BANK = [
       "Đảng Cộng sản Việt Nam ra đời, thống nhất lãnh đạo cách mạng"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Đảng Cộng sản Việt Nam ra đời, thống nhất lãnh đạo cách mạng."
+    "explanation": "Đáp án đúng là D: Đảng Cộng sản Việt Nam ra đời, thống nhất lãnh đạo cách mạng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_62",
@@ -12182,7 +13688,9 @@ const QUESTION_BANK = [
       "Đồng khởi Bến Tre"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Xô viết Nghệ - Tĩnh."
+    "explanation": "Đáp án đúng là B: Xô viết Nghệ - Tĩnh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_63",
@@ -12199,7 +13707,9 @@ const QUESTION_BANK = [
       "Đã ký Hiệp định Genève"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Rèn luyện lực lượng, phương pháp đấu tranh và năng lực lãnh đạo của Đảng."
+    "explanation": "Đáp án đúng là B: Rèn luyện lực lượng, phương pháp đấu tranh và năng lực lãnh đạo của Đảng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_64",
@@ -12216,7 +13726,9 @@ const QUESTION_BANK = [
       "Mỹ rút khỏi miền Nam"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Nhật Bản đầu hàng Đồng minh làm chính quyền tay sai hoang mang."
+    "explanation": "Đáp án đúng là C: Nhật Bản đầu hàng Đồng minh làm chính quyền tay sai hoang mang.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_65",
@@ -12233,7 +13745,9 @@ const QUESTION_BANK = [
       "Kết thúc kháng chiến chống Mỹ"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Lật đổ ách thực dân - phong kiến, đưa nhân dân trở thành người làm chủ đất nước."
+    "explanation": "Đáp án đúng là B: Lật đổ ách thực dân - phong kiến, đưa nhân dân trở thành người làm chủ đất nước.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_66",
@@ -12250,7 +13764,9 @@ const QUESTION_BANK = [
       "Đất nước đã ổn định hoàn toàn"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Chính quyền non trẻ đối mặt đồng thời giặc đói, giặc dốt, ngoại xâm và khó khăn tài chính."
+    "explanation": "Đáp án đúng là B: Chính quyền non trẻ đối mặt đồng thời giặc đói, giặc dốt, ngoại xâm và khó khăn tài chính.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_67",
@@ -12267,7 +13783,9 @@ const QUESTION_BANK = [
       "Tăng thuế lương thực"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Phát động Bình dân học vụ, mở lớp xóa nạn mù chữ."
+    "explanation": "Đáp án đúng là A: Phát động Bình dân học vụ, mở lớp xóa nạn mù chữ.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_68",
@@ -12284,7 +13802,9 @@ const QUESTION_BANK = [
       "Đánh bại quân Nguyên - Mông"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Làm phá sản kế hoạch quân sự của Pháp, góp phần kết thúc chiến tranh Đông Dương."
+    "explanation": "Đáp án đúng là C: Làm phá sản kế hoạch quân sự của Pháp, góp phần kết thúc chiến tranh Đông Dương.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_69",
@@ -12301,7 +13821,9 @@ const QUESTION_BANK = [
       "Thống nhất đất nước năm 1976"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Chấm dứt chiến tranh, lập lại hòa bình ở Đông Dương và tạm thời chia cắt Việt Nam."
+    "explanation": "Đáp án đúng là A: Chấm dứt chiến tranh, lập lại hòa bình ở Đông Dương và tạm thời chia cắt Việt Nam.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_70",
@@ -12318,7 +13840,9 @@ const QUESTION_BANK = [
       "Thành lập nước Việt Nam Dân chủ Cộng hòa"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Chuyển cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công."
+    "explanation": "Đáp án đúng là B: Chuyển cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_71",
@@ -12335,7 +13859,9 @@ const QUESTION_BANK = [
       "Làm lung lay ý chí xâm lược của Mỹ, tạo bước ngoặt chiến lược"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Làm lung lay ý chí xâm lược của Mỹ, tạo bước ngoặt chiến lược."
+    "explanation": "Đáp án đúng là D: Làm lung lay ý chí xâm lược của Mỹ, tạo bước ngoặt chiến lược.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_72",
@@ -12352,7 +13878,9 @@ const QUESTION_BANK = [
       "Kết thúc thời Bắc thuộc"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Mỹ cam kết rút quân, tạo điều kiện thuận lợi cho giải phóng miền Nam."
+    "explanation": "Đáp án đúng là A: Mỹ cam kết rút quân, tạo điều kiện thuận lợi cho giải phóng miền Nam.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_73",
@@ -12369,7 +13897,9 @@ const QUESTION_BANK = [
       "Giải phóng miền Nam, kết thúc thắng lợi cuộc kháng chiến chống Mỹ"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Giải phóng miền Nam, kết thúc thắng lợi cuộc kháng chiến chống Mỹ."
+    "explanation": "Đáp án đúng là D: Giải phóng miền Nam, kết thúc thắng lợi cuộc kháng chiến chống Mỹ.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_74",
@@ -12386,7 +13916,9 @@ const QUESTION_BANK = [
       "Sự lãnh đạo đúng đắn của Đảng, sức mạnh đoàn kết toàn dân và đường lối phù hợp"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Sự lãnh đạo đúng đắn của Đảng, sức mạnh đoàn kết toàn dân và đường lối phù hợp."
+    "explanation": "Đáp án đúng là D: Sự lãnh đạo đúng đắn của Đảng, sức mạnh đoàn kết toàn dân và đường lối phù hợp.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_75",
@@ -12403,7 +13935,9 @@ const QUESTION_BANK = [
       "Dựng bia Tiến sĩ"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Cách mạng tháng Tám 1945."
+    "explanation": "Đáp án đúng là A: Cách mạng tháng Tám 1945.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_76",
@@ -12420,7 +13954,9 @@ const QUESTION_BANK = [
       "Khát vọng độc lập, quyền làm chủ và trách nhiệm giữ gìn thành quả"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Khát vọng độc lập, quyền làm chủ và trách nhiệm giữ gìn thành quả."
+    "explanation": "Đáp án đúng là D: Khát vọng độc lập, quyền làm chủ và trách nhiệm giữ gìn thành quả.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_77",
@@ -12437,7 +13973,9 @@ const QUESTION_BANK = [
       "Hiệp định Paris - 1945"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Thành lập Đảng - 3/2/1930."
+    "explanation": "Đáp án đúng là B: Thành lập Đảng - 3/2/1930.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_78",
@@ -12454,7 +13992,9 @@ const QUESTION_BANK = [
       "Điện Biên Phủ 1954"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Điện Biên Phủ 1954."
+    "explanation": "Đáp án đúng là D: Điện Biên Phủ 1954.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_79",
@@ -12471,7 +14011,9 @@ const QUESTION_BANK = [
       "Hiệp định Genève 1954"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Hiệp định Paris 1973."
+    "explanation": "Đáp án đúng là A: Hiệp định Paris 1973.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_80",
@@ -12488,7 +14030,9 @@ const QUESTION_BANK = [
       "Nền công nghiệp hiện đại phát triển vượt bậc"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Nền công nghiệp hiện đại phát triển vượt bậc."
+    "explanation": "Đáp án đúng là D: Nền công nghiệp hiện đại phát triển vượt bậc.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_81",
@@ -12505,7 +14049,9 @@ const QUESTION_BANK = [
       "Nhân dân có quyền làm chủ, xây dựng và bảo vệ đất nước"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Nhân dân có quyền làm chủ, xây dựng và bảo vệ đất nước."
+    "explanation": "Đáp án đúng là D: Nhân dân có quyền làm chủ, xây dựng và bảo vệ đất nước.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_82",
@@ -12522,7 +14068,9 @@ const QUESTION_BANK = [
       "Phân tích mối quan hệ giữa lãnh đạo, thời cơ, lực lượng và kết quả"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Phân tích mối quan hệ giữa lãnh đạo, thời cơ, lực lượng và kết quả."
+    "explanation": "Đáp án đúng là D: Phân tích mối quan hệ giữa lãnh đạo, thời cơ, lực lượng và kết quả.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_83",
@@ -12539,7 +14087,9 @@ const QUESTION_BANK = [
       "Chỉ ở thời Văn Lang"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Cả kháng chiến chống Pháp, chống Mỹ và xây dựng chính quyền sau 1945."
+    "explanation": "Đáp án đúng là B: Cả kháng chiến chống Pháp, chống Mỹ và xây dựng chính quyền sau 1945.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_84",
@@ -12556,7 +14106,9 @@ const QUESTION_BANK = [
       "Chỉ hưởng thụ cá nhân"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Học tập, rèn luyện, bảo vệ nền độc lập và xây dựng đất nước."
+    "explanation": "Đáp án đúng là A: Học tập, rèn luyện, bảo vệ nền độc lập và xây dựng đất nước.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_85",
@@ -12573,7 +14125,9 @@ const QUESTION_BANK = [
       "Quốc khánh là kết quả của Hiệp định Paris"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Cách mạng giành chính quyền tạo cơ sở để tuyên bố độc lập, lập nước Việt Nam Dân chủ Cộng hòa."
+    "explanation": "Đáp án đúng là C: Cách mạng giành chính quyền tạo cơ sở để tuyên bố độc lập, lập nước Việt Nam Dân chủ Cộng hòa.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_86",
@@ -12590,7 +14144,9 @@ const QUESTION_BANK = [
       "1954 chấm dứt thời Bắc thuộc"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: 1954 kết thúc kháng chiến chống Pháp; 1975 kết thúc kháng chiến chống Mỹ và thống nhất đất nước về mặt lãnh thổ."
+    "explanation": "Đáp án đúng là C: 1954 kết thúc kháng chiến chống Pháp; 1975 kết thúc kháng chiến chống Mỹ và thống nhất đất nước về mặt lãnh thổ.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_87",
@@ -12607,7 +14163,9 @@ const QUESTION_BANK = [
       "Liên hệ trách nhiệm công dân"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Biến lịch sử thành học vẹt tách khỏi ý nghĩa giáo dục."
+    "explanation": "Đáp án đúng là B: Biến lịch sử thành học vẹt tách khỏi ý nghĩa giáo dục.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_88",
@@ -12624,7 +14182,9 @@ const QUESTION_BANK = [
       "Trốn tránh nhiệm vụ"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Xung kích, trách nhiệm, sẵn sàng cống hiến."
+    "explanation": "Đáp án đúng là A: Xung kích, trách nhiệm, sẵn sàng cống hiến.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "his_adv1_89",
@@ -12641,7 +14201,9 @@ const QUESTION_BANK = [
       "Giai đoạn không có chiến tranh"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Quá trình đấu tranh giành, giữ độc lập và thống nhất đất nước dưới sự lãnh đạo của Đảng."
+    "explanation": "Đáp án đúng là B: Quá trình đấu tranh giành, giữ độc lập và thống nhất đất nước dưới sự lãnh đạo của Đảng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_1",
@@ -12658,7 +14220,9 @@ const QUESTION_BANK = [
       "Mọi vật đều tự phát sáng"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Ánh sáng truyền thẳng và vật cản sáng tạo vùng bóng tối."
+    "explanation": "Đáp án đúng là C: Ánh sáng truyền thẳng và vật cản sáng tạo vùng bóng tối.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_2",
@@ -12675,7 +14239,9 @@ const QUESTION_BANK = [
       "Mặt Trăng"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Mặt Trời."
+    "explanation": "Đáp án đúng là A: Mặt Trời.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_3",
@@ -12692,7 +14258,9 @@ const QUESTION_BANK = [
       "Chuyển hóa âm năng thành quang năng"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Phản xạ ánh sáng Mặt Trời."
+    "explanation": "Đáp án đúng là B: Phản xạ ánh sáng Mặt Trời.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_4",
@@ -12709,7 +14277,9 @@ const QUESTION_BANK = [
       "Chất khí"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Chân không."
+    "explanation": "Đáp án đúng là B: Chân không.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_5",
@@ -12726,7 +14296,9 @@ const QUESTION_BANK = [
       "Ánh sáng bị hấp thụ"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Môi trường truyền âm giảm, âm khó truyền tới tai."
+    "explanation": "Đáp án đúng là B: Môi trường truyền âm giảm, âm khó truyền tới tai.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_6",
@@ -12743,7 +14315,9 @@ const QUESTION_BANK = [
       "Luôn không có bóng đèn"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Có đường dẫn liên tục cho dòng điện chạy qua."
+    "explanation": "Đáp án đúng là B: Có đường dẫn liên tục cho dòng điện chạy qua.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_7",
@@ -12760,7 +14334,9 @@ const QUESTION_BANK = [
       "Thế năng chuyển thành ánh sáng trực tiếp"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Hóa năng chuyển thành điện năng."
+    "explanation": "Đáp án đúng là C: Hóa năng chuyển thành điện năng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_8",
@@ -12777,7 +14353,9 @@ const QUESTION_BANK = [
       "Điện năng thành quang năng và một phần nhiệt năng"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Điện năng thành quang năng và một phần nhiệt năng."
+    "explanation": "Đáp án đúng là D: Điện năng thành quang năng và một phần nhiệt năng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_9",
@@ -12794,7 +14372,9 @@ const QUESTION_BANK = [
       "Thế năng đàn hồi"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Cơ năng của cánh quạt và một phần nhiệt/âm."
+    "explanation": "Đáp án đúng là B: Cơ năng của cánh quạt và một phần nhiệt/âm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_10",
@@ -12811,7 +14391,9 @@ const QUESTION_BANK = [
       "Điện năng thành nhiệt năng"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Điện năng thành nhiệt năng."
+    "explanation": "Đáp án đúng là D: Điện năng thành nhiệt năng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_11",
@@ -12828,7 +14410,9 @@ const QUESTION_BANK = [
       "Than đá"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Năng lượng mặt trời."
+    "explanation": "Đáp án đúng là B: Năng lượng mặt trời.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_12",
@@ -12845,7 +14429,9 @@ const QUESTION_BANK = [
       "Nước chảy từ cao xuống làm quay tua-bin"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Nước chảy từ cao xuống làm quay tua-bin."
+    "explanation": "Đáp án đúng là D: Nước chảy từ cao xuống làm quay tua-bin.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_13",
@@ -12862,7 +14448,9 @@ const QUESTION_BANK = [
       "Ánh sáng truyền thẳng"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Động năng của không khí chuyển động."
+    "explanation": "Đáp án đúng là A: Động năng của không khí chuyển động.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_14",
@@ -12879,7 +14467,9 @@ const QUESTION_BANK = [
       "Tạo nước ngọt từ muối"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Biến đổi năng lượng ánh sáng thành điện năng."
+    "explanation": "Đáp án đúng là A: Biến đổi năng lượng ánh sáng thành điện năng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_15",
@@ -12896,7 +14486,9 @@ const QUESTION_BANK = [
       "Sự quang hợp"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Lực đẩy phản lực khi không khí phụt ra."
+    "explanation": "Đáp án đúng là C: Lực đẩy phản lực khi không khí phụt ra.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_16",
@@ -12913,7 +14505,9 @@ const QUESTION_BANK = [
       "Phân loại nấm"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Mạch điện đơn giản và chuyển hóa điện năng thành ánh sáng."
+    "explanation": "Đáp án đúng là A: Mạch điện đơn giản và chuyển hóa điện năng thành ánh sáng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_17",
@@ -12930,7 +14524,9 @@ const QUESTION_BANK = [
       "Dùng nhiều bóng sợi đốt hơn đèn LED"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Tắt quạt, đèn khi không sử dụng và tận dụng ánh sáng tự nhiên."
+    "explanation": "Đáp án đúng là A: Tắt quạt, đèn khi không sử dụng và tận dụng ánh sáng tự nhiên.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_18",
@@ -12947,7 +14543,9 @@ const QUESTION_BANK = [
       "Biến ánh sáng thành điện"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Tạo ánh sáng hiệu quả hơn, ít thất thoát thành nhiệt hơn."
+    "explanation": "Đáp án đúng là C: Tạo ánh sáng hiệu quả hơn, ít thất thoát thành nhiệt hơn.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_19",
@@ -12964,7 +14562,9 @@ const QUESTION_BANK = [
       "Nước chảy"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Than đá."
+    "explanation": "Đáp án đúng là B: Than đá.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_20",
@@ -12981,7 +14581,9 @@ const QUESTION_BANK = [
       "Tạo nhiều khói bụi hơn"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Giảm ô nhiễm và giảm phụ thuộc vào nhiên liệu hóa thạch."
+    "explanation": "Đáp án đúng là B: Giảm ô nhiễm và giảm phụ thuộc vào nhiên liệu hóa thạch.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_21",
@@ -12998,7 +14600,9 @@ const QUESTION_BANK = [
       "Năng lượng không mất đi mà chuyển hóa sang dạng khác"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Năng lượng không mất đi mà chuyển hóa sang dạng khác."
+    "explanation": "Đáp án đúng là D: Năng lượng không mất đi mà chuyển hóa sang dạng khác.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_22",
@@ -13015,7 +14619,9 @@ const QUESTION_BANK = [
       "Nhiệm vụ thiết kế, chế tạo, thử nghiệm và cải tiến mô hình"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Nhiệm vụ thiết kế, chế tạo, thử nghiệm và cải tiến mô hình."
+    "explanation": "Đáp án đúng là D: Nhiệm vụ thiết kế, chế tạo, thử nghiệm và cải tiến mô hình.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_23",
@@ -13032,7 +14638,9 @@ const QUESTION_BANK = [
       "Dùng thuật ngữ quá hàn lâm"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Thông điệp rõ, hành vi cụ thể, phù hợp lứa tuổi và có cơ sở khoa học."
+    "explanation": "Đáp án đúng là C: Thông điệp rõ, hành vi cụ thể, phù hợp lứa tuổi và có cơ sở khoa học.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_24",
@@ -13049,7 +14657,9 @@ const QUESTION_BANK = [
       "Đèn LED"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Loa."
+    "explanation": "Đáp án đúng là C: Loa.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_25",
@@ -13066,7 +14676,9 @@ const QUESTION_BANK = [
       "Quang năng, âm năng và nhiệt năng"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Quang năng, âm năng và nhiệt năng."
+    "explanation": "Đáp án đúng là D: Quang năng, âm năng và nhiệt năng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_26",
@@ -13083,7 +14695,9 @@ const QUESTION_BANK = [
       "Dùng dây chun để minh họa dao động"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Nói âm truyền được trong chân không như ánh sáng."
+    "explanation": "Đáp án đúng là A: Nói âm truyền được trong chân không như ánh sáng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_27",
@@ -13100,7 +14714,9 @@ const QUESTION_BANK = [
       "Không cần liên hệ thực nghiệm"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Phân tích hiện tượng, xác định chuyển hóa năng lượng và đề xuất cách dạy an toàn."
+    "explanation": "Đáp án đúng là C: Phân tích hiện tượng, xác định chuyển hóa năng lượng và đề xuất cách dạy an toàn.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "physics_adv1_28",
@@ -13117,7 +14733,9 @@ const QUESTION_BANK = [
       "Cho học sinh cắm điện lưới tự do"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Dùng nguồn điện thấp, kiểm tra dây dẫn và không dùng điện lưới trực tiếp."
+    "explanation": "Đáp án đúng là B: Dùng nguồn điện thấp, kiểm tra dây dẫn và không dùng điện lưới trực tiếp.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_1",
@@ -13134,7 +14752,9 @@ const QUESTION_BANK = [
       "Ánh sáng Mặt Trời chiếu xuống sông"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Chất thải sinh hoạt, công nghiệp, nông nghiệp chưa xử lí."
+    "explanation": "Đáp án đúng là B: Chất thải sinh hoạt, công nghiệp, nông nghiệp chưa xử lí.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_2",
@@ -13151,7 +14771,9 @@ const QUESTION_BANK = [
       "Dung môi hòa tan, vận chuyển chất dinh dưỡng và đào thải chất cặn bã"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Dung môi hòa tan, vận chuyển chất dinh dưỡng và đào thải chất cặn bã."
+    "explanation": "Đáp án đúng là D: Dung môi hòa tan, vận chuyển chất dinh dưỡng và đào thải chất cặn bã.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_3",
@@ -13168,7 +14790,9 @@ const QUESTION_BANK = [
       "Khoảng 50% hydrogen, 50% oxygen"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Khoảng 78% nitrogen, 21% oxygen và một lượng nhỏ khí khác."
+    "explanation": "Đáp án đúng là C: Khoảng 78% nitrogen, 21% oxygen và một lượng nhỏ khí khác.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_4",
@@ -13185,7 +14809,9 @@ const QUESTION_BANK = [
       "Khí có mùi thơm, tan nhiều trong nước"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Khí không màu, không mùi, không vị, ít tan trong nước."
+    "explanation": "Đáp án đúng là B: Khí không màu, không mùi, không vị, ít tan trong nước.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_5",
@@ -13202,7 +14828,9 @@ const QUESTION_BANK = [
       "Dùng nitrogen lỏng bảo quản mẫu"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Dùng trong đèn xì oxygen - acetylene để hàn cắt kim loại."
+    "explanation": "Đáp án đúng là A: Dùng trong đèn xì oxygen - acetylene để hàn cắt kim loại.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_6",
@@ -13219,7 +14847,9 @@ const QUESTION_BANK = [
       "Nến tắt vì nước trong không khí đóng băng"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Sự cháy cần oxygen; khi oxygen trong cốc giảm, nến tắt."
+    "explanation": "Đáp án đúng là A: Sự cháy cần oxygen; khi oxygen trong cốc giảm, nến tắt.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_7",
@@ -13236,7 +14866,9 @@ const QUESTION_BANK = [
       "Hydrogen rất dễ cháy nổ khi gặp nguồn nhiệt/tia lửa"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Hydrogen rất dễ cháy nổ khi gặp nguồn nhiệt/tia lửa."
+    "explanation": "Đáp án đúng là D: Hydrogen rất dễ cháy nổ khi gặp nguồn nhiệt/tia lửa.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_8",
@@ -13253,7 +14885,9 @@ const QUESTION_BANK = [
       "Nitrogen nhẹ hơn helium"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Liên kết trong phân tử N2 bền, khó phản ứng nếu không có điều kiện thích hợp."
+    "explanation": "Đáp án đúng là A: Liên kết trong phân tử N2 bền, khó phản ứng nếu không có điều kiện thích hợp.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_9",
@@ -13270,7 +14904,9 @@ const QUESTION_BANK = [
       "Bảo quản mẫu sinh học, tế bào, bệnh phẩm"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Bảo quản mẫu sinh học, tế bào, bệnh phẩm."
+    "explanation": "Đáp án đúng là D: Bảo quản mẫu sinh học, tế bào, bệnh phẩm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_10",
@@ -13287,7 +14923,9 @@ const QUESTION_BANK = [
       "Làm cây không thể hấp thụ nước"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Ô nhiễm đất, nước ngầm do dư lượng nitrate."
+    "explanation": "Đáp án đúng là A: Ô nhiễm đất, nước ngầm do dư lượng nitrate.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_11",
@@ -13304,7 +14942,9 @@ const QUESTION_BANK = [
       "Dung dịch tự phát sáng"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Dung dịch vẩn đục do tạo kết tủa trắng CaCO3."
+    "explanation": "Đáp án đúng là C: Dung dịch vẩn đục do tạo kết tủa trắng CaCO3.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_12",
@@ -13321,7 +14961,9 @@ const QUESTION_BANK = [
       "Argon"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Carbon dioxide."
+    "explanation": "Đáp án đúng là A: Carbon dioxide.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_13",
@@ -13338,7 +14980,9 @@ const QUESTION_BANK = [
       "Biến thành ozone ngay lập tức"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Nặng hơn không khí, có thể tích tụ ở đáy hang gây ngạt."
+    "explanation": "Đáp án đúng là A: Nặng hơn không khí, có thể tích tụ ở đáy hang gây ngạt.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_14",
@@ -13355,7 +14999,9 @@ const QUESTION_BANK = [
       "Ánh sáng làm sắt tan chảy"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Quá trình oxi hóa sắt có sự tham gia của oxygen và nước."
+    "explanation": "Đáp án đúng là A: Quá trình oxi hóa sắt có sự tham gia của oxygen và nước.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_15",
@@ -13372,7 +15018,9 @@ const QUESTION_BANK = [
       "Chất rắn đen chuyển dần thành đỏ nâu của đồng"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Chất rắn đen chuyển dần thành đỏ nâu của đồng."
+    "explanation": "Đáp án đúng là D: Chất rắn đen chuyển dần thành đỏ nâu của đồng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_16",
@@ -13389,7 +15037,9 @@ const QUESTION_BANK = [
       "Sắt (Fe)"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Bạc (Ag)."
+    "explanation": "Đáp án đúng là C: Bạc (Ag).",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_17",
@@ -13406,7 +15056,9 @@ const QUESTION_BANK = [
       "Đổ rác xuống dòng chảy"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Xử lí nước thải trước khi xả ra sông, suối."
+    "explanation": "Đáp án đúng là B: Xử lí nước thải trước khi xả ra sông, suối.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_18",
@@ -13423,7 +15075,9 @@ const QUESTION_BANK = [
       "Oxygen cần cho hô hấp"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Oxygen dùng để dập tắt mọi đám cháy vì không duy trì sự cháy."
+    "explanation": "Đáp án đúng là C: Oxygen dùng để dập tắt mọi đám cháy vì không duy trì sự cháy.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_19",
@@ -13440,7 +15094,9 @@ const QUESTION_BANK = [
       "Nước"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Nước."
+    "explanation": "Đáp án đúng là D: Nước.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_20",
@@ -13457,7 +15113,9 @@ const QUESTION_BANK = [
       "Chỉ yêu cầu nhớ công thức"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Liên hệ tính chất với ứng dụng, an toàn và môi trường."
+    "explanation": "Đáp án đúng là B: Liên hệ tính chất với ứng dụng, an toàn và môi trường.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_21",
@@ -13474,7 +15132,9 @@ const QUESTION_BANK = [
       "Có thể dùng CO2 trong bình chữa cháy một số loại đám cháy"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Có thể dùng CO2 trong bình chữa cháy một số loại đám cháy."
+    "explanation": "Đáp án đúng là D: Có thể dùng CO2 trong bình chữa cháy một số loại đám cháy.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_22",
@@ -13491,7 +15151,9 @@ const QUESTION_BANK = [
       "Rừng làm CO2 nặng hơn"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Cây xanh hấp thụ CO2 trong quang hợp."
+    "explanation": "Đáp án đúng là A: Cây xanh hấp thụ CO2 trong quang hợp.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_23",
@@ -13508,7 +15170,9 @@ const QUESTION_BANK = [
       "Nói có nitrogen chiếm phần lớn"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Nói không khí là một chất tinh khiết chỉ gồm oxygen."
+    "explanation": "Đáp án đúng là C: Nói không khí là một chất tinh khiết chỉ gồm oxygen.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_24",
@@ -13525,7 +15189,9 @@ const QUESTION_BANK = [
       "Chỉ hỏi nước có màu gì"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Phân tích nguyên nhân ô nhiễm, hậu quả sức khỏe và biện pháp xử lí."
+    "explanation": "Đáp án đúng là C: Phân tích nguyên nhân ô nhiễm, hậu quả sức khỏe và biện pháp xử lí.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_25",
@@ -13542,7 +15208,9 @@ const QUESTION_BANK = [
       "Oxygen không phải nhiên liệu; nó hỗ trợ chất khác cháy"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Oxygen không phải nhiên liệu; nó hỗ trợ chất khác cháy."
+    "explanation": "Đáp án đúng là D: Oxygen không phải nhiên liệu; nó hỗ trợ chất khác cháy.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_26",
@@ -13559,7 +15227,9 @@ const QUESTION_BANK = [
       "N2 lỏng - bảo quản lạnh sâu"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: N2 lỏng - bảo quản lạnh sâu."
+    "explanation": "Đáp án đúng là D: N2 lỏng - bảo quản lạnh sâu.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_27",
@@ -13576,7 +15246,9 @@ const QUESTION_BANK = [
       "Cho học sinh tự úp cốc quanh vật dễ cháy"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Dùng lượng nhỏ, giáo viên thao tác chính, học sinh quan sát có khoảng cách."
+    "explanation": "Đáp án đúng là C: Dùng lượng nhỏ, giáo viên thao tác chính, học sinh quan sát có khoảng cách.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_28",
@@ -13593,7 +15265,9 @@ const QUESTION_BANK = [
       "Không tạo bất kỳ chất thải nào"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Phát thải CO2, bụi, khí ô nhiễm và biến đổi khí hậu."
+    "explanation": "Đáp án đúng là C: Phát thải CO2, bụi, khí ô nhiễm và biến đổi khí hậu.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_29",
@@ -13610,7 +15284,9 @@ const QUESTION_BANK = [
       "CO2 có phải kim loại không?"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Vì sao CO2 có thể tích tụ ở đáy hang và gây nguy hiểm dù không nhìn thấy?."
+    "explanation": "Đáp án đúng là A: Vì sao CO2 có thể tích tụ ở đáy hang và gây nguy hiểm dù không nhìn thấy?.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "chem_adv1_30",
@@ -13627,7 +15303,9 @@ const QUESTION_BANK = [
       "Không liên hệ đời sống"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Hiểu tính chất chất/khí để giải thích hiện tượng, ứng dụng an toàn và bảo vệ môi trường."
+    "explanation": "Đáp án đúng là A: Hiểu tính chất chất/khí để giải thích hiện tượng, ứng dụng an toàn và bảo vệ môi trường.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_1",
@@ -13644,7 +15322,9 @@ const QUESTION_BANK = [
       "Phân giải chất hữu cơ thành chất vô cơ, góp phần tuần hoàn vật chất"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Phân giải chất hữu cơ thành chất vô cơ, góp phần tuần hoàn vật chất."
+    "explanation": "Đáp án đúng là D: Phân giải chất hữu cơ thành chất vô cơ, góp phần tuần hoàn vật chất.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_2",
@@ -13661,7 +15341,9 @@ const QUESTION_BANK = [
       "Khuyến cáo an toàn thực phẩm"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Màu sắc sặc sỡ hay vòng cuống vì không phải dấu hiệu luôn đúng."
+    "explanation": "Đáp án đúng là C: Màu sắc sặc sỡ hay vòng cuống vì không phải dấu hiệu luôn đúng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_3",
@@ -13678,7 +15360,9 @@ const QUESTION_BANK = [
       "Quả"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Thân/mạch gỗ trong cây."
+    "explanation": "Đáp án đúng là C: Thân/mạch gỗ trong cây.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_4",
@@ -13695,7 +15379,9 @@ const QUESTION_BANK = [
       "Hoa trong đất"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Lá cây xanh khi có ánh sáng."
+    "explanation": "Đáp án đúng là A: Lá cây xanh khi có ánh sáng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_5",
@@ -13712,7 +15398,9 @@ const QUESTION_BANK = [
       "Nitrogen lỏng"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Chất đường/tinh bột."
+    "explanation": "Đáp án đúng là C: Chất đường/tinh bột.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_6",
@@ -13729,7 +15417,9 @@ const QUESTION_BANK = [
       "Chỉ cần đất khô"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Ánh sáng, nước, carbon dioxide và diệp lục."
+    "explanation": "Đáp án đúng là C: Ánh sáng, nước, carbon dioxide và diệp lục.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_7",
@@ -13746,7 +15436,9 @@ const QUESTION_BANK = [
       "Bò sát"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Thú."
+    "explanation": "Đáp án đúng là B: Thú.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_8",
@@ -13763,7 +15455,9 @@ const QUESTION_BANK = [
       "Da trần luôn ẩm"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Có lông vũ, đẻ trứng, phần lớn thích nghi với bay."
+    "explanation": "Đáp án đúng là C: Có lông vũ, đẻ trứng, phần lớn thích nghi với bay.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_9",
@@ -13780,7 +15474,9 @@ const QUESTION_BANK = [
       "Sống được ở nước và cạn, da ẩm, biến thái ở nhiều loài"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Sống được ở nước và cạn, da ẩm, biến thái ở nhiều loài."
+    "explanation": "Đáp án đúng là D: Sống được ở nước và cạn, da ẩm, biến thái ở nhiều loài.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_10",
@@ -13797,7 +15493,9 @@ const QUESTION_BANK = [
       "Bốn chân và lông vũ"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Cơ thể chia ba phần, sáu chân."
+    "explanation": "Đáp án đúng là B: Cơ thể chia ba phần, sáu chân.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_11",
@@ -13814,7 +15512,9 @@ const QUESTION_BANK = [
       "Kí sinh bắt buộc"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Sinh vật sản xuất."
+    "explanation": "Đáp án đúng là A: Sinh vật sản xuất.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_12",
@@ -13831,7 +15531,9 @@ const QUESTION_BANK = [
       "Mọi động vật chuyển sang quang hợp"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Xác sinh vật và chất hữu cơ khó được phân hủy, vòng tuần hoàn vật chất bị ảnh hưởng."
+    "explanation": "Đáp án đúng là B: Xác sinh vật và chất hữu cơ khó được phân hủy, vòng tuần hoàn vật chất bị ảnh hưởng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_13",
@@ -13848,7 +15550,9 @@ const QUESTION_BANK = [
       "Chỉ gây hại cho con người"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Tham gia chuỗi thức ăn, phát tán hạt/phấn hoa ở một số loài và cân bằng sinh thái."
+    "explanation": "Đáp án đúng là A: Tham gia chuỗi thức ăn, phát tán hạt/phấn hoa ở một số loài và cân bằng sinh thái.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_14",
@@ -13865,7 +15569,9 @@ const QUESTION_BANK = [
       "Cá tạo ra ánh sáng Mặt Trời"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Ong lấy mật đồng thời hỗ trợ thụ phấn cho hoa."
+    "explanation": "Đáp án đúng là A: Ong lấy mật đồng thời hỗ trợ thụ phấn cho hoa.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_15",
@@ -13882,7 +15588,9 @@ const QUESTION_BANK = [
       "Xương"
     ],
     "answer": 2,
-    "explanation": "Đáp án đúng là C: Phổi."
+    "explanation": "Đáp án đúng là C: Phổi.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_16",
@@ -13899,7 +15607,9 @@ const QUESTION_BANK = [
       "Trao đổi khí với môi trường"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Biến đổi thức ăn thành chất dinh dưỡng cơ thể hấp thụ được."
+    "explanation": "Đáp án đúng là B: Biến đổi thức ăn thành chất dinh dưỡng cơ thể hấp thụ được.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_17",
@@ -13916,7 +15626,9 @@ const QUESTION_BANK = [
       "Vận chuyển oxygen, chất dinh dưỡng, chất thải và tham gia bảo vệ cơ thể"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Vận chuyển oxygen, chất dinh dưỡng, chất thải và tham gia bảo vệ cơ thể."
+    "explanation": "Đáp án đúng là D: Vận chuyển oxygen, chất dinh dưỡng, chất thải và tham gia bảo vệ cơ thể.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_18",
@@ -13933,7 +15645,9 @@ const QUESTION_BANK = [
       "Lọc không khí trong phổi"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Nâng đỡ, bảo vệ và vận động cơ thể."
+    "explanation": "Đáp án đúng là B: Nâng đỡ, bảo vệ và vận động cơ thể.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_19",
@@ -13950,7 +15664,9 @@ const QUESTION_BANK = [
       "Không hút thuốc, tránh khói bụi, vận động phù hợp và giữ vệ sinh môi trường"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Không hút thuốc, tránh khói bụi, vận động phù hợp và giữ vệ sinh môi trường."
+    "explanation": "Đáp án đúng là D: Không hút thuốc, tránh khói bụi, vận động phù hợp và giữ vệ sinh môi trường.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_20",
@@ -13967,7 +15683,9 @@ const QUESTION_BANK = [
       "Giảm mầm bệnh lây qua tiếp xúc, trước ăn và sau vệ sinh"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Giảm mầm bệnh lây qua tiếp xúc, trước ăn và sau vệ sinh."
+    "explanation": "Đáp án đúng là D: Giảm mầm bệnh lây qua tiếp xúc, trước ăn và sau vệ sinh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_21",
@@ -13984,7 +15702,9 @@ const QUESTION_BANK = [
       "Chỉ ăn một loại thực phẩm yêu thích"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Đa dạng nhóm chất, đủ năng lượng, vệ sinh và phù hợp lứa tuổi."
+    "explanation": "Đáp án đúng là B: Đa dạng nhóm chất, đủ năng lượng, vệ sinh và phù hợp lứa tuổi.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_22",
@@ -14001,7 +15721,9 @@ const QUESTION_BANK = [
       "Quan sát tranh/vật thật, thí nghiệm đơn giản, tình huống sức khỏe và hoạt động trải nghiệm"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Quan sát tranh/vật thật, thí nghiệm đơn giản, tình huống sức khỏe và hoạt động trải nghiệm."
+    "explanation": "Đáp án đúng là D: Quan sát tranh/vật thật, thí nghiệm đơn giản, tình huống sức khỏe và hoạt động trải nghiệm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_23",
@@ -14018,7 +15740,9 @@ const QUESTION_BANK = [
       "Vì sao nấm vừa có lợi cho phân giải vừa có thể gây nguy cơ ngộ độc nếu nhận diện sai?"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Vì sao nấm vừa có lợi cho phân giải vừa có thể gây nguy cơ ngộ độc nếu nhận diện sai?."
+    "explanation": "Đáp án đúng là D: Vì sao nấm vừa có lợi cho phân giải vừa có thể gây nguy cơ ngộ độc nếu nhận diện sai?.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_24",
@@ -14035,7 +15759,9 @@ const QUESTION_BANK = [
       "Không cần rửa tay"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Rửa sạch, ép nhẹ bằng gạc sạch, theo dõi và báo người lớn/nhân viên y tế."
+    "explanation": "Đáp án đúng là B: Rửa sạch, ép nhẹ bằng gạc sạch, theo dõi và báo người lớn/nhân viên y tế.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_25",
@@ -14052,7 +15778,9 @@ const QUESTION_BANK = [
       "Cây không cần ánh sáng"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Cây hấp thụ CO2, quang hợp tạo O2 nhưng không thay thế mọi biện pháp chống ô nhiễm."
+    "explanation": "Đáp án đúng là B: Cây hấp thụ CO2, quang hợp tạo O2 nhưng không thay thế mọi biện pháp chống ô nhiễm.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_26",
@@ -14069,7 +15797,9 @@ const QUESTION_BANK = [
       "Rễ - hút nước và muối khoáng"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Rễ - hút nước và muối khoáng."
+    "explanation": "Đáp án đúng là D: Rễ - hút nước và muối khoáng.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_27",
@@ -14086,7 +15816,9 @@ const QUESTION_BANK = [
       "Cá - có lông vũ"
     ],
     "answer": 1,
-    "explanation": "Đáp án đúng là B: Thú - đẻ con, nuôi con bằng sữa."
+    "explanation": "Đáp án đúng là B: Thú - đẻ con, nuôi con bằng sữa.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_28",
@@ -14103,7 +15835,9 @@ const QUESTION_BANK = [
       "Nấm có vai trò phân giải"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Mọi loại nấm màu trắng đều ăn được an toàn."
+    "explanation": "Đáp án đúng là A: Mọi loại nấm màu trắng đều ăn được an toàn.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_29",
@@ -14120,7 +15854,9 @@ const QUESTION_BANK = [
       "Sức khỏe con người phụ thuộc vào nước sạch, không khí sạch, thực phẩm an toàn và hành vi vệ sinh"
     ],
     "answer": 3,
-    "explanation": "Đáp án đúng là D: Sức khỏe con người phụ thuộc vào nước sạch, không khí sạch, thực phẩm an toàn và hành vi vệ sinh."
+    "explanation": "Đáp án đúng là D: Sức khỏe con người phụ thuộc vào nước sạch, không khí sạch, thực phẩm an toàn và hành vi vệ sinh.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
     "id": "bio_adv1_30",
@@ -14137,7 +15873,9 @@ const QUESTION_BANK = [
       "Tách rời hoàn toàn với giáo dục sức khỏe"
     ],
     "answer": 0,
-    "explanation": "Đáp án đúng là A: Giúp sinh viên hiểu sinh vật, cơ thể người và sức khỏe để tổ chức dạy học trực quan, an toàn, gắn đời sống."
+    "explanation": "Đáp án đúng là A: Giúp sinh viên hiểu sinh vật, cơ thể người và sức khỏe để tổ chức dạy học trực quan, an toàn, gắn đời sống.",
+    "practiceGroup": "cstn_application",
+    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   }
 ];
 
@@ -14147,14 +15885,43 @@ const SUBJECT_GROUPS = [
     "name": "CƠ SỞ TN&XH",
     "icon": "📚",
     "color": "#2563eb",
-    "desc": "LÝ - HÓA - SINH - SỬ - ĐỊA",
+    "desc": "Đề gốc: LÝ - HÓA - SINH - SỬ - ĐỊA",
     "subjects": [
       "physics",
       "chem",
       "bio",
       "his",
       "geo"
-    ]
+    ],
+    "practiceGroup": "cstnxh"
+  },
+  {
+    "id": "cstnxh_advanced",
+    "name": "CƠ SỞ TN&XH NÂNG CAO",
+    "icon": "📘",
+    "color": "#7c3aed",
+    "desc": "Câu bổ sung: VẬT LÝ - LỊCH SỬ - ĐỊA LÍ",
+    "subjects": [
+      "physics",
+      "his",
+      "geo"
+    ],
+    "practiceGroup": "cstnxh_advanced"
+  },
+  {
+    "id": "cstn_application",
+    "name": "CƠ SỞ TỰ NHIÊN VẬN DỤNG",
+    "icon": "🧠",
+    "color": "#db2777",
+    "desc": "Đề nâng cao cấp độ 1: LÝ - HÓA - SINH - SỬ - ĐỊA",
+    "subjects": [
+      "physics",
+      "chem",
+      "bio",
+      "his",
+      "geo"
+    ],
+    "practiceGroup": "cstn_application"
   },
   {
     "id": "gdhn",
@@ -14162,6 +15929,7 @@ const SUBJECT_GROUPS = [
     "icon": "🤝",
     "color": "#16a34a",
     "desc": "Đại cương, khiếm thính, khiếm thị, chậm phát triển trí tuệ, ngôn ngữ",
+    "practiceGroup": "gdhn",
     "subjects": [
       "gdhn_general",
       "gdhn_hearing",

@@ -7,6 +7,7 @@ let state = {
   mode: 'practice', // practice | exam
   subject: null,
   level: null,
+  practiceGroup: null,
   examDe: 1,
   timerSeconds: 0,
   timerMax: 0,
@@ -46,6 +47,8 @@ function renderHome() {
   const grid = document.getElementById('subject-grid');
   const totalQ = QUESTION_BANK.length;
   document.getElementById('total-q-count').textContent = totalQ;
+  const totalGroupCount = document.getElementById('total-group-count');
+  if (totalGroupCount) totalGroupCount.textContent = SUBJECT_GROUPS.length;
 
   const sectionTitle = document.getElementById('subject-section-title');
   if (!state.activeGroup) {
@@ -64,11 +67,10 @@ function renderHome() {
     }).join('');
   } else {
     const group = SUBJECT_GROUPS.find(g => g.id === state.activeGroup);
+    if (!group) { showGroups(); return; }
     const subjects = SUBJECTS.filter(s => group.subjects.includes(s.id));
     sectionTitle.innerHTML = `${sectionTitleIcon()}${group.name}`;
-    const cards = group.id === 'cstnxh'
-      ? subjects.map(s => renderCstnSubjectLevels(s)).join('')
-      : subjects.map(s => renderSubjectCard(s)).join('');
+    const cards = subjects.map(s => renderSubjectCard(s, group)).join('');
     grid.innerHTML = `<button class="btn-secondary btn-group-back" onclick="showGroups()">
       <span aria-hidden="true">←</span> Chủ đề lớn
     </button>` + cards;
@@ -84,11 +86,14 @@ function sectionTitleIcon() {
     stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect></svg>`;
 }
 
-function renderSubjectCard(s) {
-  const count = QUESTION_BANK.filter(q => q.subject === s.id).length;
-  const done = getSubjectProgress(s.id);
+function renderSubjectCard(s, group) {
+  const practiceGroup = group ? getGroupPracticeId(group) : null;
+  const questions = getSubjectPracticeQuestions(s.id, practiceGroup);
+  if (!questions.length) return '';
+  const count = questions.length;
+  const done = getSubjectPracticeProgress(s.id, practiceGroup);
   const pct = count > 0 ? Math.round((done / count) * 100) : 0;
-  return `<div class="subject-card" style="--card-color:${s.color}" onclick="startPractice('${s.id}')">
+  return `<div class="subject-card" style="--card-color:${s.color}" onclick="startPractice('${s.id}', null, '${practiceGroup || ''}')">
     <div class="card-icon" style="background:${s.color}15;color:${s.color}">${s.icon}</div>
     <div class="card-title">${s.name}</div>
     <div class="card-count">${count} câu hỏi • ${s.desc}</div>
@@ -130,16 +135,50 @@ function showSubjectGroup(groupId) {
 
 function getGroupQuestionCount(group) {
   const ids = new Set(group.subjects);
-  return QUESTION_BANK.filter(q => ids.has(q.subject)).length;
+  const practiceGroup = getGroupPracticeId(group);
+  return QUESTION_BANK.filter(q => ids.has(q.subject) && getQuestionPracticeGroup(q) === practiceGroup).length;
 }
 
 function getGroupProgress(group) {
-  return group.subjects.reduce((sum, sid) => sum + getSubjectProgress(sid), 0);
+  const practiceGroup = getGroupPracticeId(group);
+  return group.subjects.reduce((sum, sid) => sum + getSubjectPracticeProgress(sid, practiceGroup), 0);
 }
 
 function getSubjectProgress(sid) {
   const done = JSON.parse(localStorage.getItem('progress_' + sid) || '[]');
   return done.length;
+}
+
+function getGroupPracticeId(group) {
+  return group.practiceGroup || group.id;
+}
+
+function getPracticeGroupName(groupId) {
+  const group = SUBJECT_GROUPS.find(g => getGroupPracticeId(g) === groupId || g.id === groupId);
+  return group ? group.name : getLevelName(groupId);
+}
+
+function getQuestionPracticeGroup(q) {
+  if (q.practiceGroup) return q.practiceGroup;
+  if (q.subject && q.subject.startsWith('gdhn_')) return 'gdhn';
+  if (q.level === 'advanced1') return 'cstn_application';
+  const match = String(q.id || '').match(/_(\d+)$/);
+  const n = match ? parseInt(match[1]) : 0;
+  if ((q.subject === 'physics' && n >= 21 && n <= 119) ||
+      (q.subject === 'his' && n >= 32 && n <= 131) ||
+      (q.subject === 'geo' && n >= 61 && n <= 178)) {
+    return 'cstnxh_advanced';
+  }
+  return 'cstnxh';
+}
+
+function getSubjectPracticeQuestions(subjectId, practiceGroup) {
+  return QUESTION_BANK.filter(q => q.subject === subjectId && (!practiceGroup || getQuestionPracticeGroup(q) === practiceGroup));
+}
+
+function getSubjectPracticeProgress(subjectId, practiceGroup) {
+  const done = new Set(JSON.parse(localStorage.getItem('progress_' + subjectId) || '[]'));
+  return getSubjectPracticeQuestions(subjectId, practiceGroup).filter(q => done.has(q.id)).length;
 }
 
 function getLevelName(level) {
@@ -188,18 +227,24 @@ function showHome() {
   clearTimer();
   state.submitted = false;
   state.level = null;
+  state.practiceGroup = null;
   showScreen('home');
   renderHome();
   updateStats();
 }
 
 /* ===== START PRACTICE ===== */
-function startPractice(subjectId, level) {
-  const questions = QUESTION_BANK.filter(q => q.subject === subjectId && (!level || getQuestionLevel(q) === level));
+function startPractice(subjectId, level, practiceGroup) {
+  const questions = QUESTION_BANK.filter(q =>
+    q.subject === subjectId &&
+    (!level || getQuestionLevel(q) === level) &&
+    (!practiceGroup || getQuestionPracticeGroup(q) === practiceGroup)
+  );
   if (!questions.length) return;
   state.mode = 'practice';
   state.subject = SUBJECTS.find(s => s.id === subjectId);
   state.level = level || null;
+  state.practiceGroup = practiceGroup || null;
   state.quizQuestions = shuffleArray([...questions]);
   state.currentIndex = 0;
   state.answers = {};
@@ -207,7 +252,8 @@ function startPractice(subjectId, level) {
   state.startTime = Date.now();
   
   document.getElementById('quiz-title').textContent = state.subject.name;
-  document.getElementById('quiz-subtitle').textContent = `${getLevelName(level)} • ${questions.length} câu`;
+  const subtitle = practiceGroup ? getPracticeGroupName(practiceGroup) : getLevelName(level);
+  document.getElementById('quiz-subtitle').textContent = `${subtitle} • ${questions.length} câu`;
   document.getElementById('quiz-timer').style.display = 'none';
   
   showScreen('quiz');
@@ -297,6 +343,7 @@ function startExam() {
   state.answers = {};
   state.submitted = false;
   state.level = null;
+  state.practiceGroup = null;
   state.examCourse = course.id;
   state.startTime = Date.now();
   state.timerMax = mins * 60;
@@ -522,7 +569,7 @@ function doSubmit() {
     mode: state.mode,
     title: state.mode === 'exam'
       ? `${(EXAM_COURSES.find(c => c.id === state.examCourse) || EXAM_COURSES[0]).name} • Đề ${state.examDe}`
-      : `${state.subject.name}${state.level ? ' • ' + getLevelName(state.level) : ''}`,
+      : `${state.subject.name}${state.practiceGroup ? ' • ' + getPracticeGroupName(state.practiceGroup) : (state.level ? ' • ' + getLevelName(state.level) : '')}`,
     score, correct, wrong, skipped, total,
     time: `${String(em).padStart(2,'0')}:${String(es).padStart(2,'0')}`
   };
