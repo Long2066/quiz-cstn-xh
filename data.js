@@ -648,24 +648,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH"
   },
   {
-    "id": "geo_37",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Độ cao trung bình của Cao nguyên đá Đồng Văn so với mực nước biển khoảng",
-    "options": [
-      "100 - 200 m",
-      "500 - 700 m",
-      "1.400 - 1.600 m",
-      "3.000 - 4.000 m"
-    ],
-    "answer": 2,
-    "explanation": "Độ cao trung bình khoảng 1.400 - 1.600 m.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh",
-    "practiceGroupName": "CƠ SỞ TN&XH"
-  },
-  {
     "id": "geo_38",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -9810,24 +9792,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
-    "id": "geo_91",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Sau sáp nhập năm 2025, Hà Giang thuộc tỉnh:",
-    "options": [
-      "Cao Bằng",
-      "Lào Cai",
-      "Tuyên Quang",
-      "Thái Nguyên"
-    ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: Tuyên Quang.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
     "id": "geo_92",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -9840,24 +9804,6 @@ const QUESTION_BANK = [
     ],
     "answer": 1,
     "explanation": "Đáp án đúng là B: Hà Giang và Tuyên Quang.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
-    "id": "geo_93",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Tỉnh Tuyên Quang mới nằm ở vùng:",
-    "options": [
-      "Tây Nguyên",
-      "Đông Bắc Bắc Bộ",
-      "Nam Bộ",
-      "Bắc Trung Bộ"
-    ],
-    "answer": 1,
-    "explanation": "Đáp án đúng là B: Đông Bắc Bắc Bộ.",
     "level": "understanding",
     "levelName": "Đề thông hiểu",
     "practiceGroup": "cstnxh_advanced",
@@ -9936,42 +9882,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
-    "id": "geo_98",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Tỉnh Tuyên Quang mới có bao nhiêu thành phố?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": 0,
-    "explanation": "Đáp án đúng là A: 1.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
-    "id": "geo_99",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Thành phố của tỉnh Tuyên Quang mới theo tài liệu là:",
-    "options": [
-      "Đồng Văn",
-      "Mèo Vạc",
-      "Tuyên Quang",
-      "Bắc Quang"
-    ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: Tuyên Quang.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
     "id": "geo_100",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -10038,42 +9948,6 @@ const QUESTION_BANK = [
     ],
     "answer": 1,
     "explanation": "Đáp án đúng là B: 2.356 km².",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
-    "id": "geo_104",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Cao nguyên đá Đồng Văn gồm mấy huyện?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: 4.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
-    "id": "geo_105",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Huyện nào thuộc Công viên địa chất Đồng Văn?",
-    "options": [
-      "Đồng Văn",
-      "Mèo Vạc",
-      "Yên Minh",
-      "Tất cả đều đúng"
-    ],
-    "answer": 3,
-    "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
     "levelName": "Đề thông hiểu",
     "practiceGroup": "cstnxh_advanced",
@@ -10206,24 +10080,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
-    "id": "geo_113",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Huyện không thuộc Công viên địa chất Đồng Văn là:",
-    "options": [
-      "Bắc Quang",
-      "Đồng Văn",
-      "Mèo Vạc",
-      "Quản Bạ"
-    ],
-    "answer": 0,
-    "explanation": "Đáp án đúng là A: Bắc Quang.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
     "id": "geo_114",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -10290,24 +10146,6 @@ const QUESTION_BANK = [
     ],
     "answer": 0,
     "explanation": "Đáp án đúng là A: Du lịch.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
-    "id": "geo_118",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Địa hình chủ yếu của tỉnh Tuyên Quang mới là:",
-    "options": [
-      "Đồng bằng",
-      "Núi cao",
-      "Sa mạc",
-      "Ven biển"
-    ],
-    "answer": 1,
-    "explanation": "Đáp án đúng là B: Núi cao.",
     "level": "understanding",
     "levelName": "Đề thông hiểu",
     "practiceGroup": "cstnxh_advanced",
@@ -10422,24 +10260,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
-    "id": "geo_125",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Mèo Vạc là:",
-    "options": [
-      "Thành phố",
-      "Huyện",
-      "Quận",
-      "Quốc gia"
-    ],
-    "answer": 1,
-    "explanation": "Đáp án đúng là B: Huyện.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
     "id": "geo_126",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -10548,24 +10368,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
-    "id": "geo_132",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Mặt Trời lên thiên đỉnh mấy lần/năm ở nội chí tuyến?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": 1,
-    "explanation": "Đáp án đúng là B: 2.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
     "id": "geo_133",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -10668,24 +10470,6 @@ const QUESTION_BANK = [
     ],
     "answer": 1,
     "explanation": "Đáp án đúng là B: Sông.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
-    "id": "geo_139",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Tỉnh Tuyên Quang mới có trung tâm hành chính là:",
-    "options": [
-      "Hà Giang",
-      "Tuyên Quang",
-      "Đồng Văn",
-      "Mèo Vạc"
-    ],
-    "answer": 1,
-    "explanation": "Đáp án đúng là B: Tuyên Quang.",
     "level": "understanding",
     "levelName": "Đề thông hiểu",
     "practiceGroup": "cstnxh_advanced",
@@ -10854,24 +10638,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
-    "id": "geo_149",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Đặc điểm nổi bật của tỉnh Tuyên Quang mới là:",
-    "options": [
-      "Nhiều dân tộc",
-      "Núi đá hùng vĩ",
-      "Cảnh quan đẹp",
-      "Tất cả đều đúng"
-    ],
-    "answer": 3,
-    "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
     "id": "geo_150",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -10920,24 +10686,6 @@ const QUESTION_BANK = [
     ],
     "answer": 0,
     "explanation": "Đáp án đúng là A: Núi đá tai mèo.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
-    "id": "geo_153",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Tỉnh mới có điều kiện phát triển:",
-    "options": [
-      "Du lịch sinh thái",
-      "Du lịch địa chất",
-      "Du lịch văn hóa",
-      "Tất cả đều đúng"
-    ],
-    "answer": 3,
-    "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
     "level": "understanding",
     "levelName": "Đề thông hiểu",
     "practiceGroup": "cstnxh_advanced",
@@ -11006,24 +10754,6 @@ const QUESTION_BANK = [
       "Giao thông",
       "Xây dựng",
       "Sản xuất",
-      "Tất cả đều đúng"
-    ],
-    "answer": 3,
-    "explanation": "Đáp án đúng là D: Tất cả đều đúng.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
-    "id": "geo_158",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Tuyên Quang mới có tiềm năng lớn về:",
-    "options": [
-      "Du lịch",
-      "Văn hóa dân tộc",
-      "Cảnh quan thiên nhiên",
       "Tất cả đều đúng"
     ],
     "answer": 3,
@@ -11304,24 +11034,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
   },
   {
-    "id": "geo_174",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Tọa độ phía Bắc của Tuyên Quang khoảng:",
-    "options": [
-      "20°10’B",
-      "21°23’B",
-      "23°23’B",
-      "24°30’B"
-    ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: 23°23’B.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
     "id": "geo_175",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -11352,24 +11064,6 @@ const QUESTION_BANK = [
     ],
     "answer": 3,
     "explanation": "Đáp án đúng là D: Có nguồn gốc núi lửa bazan.",
-    "level": "understanding",
-    "levelName": "Đề thông hiểu",
-    "practiceGroup": "cstnxh_advanced",
-    "practiceGroupName": "CƠ SỞ TN&XH NÂNG CAO"
-  },
-  {
-    "id": "geo_177",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "question": "Độ cao trung bình của Cao nguyên đá Đồng Văn khoảng:",
-    "options": [
-      "200 – 400 m",
-      "500 – 800 m",
-      "1.000 – 1.600 m",
-      "2.000 – 2.500 m"
-    ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: 1.000 – 1.600 m.",
     "level": "understanding",
     "levelName": "Đề thông hiểu",
     "practiceGroup": "cstnxh_advanced",
@@ -11983,25 +11677,6 @@ const QUESTION_BANK = [
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
   {
-    "id": "geo_adv1_32",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 2",
-    "question": "Tuyên Quang mới được xác định thuộc vùng nào theo nội dung ôn tập?",
-    "options": [
-      "Đông Bắc Bắc Bộ",
-      "Đồng bằng sông Hồng",
-      "Tây Bắc Bắc Bộ",
-      "Bắc Trung Bộ"
-    ],
-    "answer": 0,
-    "explanation": "Đáp án đúng là A: Đông Bắc Bắc Bộ.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
     "id": "geo_adv1_33",
     "subject": "geo",
     "subjectName": "Địa lí Tự nhiên",
@@ -12188,25 +11863,6 @@ const QUESTION_BANK = [
     ],
     "answer": 3,
     "explanation": "Đáp án đúng là D: Diện tích Cao nguyên đá Đồng Văn.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
-    "id": "geo_adv1_43",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 2",
-    "question": "Phương án nào nêu đúng số thành phố trong tỉnh Tuyên Quang mới theo tài liệu?",
-    "options": [
-      "2 thành phố",
-      "1 thành phố",
-      "3 thành phố",
-      "4 thành phố"
-    ],
-    "answer": 1,
-    "explanation": "Đáp án đúng là B: 1 thành phố.",
     "practiceGroup": "cstn_application",
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
@@ -12435,25 +12091,6 @@ const QUESTION_BANK = [
     ],
     "answer": 1,
     "explanation": "Đáp án đúng là B: Địa hình đá vôi khắc nghiệt nhưng tạo cảnh quan, bản sắc văn hóa và tiềm năng du lịch - giáo dục.",
-    "practiceGroup": "cstn_application",
-    "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
-  },
-  {
-    "id": "geo_adv1_56",
-    "subject": "geo",
-    "subjectName": "Địa lí Tự nhiên",
-    "level": "advanced1",
-    "levelName": "Đề nâng cao cấp độ 1",
-    "sourceTopic": "Chủ đề 2",
-    "question": "Với câu hỏi 'Tuyên Quang mới có bao nhiêu thành phố?', đáp án đúng theo tài liệu là:",
-    "options": [
-      "4 thành phố",
-      "3 thành phố",
-      "2 thành phố",
-      "1 thành phố"
-    ],
-    "answer": 3,
-    "explanation": "Đáp án đúng là D: 1 thành phố.",
     "practiceGroup": "cstn_application",
     "practiceGroupName": "CƠ SỞ TỰ NHIÊN VẬN DỤNG"
   },
