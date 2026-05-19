@@ -11296,8 +11296,8 @@ const QUESTION_BANK = [
       "137 đơn vị hành chính cấp xã",
       "150 đơn vị hành chính cấp xã"
     ],
-    "answer": 2,
-    "explanation": "Đáp án đúng là C: 137 đơn vị hành chính cấp xã.",
+    "answer": 1,
+    "explanation": "Đáp án đúng là B: 124 đơn vị hành chính cấp xã.",
     "level": "understanding",
     "levelName": "Đề thông hiểu",
     "practiceGroup": "cstnxh_advanced",
