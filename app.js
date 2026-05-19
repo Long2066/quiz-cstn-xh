@@ -6,6 +6,7 @@ let state = {
   answers: {},
   mode: 'practice', // practice | exam
   subject: null,
+  level: null,
   examDe: 1,
   timerSeconds: 0,
   timerMax: 0,
@@ -65,20 +66,12 @@ function renderHome() {
     const group = SUBJECT_GROUPS.find(g => g.id === state.activeGroup);
     const subjects = SUBJECTS.filter(s => group.subjects.includes(s.id));
     sectionTitle.innerHTML = `${sectionTitleIcon()}${group.name}`;
+    const cards = group.id === 'cstnxh'
+      ? subjects.map(s => renderCstnSubjectLevels(s)).join('')
+      : subjects.map(s => renderSubjectCard(s)).join('');
     grid.innerHTML = `<button class="btn-secondary btn-group-back" onclick="showGroups()">
       <span aria-hidden="true">←</span> Chủ đề lớn
-    </button>` + subjects.map(s => {
-      const count = QUESTION_BANK.filter(q => q.subject === s.id).length;
-      const done = getSubjectProgress(s.id);
-      const pct = count > 0 ? Math.round((done / count) * 100) : 0;
-      return `<div class="subject-card" style="--card-color:${s.color}" onclick="startPractice('${s.id}')">
-        <div class="card-icon" style="background:${s.color}15;color:${s.color}">${s.icon}</div>
-        <div class="card-title">${s.name}</div>
-        <div class="card-count">${count} câu hỏi • ${s.desc}</div>
-        <div class="card-progress"><div class="card-progress-fill" style="width:${pct}%;background:${s.color}"></div></div>
-        <div class="card-btn">Bắt đầu ôn tập →</div>
-      </div>`;
-    }).join('');
+    </button>` + cards;
   }
 
   renderExamCourseOptions();
@@ -89,6 +82,40 @@ function renderHome() {
 function sectionTitleIcon() {
   return `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
     stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect></svg>`;
+}
+
+function renderSubjectCard(s) {
+  const count = QUESTION_BANK.filter(q => q.subject === s.id).length;
+  const done = getSubjectProgress(s.id);
+  const pct = count > 0 ? Math.round((done / count) * 100) : 0;
+  return `<div class="subject-card" style="--card-color:${s.color}" onclick="startPractice('${s.id}')">
+    <div class="card-icon" style="background:${s.color}15;color:${s.color}">${s.icon}</div>
+    <div class="card-title">${s.name}</div>
+    <div class="card-count">${count} câu hỏi • ${s.desc}</div>
+    <div class="card-progress"><div class="card-progress-fill" style="width:${pct}%;background:${s.color}"></div></div>
+    <div class="card-btn">Bắt đầu ôn tập →</div>
+  </div>`;
+}
+
+function renderCstnSubjectLevels(s) {
+  const levels = [
+    {id: 'understanding', name: 'Đề thông hiểu', desc: 'Câu hỏi thông hiểu và luyện tập nền tảng'},
+    {id: 'advanced1', name: 'Đề nâng cao cấp độ 1', desc: 'Câu hỏi vận dụng cao, đáp án nhiễu mạnh'}
+  ];
+  return levels.map(level => {
+    const questions = getSubjectLevelQuestions(s.id, level.id);
+    if (!questions.length) return '';
+    const done = getSubjectLevelProgress(s.id, level.id);
+    const pct = Math.round((done / questions.length) * 100);
+    return `<div class="subject-card level-card" style="--card-color:${s.color}" onclick="startPractice('${s.id}', '${level.id}')">
+      <div class="card-icon" style="background:${s.color}15;color:${s.color}">${s.icon}</div>
+      <div class="card-title">${s.name}</div>
+      <div class="card-level">${level.name}</div>
+      <div class="card-count">${questions.length} câu hỏi • ${level.desc}</div>
+      <div class="card-progress"><div class="card-progress-fill" style="width:${pct}%;background:${s.color}"></div></div>
+      <div class="card-btn">Bắt đầu ôn tập →</div>
+    </div>`;
+  }).join('');
 }
 
 function showGroups() {
@@ -113,6 +140,25 @@ function getGroupProgress(group) {
 function getSubjectProgress(sid) {
   const done = JSON.parse(localStorage.getItem('progress_' + sid) || '[]');
   return done.length;
+}
+
+function getLevelName(level) {
+  if (level === 'advanced1') return 'Đề nâng cao cấp độ 1';
+  if (level === 'understanding') return 'Đề thông hiểu';
+  return 'Ôn tập';
+}
+
+function getQuestionLevel(q) {
+  return q.level || 'understanding';
+}
+
+function getSubjectLevelQuestions(subjectId, level) {
+  return QUESTION_BANK.filter(q => q.subject === subjectId && getQuestionLevel(q) === level);
+}
+
+function getSubjectLevelProgress(subjectId, level) {
+  const done = new Set(JSON.parse(localStorage.getItem('progress_' + subjectId) || '[]'));
+  return getSubjectLevelQuestions(subjectId, level).filter(q => done.has(q.id)).length;
 }
 
 function markProgress(sid, qid) {
@@ -141,17 +187,19 @@ function showScreen(id) {
 function showHome() {
   clearTimer();
   state.submitted = false;
+  state.level = null;
   showScreen('home');
   renderHome();
   updateStats();
 }
 
 /* ===== START PRACTICE ===== */
-function startPractice(subjectId) {
-  const questions = QUESTION_BANK.filter(q => q.subject === subjectId);
+function startPractice(subjectId, level) {
+  const questions = QUESTION_BANK.filter(q => q.subject === subjectId && (!level || getQuestionLevel(q) === level));
   if (!questions.length) return;
   state.mode = 'practice';
   state.subject = SUBJECTS.find(s => s.id === subjectId);
+  state.level = level || null;
   state.quizQuestions = shuffleArray([...questions]);
   state.currentIndex = 0;
   state.answers = {};
@@ -159,7 +207,7 @@ function startPractice(subjectId) {
   state.startTime = Date.now();
   
   document.getElementById('quiz-title').textContent = state.subject.name;
-  document.getElementById('quiz-subtitle').textContent = `Ôn tập • ${questions.length} câu`;
+  document.getElementById('quiz-subtitle').textContent = `${getLevelName(level)} • ${questions.length} câu`;
   document.getElementById('quiz-timer').style.display = 'none';
   
   showScreen('quiz');
@@ -248,6 +296,7 @@ function startExam() {
   state.currentIndex = 0;
   state.answers = {};
   state.submitted = false;
+  state.level = null;
   state.examCourse = course.id;
   state.startTime = Date.now();
   state.timerMax = mins * 60;
@@ -473,7 +522,7 @@ function doSubmit() {
     mode: state.mode,
     title: state.mode === 'exam'
       ? `${(EXAM_COURSES.find(c => c.id === state.examCourse) || EXAM_COURSES[0]).name} • Đề ${state.examDe}`
-      : state.subject.name,
+      : `${state.subject.name}${state.level ? ' • ' + getLevelName(state.level) : ''}`,
     score, correct, wrong, skipped, total,
     time: `${String(em).padStart(2,'0')}:${String(es).padStart(2,'0')}`
   };
